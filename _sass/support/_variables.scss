@@ -234,6 +234,9 @@ $nav-list-item-height: $sp-6 !default;
 $nav-list-item-height-sm: $sp-8 !default;
 $nav-list-expander-right: true;
 $content-width: 800px !default;
+$content-width-md: 800px !default;
+$content-width-lg: 900px !default;
+$content-width-xl: 1100px !default;
 $header-height: 60px !default;
 $search-results-width: $content-width - $nav-width !default;
 $transition-duration: 400ms;
@@ -245,7 +248,7 @@ $transition-duration: 400ms;
 $media-queries: (
   xs: 320px,
   sm: 500px,
-  md: $content-width,
-  lg: $content-width + $nav-width,
+  md: $content-width-md,
+  lg: $content-width-lg + $nav-width,
   xl: 1400px,
 ) !default;

@@ -28,7 +28,7 @@
 .main {
   @include mq(md) {
     position: relative;
-    max-width: $content-width;
+    max-width: $content-width-md;
     margin-left: $nav-width-md;
   }
 
@@ -36,6 +36,15 @@
     // margin-left: calc(
     //                  (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
     //               );
+    max-width: $content-width-lg;
+    margin-left: $nav-width-lg;
+  }
+
+  @include mq(lg) {
+    // margin-left: calc(
+    //                  (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
+    //               );
+    max-width: $content-width-xl;
     margin-left: $nav-width-lg;
   }
 }
