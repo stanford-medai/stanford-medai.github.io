@@ -71,6 +71,91 @@ $red-100: #f96e65 !default;
 $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
 
+//
+// Stanford Colors
+// General: https://web.stanford.edu/group/webdev/identity/public/color.html
+// Primary Colors: https://identity.stanford.edu/design-elements/color/primary-colors/
+// Accent Colors: https://identity.stanford.edu/design-elements/color/accent-colors/
+// Medicine Colors: https://med.stanford.edu/identity/color-palette.html
+//
+
+$cardinal-red: #8c1515 !default;
+$cardinal-red-light: #B83A4B !default;
+$cardinal-red-dark: #820000 !default;
+
+$cardinal-black: #2E2D29 !default;
+$cardinal-sandstone: #d2c295 !default;
+$cool-grey: #53565A !default;
+$text-grey: #333333 !default;
+
+$grey-90: #43423E !default;
+$grey-80: #585754 !default;
+$grey-70: #6D6C69 !default;
+$grey-60: #767674 !default;
+$grey-50: #979694 !default;
+$grey-40: #ABABA9 !default;
+$grey-30: #C0C0BF !default;
+$grey-20: #D5D5D4 !default;
+$grey-10: #EAEAEA !default;
+
+$stone:#7F7776 !default;
+$stone-dark: #544948 !default;
+$stone-light: #D4D1D1 !default;
+
+$fog: #DAD7CB !default;
+$fog-dark: #B6B1A9 !default;
+$fog-light: #F4F4F4 !default;
+
+$palo-alto: #175E54 !default;
+$palo-alto-light: #2D716F !default;
+$palo-alto-dark: #014240 !default;
+
+$palo-verde: #279989 !default;
+$palo-verde-light: #59B3A9 !default;
+$palo-verde-dark: #017E7C !default;
+
+$olive: #8F993E !default;
+$olive-light: #A6B168 !default;
+$olive-dark: #7A863B !default;
+
+$bay: #6FA287 !default;
+$bay-light: #8AB8A7 !default;
+$bay-dark: #417865 !default;
+
+$sky: #4298B5 !default;
+$sky-light: #67AFD2 !default;
+$sky-dark: #016895 !default;
+
+$lagunita: #007C92 !default;
+$lagunita-light: #009AB4 !default;
+$lagunita-dark: #006B81 !default;
+
+$poppy: #E98300 !default;
+$poppy-light: #F9A44A !default;
+$poppy-dark: #D1660F !default;
+
+$spirited: #E04F39 !default;
+$spirited-light: #F4795B !default;
+$spirited-dark: #C74632 !default;
+
+$illuminating: #FEDD5C !default;
+$illuminating-light: #FFE781 !default;
+$illuminating-dark: #FEC51D !default;
+
+$plum: #620059 !default;
+$plum-light: #734675 !default;
+$plum-dark: #350D36 !default;
+
+$brick: #651C32 !default;
+$brick-light: #7F2D48 !default;
+$brick-dark: #42081B !default;
+
+$archway: #5D4B3C !default;
+$archway-light: #766253 !default;
+$archway-dark: #2F2424 !default;
+
+$beige-100: #9d9573 !default;
+
 $body-background-color: $white !default;
 $sidebar-color: $grey-lt-000 !default;
 $search-background-color: $white !default;
