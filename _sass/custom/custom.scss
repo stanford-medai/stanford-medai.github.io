@@ -1,5 +1,70 @@
 h1,
 .text-alpha {
-  @include fs-8;
-  font-weight: 500;
+    @include fs-8;
+    font-weight: 500;
 }
+
+// increase base font size
+html {
+    @include fs-5;
+}
+
+// increase code font-size
+code {
+    font-size: 0.85em;
+}
+
+// change H3 to be bolder and in grey
+h3,
+.text-gamma {
+    font-weight: 600;
+    color: $lagunita;
+
+}
+
+// add space below H3 (subheading)
+.main-content h3{
+    margin-bottom: 0.8em;
+}
+
+// increase H4 font size
+h4,
+.text-delta {
+  @include fs-3;
+}
+
+// add margin-top for paragraphs after headings
+.main-content {
+    h1, h2, h3, h4, h5, h6 {
+        + p {
+            margin-top: 1em;
+        }
+    }
+}
+
+// increase nav item font size
+.nav-list .nav-list-item {
+    @include fs-4;
+
+    @include mq(md) {
+        @include fs-4;
+      }
+}
+
+// increase aux-nav item font size
+.aux-nav {
+    @include fs-4;
+
+}
+
+// increase search input font size
+.search-input {
+    @include fs-4;
+
+}
+
+// increase footer font size
+.site-footer {
+    @include fs-3;
+}
+
