@@ -214,3 +214,24 @@ body {
   height: $sp-5;
   color: $menu-button-color;
 }
+
+.footer-container {
+  flex-direction: column;
+  padding-top: $sp-5;
+  padding-bottom: $sp-5;
+  padding-right: $sp-5;
+  padding-left: $sp-5;
+  color: $grey-dk-000;
+  @include fs-4;
+
+  @include mq(md) {
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.footer-child {
+  margin-top: $sp-2;
+  margin-bottom: $sp-2;
+}
