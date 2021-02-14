@@ -4,7 +4,8 @@
 
 $body-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
   Roboto, "Helvetica Neue", Arial, sans-serif !default;
-$body-font-family: 'Source Sans Pro', sans-serif;
+$body-font-family: 'Source Sans Pro', sans-serif; // overrides previous
+
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
 $root-font-size: 16px !default; // Base font-size for rems
 $body-line-height: 1.4 !default;
@@ -155,6 +156,11 @@ $archway-light: #766253 !default;
 $archway-dark: #2F2424 !default;
 
 $beige-100: #9d9573 !default;
+$beige-light: #f7f7f7 !default;
+
+// end stanford colors
+
+// default color scheme
 
 $body-background-color: $white !default;
 $sidebar-color: $grey-lt-000 !default;
