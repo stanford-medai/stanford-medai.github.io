@@ -7,18 +7,30 @@ $body-heading-color: $grey-dk-300;
 $title-color: $white !important;
 
 $nav-parent-link-color: $white; // side bar nav top level link
-$nav-expander-link-color: $beige-light; // side bar arrow (usually same as top level)
-$nav-child-link-color: $beige-light; // side bar child level link
+$nav-expander-link-color: $fog; // side bar arrow (usually same as top level)
+$nav-child-link-color: $fog; // side bar child level link
 
 $aux-nav-link-color: $cardinal-red-dark; // aux nav link
 $menu-button-color: $cardinal-red-dark; // menu-button in small layouts
 
+$nav-active-background: $cardinal-red-dark;
+$nav-active-color: $white;
+$nav-hover-background: $white;
+$nav-hover-color: $cardinal-red;
+$nav-active-background-child: $cardinal-red-dark;
+$nav-active-color-child: $fog;
+$nav-hover-background-child: $fog;
+$nav-hover-color-child: $cardinal-red;
+
 $side-footer-color: $white;
 $side-footer-link-color: $beige-light;
 
-$subheading-color: $lagunita;
+$subheading-color: $stone;
 
 $link-color: $cardinal-red;
+$link-underline-color: $fog;
+$link-underline-hover-color: $cardinal-red;
+
 $btn-primary-color: $cardinal-red;
 $base-button-color: $beige-light;
 
