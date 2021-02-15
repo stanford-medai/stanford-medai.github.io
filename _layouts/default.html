@@ -65,9 +65,6 @@ layout: table_wrappers
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
-    <footer class="site-footer">
-      {% include sidebar-footer.html %}
-    </footer>
   </div>
   <div class="main" id="top">
     <div id="main-header" class="main-header">
@@ -172,6 +169,9 @@ layout: table_wrappers
             {% endif %}
           </footer>
         {% endif %}
+        <footer class="site-footer">
+          {% include sidebar-footer.html %}
+        </footer>
 
       </div>
     </div>

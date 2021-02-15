@@ -83,8 +83,7 @@
 }
 
 .site-nav,
-.site-header,
-.site-footer {
+.site-header {
   width: 100%;
 
   @include mq(lg) {
@@ -186,6 +185,7 @@ body {
 // stylelint-enable selector-max-type
 
 .site-footer {
+  width: 100%;
   @include container;
   position: absolute;
   bottom: 0;
@@ -193,6 +193,7 @@ body {
   padding-top: $sp-4;
   padding-bottom: $sp-4;
   color: $side-footer-color;
+  background-color: $side-footer-background-color;
   @include fs-2;
 
   a {
