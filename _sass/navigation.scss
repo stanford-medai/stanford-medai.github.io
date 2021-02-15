@@ -48,16 +48,14 @@
       &.active {
         font-weight: 600;
         text-decoration: none;
+        background-color: $nav-active-background;
+        color: $nav-active-color;
       }
 
-      &:hover,
-      &.active {
-        background-image: linear-gradient(
-          -90deg,
-          rgba($feedback-color, 1) 0%,
-          rgba($feedback-color, 0.8) 80%,
-          rgba($feedback-color, 0) 100%
-        );
+      &:hover {
+        background-color: $nav-hover-background;
+        color: $nav-hover-color;
+        font-weight: 600;
       }
     }
 
@@ -84,11 +82,8 @@
       }
 
       &:hover {
-        background-image: linear-gradient(
-          -90deg,
-          rgba($feedback-color, 1) 0%,
-          rgba($feedback-color, 0.8) 100%
-        );
+        background-color: $nav-hover-background;
+        color: $nav-hover-color;
       }
 
       @if $nav-list-expander-right {
@@ -108,6 +103,19 @@
 
         .nav-list-link {
           color: $nav-child-link-color;
+
+          &.active {
+            font-weight: 600;
+            text-decoration: none;
+            background-color: $nav-active-background-child;
+            color: $nav-active-color-child;
+          }
+    
+          &:hover {
+            background-color: $nav-hover-background-child;
+            color: $nav-hover-color-child;
+            font-weight: 600;
+          }
         }
 
         .nav-list-expander {

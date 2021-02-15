@@ -175,8 +175,18 @@ $search-result-preview-color: $grey-dk-000 !default;
 $nav-parent-link-color: $purple-000 !default;
 $nav-expander-link-color: $purple-000 !default;
 $nav-child-link-color: $grey-dk-100 !default;
+$nav-hover-background: $white !default;
+$nav-hover-color: $cardinal-red !default;
+$nav-active-background: $cardinal-red-dark !default;
+$nav-active-color: $white !default;
+$nav-active-background-child: $cardinal-red-dark !default;
+$nav-active-color-child: $beige-100 !default;
+$nav-hover-background-child: $beige-100 !default;
+$nav-hover-color-child: $cardinal-red !default;
 $aux-nav-link-color: $purple-000 !default;
 $link-color: $purple-000 !default;
+$link-underline-color: $grey-70 !default;
+$link-underline-hover-color: $cardinal-red !default;
 $btn-primary-color: $purple-100 !default;
 $base-button-color: #f7f7f7 !default;
 
@@ -186,6 +196,8 @@ $title-color: $grey-dk-300 !default;
 
 $side-footer-color: $nav-parent-link-color !default;
 $side-footer-link-color: $nav-child-link-color !default;
+
+$subheading-color: $grey-dk-200 !default;
 
 $menu-button-color: $purple-000 !default;
 
