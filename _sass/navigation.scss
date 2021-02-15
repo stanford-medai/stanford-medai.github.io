@@ -186,7 +186,11 @@
 
     .site-button {
       color: $aux-nav-link-color;
-  }
+    }
+    .site-button:hover {
+      background-color: $aux-nav-hover-background;
+      color: $aux-nav-hover-color;
+    }
   }
 
   @include mq(md) {
