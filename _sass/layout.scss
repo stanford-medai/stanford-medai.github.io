@@ -200,8 +200,22 @@ body {
   left: 0;
   padding-top: $sp-4;
   padding-bottom: $sp-4;
-  color: $grey-dk-000;
+  color: $side-footer-color;
   @include fs-2;
+
+  a {
+    color: $side-footer-link-color;
+    border-bottom: 1px $side-footer-link-color dashed;
+    text-decoration: none;
+    background-image: none;
+
+    &:hover {
+      color: $side-footer-link-color !important;
+      border-bottom: 1px $side-footer-link-color dashed !important;
+      font-weight: 600;
+      background-image: none;
+    }
+  }
 
   @include mq(md) {
     position: static;
