@@ -233,11 +233,34 @@ body {
   @include mq(md) {
     flex-flow: row wrap;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
   }
+
+  .text-center-new {
+    text-align: left;
+    @include mq(md) {
+      text-align: center;
+    }
+  }
+
+  .text-right-new {
+    text-align: left;
+    @include mq(md) {
+      text-align: right;
+    }
+  }
+
 }
 
 .footer-child {
   margin-top: $sp-2;
   margin-bottom: $sp-2;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  @include fs-3;
+
+  @include mq(md) {
+    width: 20%;
+  }
 }
