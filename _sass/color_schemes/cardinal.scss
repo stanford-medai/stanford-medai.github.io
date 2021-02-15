@@ -1,23 +1,24 @@
 $body-background-color: $white;
-$sidebar-color: $grey-lt-000;
+$sidebar-color: $cardinal-red;
 $border-color: $grey-lt-100;
 
 $body-text-color: $grey-dk-100;
 $body-heading-color: $grey-dk-300;
+$title-color: $white !important;
 
-$nav-parent-link-color: $purple-000; // side bar nav top level link
-$nav-expander-link-color: $purple-000; // side bar arrow (usually same as top level)
-$nav-child-link-color: $grey-dk-100; // side bar child level link
+$nav-parent-link-color: $white; // side bar nav top level link
+$nav-expander-link-color: $beige-light; // side bar arrow (usually same as top level)
+$nav-child-link-color: $beige-light; // side bar child level link
 
-$aux-nav-link-color: $blue-000; // aux nav link
-$menu-button-color: $blue-000; // menu-button in small layouts
+$aux-nav-link-color: $cardinal-red-dark; // aux nav link
+$menu-button-color: $cardinal-red-dark; // menu-button in small layouts
 
-$link-color: $purple-000;
-$btn-primary-color: $purple-100;
+$link-color: $cardinal-red;
+$btn-primary-color: $cardinal-red;
 $base-button-color: $beige-light;
 
 $selection-color: $white;
-$selection-background: $link-color;
+$selection-background: $palo-verde;
 
 $code-background-color: $grey-lt-000;
 
