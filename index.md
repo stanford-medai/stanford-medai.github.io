@@ -14,8 +14,8 @@ As AI researchers in this field, our goal is to foster communication - we want o
 
 We will be having weekly sessions where invited speakers will give a talk presenting their work followed by an interactive discussion and Q&A. All sessions will be recorded and the recording sessions will be available for viewership later.
 
-[Mailing List](){: .btn .btn-primary .mr-4} 
-[YouTube Channel](){: .btn .btn-primary}
+[Mailing List](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary .mr-4} 
+[YouTube Channel](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary}
 
 ## Forum
 We will be having weekly sessions where invited speakers will give a talk presenting their work followed by an interactive discussion and Q&A. All sessions will be recorded and the recording sessions will be available for viewership later.
