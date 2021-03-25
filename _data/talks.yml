@@ -1,0 +1,47 @@
+# - speaker:
+#   type: upcoming (or previous)
+#   date:
+#   title:
+#   abstract:
+#   bio:
+#   livestream:
+#   recording:
+
+#### Previous talks: make sure order is right. Can just replace upcoming with previous in place
+
+- speaker: Amirata Ghorbani
+  type: upcoming
+  date: 4/1/21
+
+- speaker: Michael Zhang
+  type: upcoming
+  date: 4/8/21
+
+- speaker: Sarah Hooper
+  type: upcoming
+  date: 4/15/21
+
+- speaker: Joseph Cohen
+  type: upcoming
+  date: 4/22/21
+
+- speaker: Pradeeban Kathiravelu
+  type: upcoming
+  date: 4/29/21
+
+- speaker: Angshuman Paul
+  type: upcoming
+  date: 5/6/21
+
+- speaker: Xiaoyuan Guo
+  type: upcoming
+  date: 5/13/21
+
+- speaker: Sudarsan Sadasivuni
+  type: upcoming
+  date: 5/20/21
+
+- speaker: Amara Tariq
+  type: upcoming
+  date: 5/27/21
+

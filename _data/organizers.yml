@@ -1,0 +1,23 @@
+- name: Nandita Bhaskhar
+  position: PhD Candidate
+  institution: Stanford University
+  email: nanbhas@stanford.edu
+  website: https://www.stanford.edu/~nanbhas
+  bio: Nandita Bhaskhar is a PhD candidate in the Department of Electrical Engineering at Stanford University. Her current research focuses on observational supervision and self-supervision for leveraging unlabelled medical data and out-of-distribution detection for reliable clinical deployment. 
+  image: assets/images/nandita-bhaskhar.jpg
+
+# - name: Siyi Tang
+#   position: PhD Candidate
+#   institution: Stanford University
+#   email: 
+#   website: 
+#   bio: 
+#   image: assets/images/siyi-tang.jpg
+
+- name: Daniel L Rubin
+  position: Professor
+  institution: Stanford University
+  email: dlrubin@stanford.edu
+  website: https://rubinlab.stanford.edu/
+  bio: Daniel Rubin is Professor in the Departments of Biomedical Data Science, Radiology, and Medicine (Biomedical Informatics), and by courtesy, of Computer Science and Ophthalmology at Stanford University. Work in the lab lies at the intersection of biomedical informatics and imaging science.  
+  image: assets/images/daniel-rubin.jpg
