@@ -5,7 +5,6 @@ nav_order: 6
 ---
 
 # Organizers
-<br>
 
 <div class="people-container">
   {% for person in site.data.organizers %}
