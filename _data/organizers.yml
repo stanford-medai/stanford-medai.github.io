@@ -6,13 +6,13 @@
   bio: Nandita Bhaskhar is a PhD candidate in the Department of Electrical Engineering at Stanford University. Her current research focuses on observational supervision and self-supervision for leveraging unlabelled medical data and out-of-distribution detection for reliable clinical deployment. 
   image: assets/images/nandita-bhaskhar.jpg
 
-# - name: Siyi Tang
-#   position: PhD Candidate
-#   institution: Stanford University
-#   email: 
-#   website: 
-#   bio: 
-#   image: assets/images/siyi-tang.jpg
+- name: Siyi Tang
+  position: PhD Candidate
+  institution: Stanford University
+  email: siyitang@stanford.edu
+  website: https://siyitang.me
+  bio: Siyi Tang is a PhD student in Electrical Engineering at Stanford University advised by Prof. Daniel Rubin. Her research interests lie in the intersection of machine learning and medicine. She develops ML methods for medical applications by leveraging the important characteristics in medical data and works closely with clinical experts. 
+  image: assets/images/siyi-tang.jpg
 
 - name: Daniel L Rubin
   position: Professor
