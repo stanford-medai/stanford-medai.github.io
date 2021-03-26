@@ -17,9 +17,7 @@ We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1s
 [Mailing List](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary .mr-4} 
 [YouTube Channel](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary}
 
-One of the main strengths of our forum would be to foster collaboration across institutions and increase networking. 
-
-Currently, three AI groups on healthcare informatics are participating in this forum with distinct background and expertise: 
+One of the main strengths of our forum would be to foster collaboration across institutions and increase networking. Currently, three AI groups on healthcare informatics are participating in this forum with distinct background and expertise: 
 - [Rubin Lab](https://rubinlab.stanford.edu) (**Stanford University**)
 - [Banerjee Lab](https://sites.google.com/stanford.edu/imon-banerjee-stanford/home?authuser=0) (**Emory University**)
 - [Summers Lab](https://www.cc.nih.gov/meet-our-doctors/rsummers.html) (**National Institute of Health (NIH)**)
