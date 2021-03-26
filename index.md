@@ -16,7 +16,8 @@ One of the main strengths of our forum would be to foster collaboration across i
 
 Currently, three AI groups on healthcare informatics are participating in this forum with distinct background and expertise: 
 - [Rubin Lab](https://rubinlab.stanford.edu) (**Stanford University**)
-- [Banerjee Lab](https://sites.google.com/stanford.edu/imon-banerjee-stanford/home?authuser=0) (**Emory University**) - [Summers Lab](https://www.cc.nih.gov/meet-our-doctors/rsummers.html) (**National Institute of Health (NIH)**)
+- [Banerjee Lab](https://sites.google.com/stanford.edu/imon-banerjee-stanford/home?authuser=0) (**Emory University**)
+- [Summers Lab](https://www.cc.nih.gov/meet-our-doctors/rsummers.html) (**National Institute of Health (NIH)**)
 
 We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where invited speakers will give a talk presenting their work followed by an interactive discussion and Q&A. All sessions will be recorded and the recordings will be available for viewership later. Check out our [About]({{ 'about' | relative_url}}) page for more details.
 
