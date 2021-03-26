@@ -12,11 +12,7 @@ Machine learning and deep networks are transforming the field of medicine in exc
 
 As AI researchers in this field, our goal is to foster communication - we want our forum to be a place where we can critically examine key topics in AI and medicine, generate fresh ideas and discussion around their intersection and most importantly, learn from each other.
 
-<<<<<<< HEAD
 One of the main strengths of our forum would be to foster collaboration across intitutions and increase networking. We already have multiple AI groups participating from **Stanford** ([Rubin Lab](https://rubinlab.stanford.edu)), **Emory** ([Banerjee Lab](https://sites.google.com/stanford.edu/imon-banerjee-stanford/home?authuser=0)) and **NIH** ([Summers Lab](https://www.cc.nih.gov/meet-our-doctors/rsummers.html))!
-=======
-One of the main strengths of our forum would be to foster collaboration across intitutions and increase networking. We already have multiple AI groups participating from **Stanford** (Rubin Lab), **Emory** ([Banerjee Lab](https://sites.google.com/stanford.edu/imon-banerjee-stanford/home?authuser=0)) and **NIH** ([Summers Lab](https://www.cc.nih.gov/meet-our-doctors/rsummers.html))!
->>>>>>> 6932fdb5ca14a64375f91ff9e83eaf7523aca6b6
 
 We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where invited speakers will give a talk presenting their work followed by an interactive discussion and Q&A. All sessions will be recorded and the recordings will be available for viewership later.
 
