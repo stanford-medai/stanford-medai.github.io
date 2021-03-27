@@ -10,7 +10,7 @@ permalink: /
 
 Machine learning and deep networks are transforming the field of medicine in exciting yet hitherto unknown ways, all the way from diagnosis to treatment. Our goal is to foster communication among AI researchers in different groups broadly working in this domain. We want our exchange sessions to be a place where we can critically examine key topics in AI and medicine, generate fresh ideas and discussion around their intersection with problems we’re working on, and most importantly, learn from each other and develop new collaborations and synergies in our work.
 
-We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where invited speakers will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later. Check our [About]({{ 'about' | relative_url}}) page for more details.
+We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where our invited guests will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later. Check our [About]({{ 'about' | relative_url}}) page for more details.
 
 [Mailing List](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary .mr-4} 
 [YouTube Channel](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary}
