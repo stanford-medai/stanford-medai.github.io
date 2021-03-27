@@ -4,7 +4,7 @@ title: About
 nav_order: 2
 ---
 
-## Forum
+## Weekly Sessions
 We will be having weekly sessions where invited speakers will give a talk presenting their work followed by an interactive discussion and Q&A. All sessions will be recorded (if permitted by the speaker) and the recordings will be available for viewership later.
 
 ## Timings
