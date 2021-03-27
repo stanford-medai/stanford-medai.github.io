@@ -6,23 +6,21 @@ description: "MedAI Group"
 permalink: /
 ---
 
-# The MedAI Group Weekly Exchange Sessions
+# The MedAI Group Exchange Sessions
 
-Machine learning and deep networks are transforming the field of medicine in exciting yet hitherto unknown ways, all the way from diagnosis to treatment. However, their applicability is still limited. How can we effectively combine the strengths of AI with the knowledge and experience of trained physicians? How can we ensure clinical deployment and adoption? 
-
-As AI researchers in this field, our goal is to foster communication - we want our sessions to be a place where we can critically examine key topics in AI and medicine, generate fresh ideas and discussion around their intersection and most importantly, learn from each other.
+Machine learning and deep networks are transforming the field of medicine in exciting yet hitherto unknown ways, all the way from diagnosis to treatment. Our goal is to foster communication among AI researchers in different groups broadly working in this domain. We want our exchange sessions to be a place where we can critically examine key topics in AI and medicine, generate fresh ideas and discussion around their intersection with problems we’re working on, and most importantly, learn from each other and develop new collaborations and synergies in our work.
 
 We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where invited speakers will give a talk presenting their work followed by an interactive discussion and Q&A. All sessions will be recorded and the recordings will be available for viewership later. Check our [About]({{ 'about' | relative_url}}) page for more details.
 
 [Mailing List](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary .mr-4} 
 [YouTube Channel](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary}
 
-One of the main strengths of our forum would be to foster collaboration across institutions and increase networking. Currently, three AI groups on healthcare informatics are participating in this forum with distinct background and expertise: 
+Currently, three medical AI groups are participating in the MedAI Group Exchange Sessions, each having distinct backgrounds and expertise: 
 - [Rubin Lab](https://rubinlab.stanford.edu) (**Stanford University**)
 - [Banerjee Lab](https://sites.google.com/stanford.edu/imon-banerjee-stanford/home?authuser=0) (**Emory University**)
 - [Summers Lab](https://www.cc.nih.gov/meet-our-doctors/rsummers.html) (**National Institute of Health (NIH)**)
 
-Our topics of interest include but aren't limited to:
+Topics of interest to these groups include but are not limited to:
 -	Computer vision
 -	Natural language Processing
 -	AI-based clinical decision making;
@@ -42,4 +40,5 @@ Our topics of interest include but aren't limited to:
 -	Models and systems for AI-based population health;
 -	AI in medical and healthcare education;
 -	Methodological, philosophical, ethical, and social issues of AI in healthcare, medically-oriented human biology, and medicine.
+
 
