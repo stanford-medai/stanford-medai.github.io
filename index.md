@@ -6,7 +6,7 @@ description: "MedAI Group"
 permalink: /
 ---
 
-# MedAI Inter Group Sessions
+# The MedAI Group Weekly Exchange Sessions
 
 Machine learning and deep networks are transforming the field of medicine in exciting yet hitherto unknown ways, all the way from diagnosis to treatment. However, their applicability is still limited. How can we effectively combine the strengths of AI with the knowledge and experience of trained physicians? How can we ensure clinical deployment and adoption? 
 
