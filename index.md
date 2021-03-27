@@ -2,15 +2,15 @@
 layout: default
 title: Home
 nav_order: 1
-description: "MedAI: Forum for Medical AI & Imaging"
+description: "MedAI Group"
 permalink: /
 ---
 
-# MedAI: Forum for Medical AI & Imaging
+# MedAI Inter Group Sessions
 
 Machine learning and deep networks are transforming the field of medicine in exciting yet hitherto unknown ways, all the way from diagnosis to treatment. However, their applicability is still limited. How can we effectively combine the strengths of AI with the knowledge and experience of trained physicians? How can we ensure clinical deployment and adoption? 
 
-As AI researchers in this field, our goal is to foster communication - we want our forum to be a place where we can critically examine key topics in AI and medicine, generate fresh ideas and discussion around their intersection and most importantly, learn from each other.
+As AI researchers in this field, our goal is to foster communication - we want our sessions to be a place where we can critically examine key topics in AI and medicine, generate fresh ideas and discussion around their intersection and most importantly, learn from each other.
 
 We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where invited speakers will give a talk presenting their work followed by an interactive discussion and Q&A. All sessions will be recorded and the recordings will be available for viewership later. Check our [About]({{ 'about' | relative_url}}) page for more details.
 
