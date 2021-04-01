@@ -30,7 +30,7 @@ nav_order: 4
             <div><a href="{{ talk.recording }}">Video Recording</a></div>
           {% elsif talk.livestream %}
             <div class="talk-subtitle">Video</div>
-            <div><a href="{{ talk.livesteam }}">Livestream Link</a></div>
+            <div><a href="{{ talk.livestream }}">Livestream Link</a></div>
           {% endif %}        
       </div>
     {% endif %}
