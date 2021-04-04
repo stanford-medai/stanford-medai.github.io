@@ -27,7 +27,7 @@
   bio: Michael Zhang is a Computer Science PhD Student at Stanford, currently working with Chris Ré and Chelsea Finn. He is broadly interested in making machine learning more deployable and reliable in the "real world", especially through the lenses of improving model robustness and personalization to distribution shifts and new tasks, as well as developing new systems that enable collaborative machine learning and/or learning with less labels.
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
 
-- speaker: TBD
+- speaker: Jason Fries
   institution: Stanford University
   type: upcoming
   date: 4/15/21
