@@ -36,16 +36,16 @@
   abstract: The high cost of building labeled training sets is one of the largest barriers to using supervised machine learning in medicine. Privacy concerns create additional challenges to sharing training data for modalities like patient notes, making it difficult to train state-of-the-art NLP tools for analyzing electronic health records. The COVID-19 pandemic underscores the need for faster, more systematic methods of curating and sharing training data. One promising approach is weakly supervised learning, where low cost and often noisy label sources are combined to programmatically generate labeled training data for commodity deep learning architectures such as BERT. Programmatic labeling takes a data-centric view of machine learning and provides many of the same practical benefits as software development, including better consistency, inspectability, and creating higher-level abstractions for experts to inject domain knowledge into machine learning models.<br><br>In this talk I outline our new framework for weakly supervised clinical entity recognition, Trove, which builds training data by combining multiple public medical ontologies and other imperfect label sources. Instead of manually labeling data, in Trove annotators focus on defining labelers using ontology-based properties like semantic types as well as optional task-specific rules. On four named entity benchmark tasks, Trove approaches the performance of models trained using hand-labeled data. However unlike hand-labeled data, our labelers can be shared and modified without compromising patient privacy.
   bio: Jason Fries (<a href="http://web.stanford.edu/~jfries/" target="_blank">http://web.stanford.edu/~jfries/</a>) is a Research Scientist at Stanford University working with Professor Nigam Shah at the Center for Biomedical Informatics Research. He previously completed his postdoc with Professors Chris Ré and Scott Delp as part of Stanford's Mobilize Center. He received his PhD in computer science from the University of Iowa, where he studied computational epidemiology and NLP methods for syndromic surveillance. His recent research explores weakly supervised and few-shot learning in medicine, with a focus on methods for incorporating domain knowledge into the training of machine learning models. 
 
-- speaker: Joseph Cohen
-  institution: Stanford University
-  type: upcoming
-  date: 4/29/21
-  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
-
 - speaker: Pradeeban Kathiravelu
   institution: Emory University
   type: upcoming
   date: 4/22/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+
+- speaker: Joseph Cohen
+  institution: Stanford University
+  type: upcoming
+  date: 4/29/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
 
 - speaker: Angshuman Paul
