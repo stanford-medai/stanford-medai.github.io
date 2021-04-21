@@ -4,7 +4,9 @@ title: About
 nav_order: 2
 ---
 
-# About
+# About MedAI
+
+---
 
 ## Weekly Exchange Sessions
 We will be having weekly sessions (Thursdays, 1-2pm PST, starting April 1st, 2021) where invited speakers will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later.
