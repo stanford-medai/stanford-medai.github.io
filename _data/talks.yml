@@ -64,6 +64,9 @@
   type: upcoming
   date: 5/6/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Few-shot Chest X-ray Diagnosis Using Clinical Images and the Images from the Published Scientific Literature
+  abstract: Few-shot learning is the art of machine learning that tries to mimic the human cognitive ability of understanding new object classes from a few labeled training examples. In the last few years, several few-shot learning methods have been proposed for different tasks related to natural images. However, few-shot learning is relatively unexplored in the field radiology image analysis. In this seminar, we will present two few-shot learning methods for chest x-ray diagnosis. Our first method uses a discriminative ensemble trained using labeled clinical chest x-ray images. The second method uses labeled chest x-ray images from the published scientific literature and unlabeled clinical chest x-ray images to train a machine learning model. Experiments show the superiority of the proposed methods over several existing few-shot learning methods.
+  bio: Angshuman Paul (M.E., Ph.D.) is a visiting (postdoctoral) fellow at the National Institutes of Health, USA. His primary research interest is in Machine Learning, Medical Imaging, and Computer Vision. He earned his Ph.D. from the Indian Statistical Institute, India. He has held a visiting scientist position at the Indian statistical Institute (2019) and a graduate intern position at the University of Missouri-Columbia (2011). Dr. Paul is the recipient of the NIH Intramural Fellowship (2019) from the National Institutes of Health, USA, and the best paper award in the Tenth Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP, 2016). He serves as a reviewer of several journals including IEEE Transactions on Medical Imaging, Pattern Recognition Letters, and IEEE Transactions on Image Processing.
 
 - speaker: Xiaoyuan Guo
   institution: Emory University
