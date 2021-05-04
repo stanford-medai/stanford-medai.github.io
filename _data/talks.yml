@@ -85,4 +85,23 @@
   type: upcoming
   date: 5/27/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Edward Choi
+  institution: KAIST
+  type: upcoming
+  date: 6/10/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Monjoy Saha
+  institution: Emory University
+  type: upcoming
+  date: 7/1/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Andre Esteva
+  institution: Salesforce Research
+  type: upcoming
+  date: 7/8/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
 
