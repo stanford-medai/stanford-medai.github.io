@@ -91,12 +91,13 @@
 
 - speaker: Amara Tariq
   institution: Emory University
-  type: upcoming
+  type: previous
   date: 5/27/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Patient-specific COVID-19 Resource Utilization Prediction Using Fusion AI model
   abstract: Strain on healthcare resources brought forth by recent COVID-19 pandemic has highlighted the need for efficient resource planning and allocation through prediction of future consumption. Machine learning can predict resource utilization such as the need for hospitalization based on past medical data stored in electronic medical records (EMR). We experimented with fusion modeling to develop patient-specific clinical event prediction model based on patient’s medical history and current medical indicators. A review of feature importance provides insight for future research and feedback from the community on the significance of various predictors of COVID-19 disease trajectory.
   bio: Dr. Amara Tariq received her PhD degree in Computer Science from University of Central Florida in 2016 where she was Fulbright Scholar. Her research was focused on automatic understanding of cross-modal semantic relationships, especially relations between images and text. After earning her PhD, she designed and taught courses focused on Artificial Intelligence and Machine Learning at graduate and post-graduate level in her home country, i.e., Pakistan. Her research interests evolved to include multi-modal data related to the fields of bioinformatics and health science. Since the beginning of 2020, she has been working in post-doctoral research capacity at Bioinformatics department, Emory University, GA. At Emory University, her research has been focused on analyzing electronic medical records, imaging studies, and clinical reports and notes for intelligent decision making regarding disease management and healthcare resource optimization. Her research has resulted in publications in top-tier venues including IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), IEEE Transactions on Image Processing (TIP), IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), Journal of American College of Radiology (JACR), and npj Digital Medicine.
+  recording: https://www.youtube.com/watch?v=E4TuOcY89E8
   
 - speaker: No session this week. Week-long break for Summer! See you all next week :)
   type: upcoming
@@ -106,6 +107,12 @@
   institution: KAIST
   type: upcoming
   date: 6/10/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+
+- speaker: Garrett Honke
+  institution: Google X, the Moonshot Factory
+  type: upcoming
+  date: 6/24/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
 - speaker: Monjoy Saha
