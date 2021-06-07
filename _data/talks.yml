@@ -112,6 +112,12 @@
   abstract: Large-scale electronic health records (EHR) provide a great opportunity for learning representation of clinical entities (such as codes, visits, patients). As EHR data are typically stored in a relational database, their diverse information (diagnosis, medications, etc) can be naturally viewed as a graph. In this talk, we will study how this graphical structure can be exploited, or even learned for supervised prediction tasks using a combination of graph convolution and self-attention. Additionally, we will briefly present more recent works regarding multi-modal learning using Transformers.
   bio: Edward Choi is currently an assistant professor at KAIST, South Korea. He received his PhD at Georgia Tech under the supervision of Professor Jimeng Sun, focusing on interpretable deep learning methods for longitudinal electronic health records. Before he joined KAIST, Ed was a software engineer at Google Health Research, developing deep learning models for predictive healthcare. His current research interests include machine learning, healthcare analytics, and natural language processing.
 
+- speaker: Florian Dubost
+  institution: Stanford University
+  type: upcoming
+  date: 6/17/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
 - speaker: Garrett Honke
   institution: Google X, the Moonshot Factory
   type: upcoming
@@ -137,6 +143,17 @@
   date: 7/15/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
+- speaker: Liangqiong Qu
+  institution: Stanford University
+  type: upcoming
+  date: 7/22/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Shantanu Thakoor
+  institution: DeepMind
+  type: upcoming
+  date: 7/29/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
   
 
