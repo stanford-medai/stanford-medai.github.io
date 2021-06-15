@@ -13,6 +13,7 @@ nav_order: 4
       <hr>
       <div class="talk-container">
         <h3 class="talk-presenter">({{ talk.date }}) Speaker: {{ talk.speaker }}</h3>
+        <h4>{{ talk.institution }}</h4>
         {% if talk.title %}
           <div class="talk-subtitle">Title</div>
           <div>{{ talk.title }}</div>
