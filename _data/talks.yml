@@ -105,18 +105,22 @@
   
 - speaker: Edward Choi
   institution: KAIST
-  type: upcoming
+  type: previous
   date: 6/10/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Learning the Structure of EHR with Graph Convolutional Transformer
   abstract: Large-scale electronic health records (EHR) provide a great opportunity for learning representation of clinical entities (such as codes, visits, patients). As EHR data are typically stored in a relational database, their diverse information (diagnosis, medications, etc) can be naturally viewed as a graph. In this talk, we will study how this graphical structure can be exploited, or even learned for supervised prediction tasks using a combination of graph convolution and self-attention. Additionally, we will briefly present more recent works regarding multi-modal learning using Transformers.
   bio: Edward Choi is currently an assistant professor at KAIST, South Korea. He received his PhD at Georgia Tech under the supervision of Professor Jimeng Sun, focusing on interpretable deep learning methods for longitudinal electronic health records. Before he joined KAIST, Ed was a software engineer at Google Health Research, developing deep learning models for predictive healthcare. His current research interests include machine learning, healthcare analytics, and natural language processing.
+  recording: https://www.youtube.com/watch?v=IZXcuWFIBcY&t=18s
 
 - speaker: Florian Dubost
   institution: Stanford University
   type: upcoming
   date: 6/17/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Hydranet -- Data Augmentation for Regression Neural Networks
+  abstract: Deep learning techniques are often criticized to heavily depend on a large quantity of labeled data. This problem is even more challenging in medical image analysis where the annotator expertise is often scarce. We propose a novel data-augmentation method to regularize neural network regressors that learn from a single global label per image. The principle of the method is to create new samples by recombining existing ones. We demonstrate the performance of our algorithm on two tasks: estimation of the number of enlarged perivascular spaces in the basal ganglia, and estimation of white matter hyperintensities volume. We show that the proposed method improves the performance over more basic data augmentation. The proposed method reached an intraclass correlation coefficient between ground truth and network predictions of 0.73 on the first task and 0.84 on the second task, only using between 25 and 30 scans with a single global label per scan for training. With the same number of training scans, more conventional data augmentation methods could only reach intraclass correlation coefficients of 0.68 on the first task, and 0.79 on the second task.
+  bio: Florian Dubost is a postdoctoral researcher in biomedical data science at Stanford University, CA, USA, and has with six years of experience in machine learning. He holds a PhD in medical computer vision and reached top rankings in international deep learning competitions. He is member of program committees at conference workshops in AI and medicine, authored a book in AI and neurology, and is an author and reviewer for top international journals and conferences in AI and medicine with over 20 published articles, including 11 as first author.
   
 - speaker: Garrett Honke
   institution: Google X, the Moonshot Factory
