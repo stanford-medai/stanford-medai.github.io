@@ -20,7 +20,7 @@
 
   @include mq(lg) {
     //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-    width: $nav-width-lg;
+    //width: $nav-width-lg;
     min-width: $nav-width;
   }
 }
