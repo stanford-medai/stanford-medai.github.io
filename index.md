@@ -13,7 +13,7 @@ Machine learning and deep networks are transforming the field of medicine in exc
 We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where our invited guests will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later. Check our [About]({{ 'about' | relative_url}}) page for more details.
 
 [Mailing List](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary .mr-4} 
-[YouTube Channel](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary .mr-4} 
+[YouTube](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary .mr-4} 
 [Twitter](https://twitter.com/MedaiStanford){: .btn .btn-primary .mr-4} 
 [LinkedIn](https://www.linkedin.com/in/stanford-medai-715754216/){: .btn .btn-primary}
 
