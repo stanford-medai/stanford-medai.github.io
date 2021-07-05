@@ -24,10 +24,14 @@ Please email one of the organizers to get the Zoom information. Recorded session
 
 [Videos](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary}
 
-## Mailing List
-If you'd like to receive notifications and occasional reminders about upcoming talks, you can subscribe to our mailing list directly at `https://mailman.stanford.edu/mailman/listinfo/medai_announce` or click the button below.
+## Mailing List and Social Media
+If you'd like to receive notifications and occasional reminders about upcoming talks, you can subscribe to our mailing list directly at `https://mailman.stanford.edu/mailman/listinfo/medai_announce` or click the button below. 
 
-[Subscribe](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary}
+We also maintain an active Twitter account and a LinkedIn profile for MedAI. Feel free to follow us on these platforms for interesting content, notifications and updates.
+
+[Subscribe](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary .mr-4}
+[Twitter](https://twitter.com/MedaiStanford){: .btn .btn-primary .mr-4}
+[LinkedIn](https://www.linkedin.com/in/stanford-medai-715754216/){: .btn .btn-primary}
 
 ## Nominate
 You can nominate a speaker that you'd like to hear from - we'll invite them to our forum. If you'd like to present your work or lead a discussion, you can nominate yourself instead. You can also nominate interesting and relevant papers for discussion in the MedAI exchange sessions. Visit our [Nominate]({{ 'nominate' | relative_url }}) page to add in your nominations.
