@@ -163,6 +163,9 @@
   type: upcoming
   date: 7/22/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning
+  abstract: Federated learning is an emerging research paradigm enabling collaborative training of machine learning models among different organizations while keeping data private at each institution. Despite recent progress, there remain fundamental challenges such as lack of convergence and potential for catastrophic forgetting in federated learning across real-world heterogeneous devices. While most research efforts focus on improving the optimization process in FL, in this talk, we will provide a new perspective by rethinking the choice of architectures in federated models. We will show that simply replacing convolutional networks with Transformers can greatly reduce catastrophic forgetting of previous devices, accelerate convergence, and reach a better global model, especially when dealing with heterogeneous data. The code related to this talk is released <a href="https://github.com/Liangqiong/ViT-FL-main">here</a>, to encourage future exploration in robust architectures as an alternative to current research efforts on the optimization front.
+  bio: Liangqiong Qu is currently a postdoctoral researcher at Stanford University. She received her joint-PhD in Pattern Recognition and Intelligent System from University of Chinese Academy of Sciences (2017) and Computer Science from City University of Hong Kong (2017). Before Join Stanford, she was a postdoctoral researcher at IDEA lab in the University of North Carolina at Chapel Hill during 2018~2019.  She has published over 20 peer-reviewed articles including top-tier venues such as CVPR, MedIA, TIP, and MICCAI, and she also wrote a book chapter in Big Data in Psychiatry and Neurology.  
   
 - speaker: Shantanu Thakoor
   institution: DeepMind
