@@ -160,7 +160,7 @@
   
 - speaker: Liangqiong Qu
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 7/22/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning
@@ -173,6 +173,9 @@
   type: upcoming
   date: 7/29/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Bootstrapped Self-Supervised Representation Learning in Graphs
+  abstract: Self-supervised graph representation learning aims to construct meaningful representations of graph-structured data in the absence of labels. Current state-of-the-art methods are based on contrastive learning, and depend heavily on the construction of augmentations and negative examples. Achieving peak performance requires computation quadratic in the number of nodes, which can be prohibitively expensive. In this talk, we will present Bootstrapped Graph Latents (BGRL) a method for self-supervised graph representation learning that gets rid of this potentially quadratic bottleneck. We show that BGRL outperforms or matches previous methods on several established benchmark datasets, while consuming 2-10x less memory. Moreover, it enables the effective usage of more expressive GNN architectures, allowing us to further improve the state of the art. Finally, we will present our recent results on applying BGRL to the very large-scale data regime, in the OGB-LSC KDD Cup, where it was key to our entry being among the top 3 awardees our track.
+  bio: Shantanu is a Research Engineer working at DeepMind. His primary research interests are in graph representation learning and reinforcement learning. Prior to this, he received his MS from Stanford University, where he was working on AI safety and neural network verification, and  B.Tech. from IIT Bombay, where he worked on program synthesis. Recently, he has been interested in applying graph representation learning methods to large-scale problems, including the OGB Large Scale Challenge.
   
 - speaker: Mayee Chen
   institution: Stanford University
