@@ -170,18 +170,22 @@
   
 - speaker: Shantanu Thakoor
   institution: DeepMind
-  type: upcoming
+  type: previous
   date: 7/29/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Bootstrapped Self-Supervised Representation Learning in Graphs
   abstract: Self-supervised graph representation learning aims to construct meaningful representations of graph-structured data in the absence of labels. Current state-of-the-art methods are based on contrastive learning, and depend heavily on the construction of augmentations and negative examples. Achieving peak performance requires computation quadratic in the number of nodes, which can be prohibitively expensive. In this talk, we will present Bootstrapped Graph Latents (BGRL) a method for self-supervised graph representation learning that gets rid of this potentially quadratic bottleneck. We show that BGRL outperforms or matches previous methods on several established benchmark datasets, while consuming 2-10x less memory. Moreover, it enables the effective usage of more expressive GNN architectures, allowing us to further improve the state of the art. Finally, we will present our recent results on applying BGRL to the very large-scale data regime, in the OGB-LSC KDD Cup, where it was key to our entry being among the top 3 awardees our track.
   bio: Shantanu is a Research Engineer working at DeepMind. His primary research interests are in graph representation learning and reinforcement learning. Prior to this, he received his MS from Stanford University, where he was working on AI safety and neural network verification, and  B.Tech. from IIT Bombay, where he worked on program synthesis. Recently, he has been interested in applying graph representation learning methods to large-scale problems, including the OGB Large Scale Challenge.
+  recording: https://www.youtube.com/watch?v=OkhUCbpWxwc
   
 - speaker: Mayee Chen
   institution: Stanford University
   type: upcoming
   date: 8/5/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Mandoline - Model Evaluation under Distribution Shift
+  abstract: Machine learning models are often deployed in different settings than they were trained and validated on, posing a challenge to practitioners who wish to predict how well the deployed model will perform on a target distribution. If an unlabeled sample from the target distribution is available, along with a labeled sample from a possibly different source distribution, standard approaches such as importance weighting can be applied to estimate performance on the target. However, importance weighting struggles when the source and target distributions have non-overlapping support or are high-dimensional. Taking inspiration from fields such as epidemiology and polling, we develop Mandoline, a new evaluation framework that mitigates these issues. Our key insight is that practitioners may have prior knowledge about the ways in which the distribution shifts, which we can use to better guide the importance weighting procedure. Specifically, users write simple "slicing functions" - noisy, potentially correlated binary functions intended to capture possible axes of distribution shift - to compute reweighted performance estimates. We further describe a density ratio estimation framework for the slices and show how its estimation error scales with slice quality and dataset size. Empirical validation on NLP and vision tasks shows that Mandoline can estimate performance on the target distribution up to 3x more accurately compared to standard baselines.<br>This is joint work done with equal contribution from Karan Goel and Nimit Sohoni, as well as Fait Poms, Kayvon Fatahalian, and Christopher Ré. In this talk I will also connect the Mandoline framework to the broader theme of interactive ML systems and some of my collaborators research in this area.
+  bio: Mayee Chen is a second year PhD student in Computer Science at Stanford University, advised by Professor Christopher Ré. She is interested in understanding the theoretical underpinnings of tools in modern machine learning and using them to develop new methods. Her current interests revolve around how to evaluate sources of supervision (e.g., weakly, semi-supervised, and self-supervised) throughout the ML pipeline, particularly through both information-theoretic and geometric lenses. Previously, she completed her undergraduate studies at Princeton University, majoring in Operations Research and Financial Engineering.
   
 - speaker: Juan Manuel Zambrano Chaves
   institution: Stanford University
