@@ -180,7 +180,7 @@
   
 - speaker: Mayee Chen
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 8/5/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Mandoline - Model Evaluation under Distribution Shift
@@ -193,6 +193,9 @@
   type: upcoming
   date: 8/12/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Multimodal opportunistic risk assessment for ischemic heart disease
+  abstract: Current risk scores for predicting ischemic heart disease (IHD) risk—the leading cause of global mortality—have limited efficacy. While body composition (BC) imaging biomarkers derived from abdominopelvic computed tomography (CT) correlate with IHD risk, they are impractical to measure manually. Here, in a retrospective cohort of 8,197 contrast-enhanced abdominopelvic CT examinations undergoing up to 5 years of follow-up, we developed improved multimodal opportunistic risk assessment models for IHD by automatically extracting BC features from abdominal CT images and integrating these with features from each patient’s electronic medical record (EMR). Our predictive methods match and, in some cases, outperform clinical risk scores currently used in IHD risk assessment. We provide clinical interpretability of our model using a new method of determining tissue-level contributions from CT along with weightings of EMR features contributing to IHD risk. We conclude that such a multimodal approach, which automatically integrates BC biomarkers and EMR data can enhance IHD risk assessment and aid primary prevention efforts for IHD. In this talk, I will also go over other recent publications related to opportunistic imaging, body composition analysis and cardiovascular disease.
+  bio: Juan Manuel pursuing is PhD in Biomedical Informatics at Stanford University, advised by Daniel Rubin and Akshay Chaudhari. He is broadly interested in developing informatics tools to aid clinicians in clinical practice. His current research focuses on multimodal data fusion, building models that leverage medical images in addition to other relevant data sources. He was previously awarded a medical degree in addition to a B.S. in biomedical engineering from Universidad de los Andes in Bogotá, Colombia.
   
 - speaker: Beliz Gunel
   institution: Stanford University
