@@ -198,6 +198,14 @@
   bio: Juan Manuel pursuing is PhD in Biomedical Informatics at Stanford University, advised by Daniel Rubin and Akshay Chaudhari. He is broadly interested in developing informatics tools to aid clinicians in clinical practice. His current research focuses on multimodal data fusion, building models that leverage medical images in addition to other relevant data sources. He was previously awarded a medical degree in addition to a B.S. in biomedical engineering from Universidad de los Andes in Bogotá, Colombia.
   recording: https://www.youtube.com/watch?v=4nYNY91lI7A
   
+- speaker: No session this week -- break! 
+  type: previous
+  date: 8/19/21
+  
+- speaker: No session this week -- break! 
+  type: previous
+  date: 8/26/21
+  
 - speaker: Beliz Gunel
   institution: Stanford University
   type: previous
@@ -208,10 +216,25 @@
   bio: Beliz Gunel is a fourth year PhD student in Electrical Engineering at Stanford University, advised by Professor John Pauly. Her research interests are primarily in representation learning for medical imaging and natural language processing, and building data-efficient machine learning methods that are robust to distribution drifts. She collaborates closely with Professor Akshay Chaudhari and Professor Shreyas Vasanawala, and had research internships at Google AI, Facebook AI, and Microsoft Research. Previously, she completed her undergraduate studies at University of California, Berkeley, majoring in Electrical Engineering and Computer Science.
   recording: https://www.youtube.com/watch?v=TU2KQVSFa-I
   
+- speaker: No session this week -- summer break! 
+  type: previous
+  date: 9/9/21
+  
+- speaker: No session this week -- summer break! 
+  type: previous
+  date: 9/16/21
+  
+
+- speaker: Jared Dunnmon
+  institution: NIH, Stanford University
+  type: upcoming
+  date: 9/23/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
 - speaker: Sarah Hooper
   institution: Stanford University
   type: upcoming
-  date: 8/26/21
+  date: 9/30/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
   
