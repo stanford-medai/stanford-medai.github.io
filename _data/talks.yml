@@ -245,6 +245,30 @@
   abstract: Advances in whole-slide imaging, deep learning, and computational power have enabled substantial growth in the field of computational pathology, including automating routine pathology workflows and discovery of novel biomarkers. Convolutional neural networks (CNNs) have been the most commonly used network architecture in computational pathology. However, a different line of work that leverages cellular interactions and spatial structures in whole slide images using graph-based modeling methods is emerging. In this journal club, I will lead a discussion on graph-based modeling, particularly graph neural networks, in the field of computational pathology.
   bio: Siyi Tang is a PhD candidate in Electrical Engineering at Stanford University, advised by Prof. Daniel Rubin. Her research aims to leverage the structure in medical data to develop better medical machine learning models and enable novel scientific discovery. She is also interested in enhancing the human interpretability and clinical utility of medical machine learning algorithms. Prior to Stanford, Siyi received her Bachelor of Engineering Degree with Highest Distinction Honor from National University of Singapore.
   
+- speaker: Jonathan Crabbé
+  institution: University of Cambridge
+  type: upcoming
+  date: 10/7/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Jean-Benoit Delbrouck
+  institution: Stanford University
+  type: upcoming
+  date: 10/14/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Khaled Saab
+  institution: Stanford University
+  type: upcoming
+  date: 10/21/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Sarah Hooper
+  institution: Stanford University
+  type: upcoming
+  date: 10/28/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
   
   
 
