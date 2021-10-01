@@ -238,7 +238,7 @@
   
 - speaker: Siyi Tang
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 9/30/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Graph-based modeling in computational pathology
@@ -251,6 +251,9 @@
   type: upcoming
   date: 10/7/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Explainable AI - from generalities to time series
+  abstract: Modern machine learning models are complicated. They typically involve millions of operations to turn their input into a prediction. Hence, in a human perspective, they are complete black-boxes. When these models are used in critical areas such as medicine, finance and the criminal justice system, this lack of transparency appears as a major hindrance to their adoption. With the necessity to address this problem, the field of Explainable AI (XAI) thrived. In this talk, we will first illustrate how XAI allows to achieve a better understanding of these complex machine learning models in general. We will then focus on model for time series data, which constitutes a big portion of the medical data. 
+  bio: Jonathan Crabbé is a PhD student in the Department of Applied Mathematics from the University of Cambridge, he is supervised by Mihaela van der Schaar. He joins the van der Schaar lab following a MASt in in theoretical physics and applied mathematics at Cambridge, which he passed with distinction, receiving the Wolfson College Jennings Price. <br>Jonathan’s work focuses on the development of explainable artificial intelligence (XAI), which he believes to be one of the most interesting challenges in machine learning. He is particularly interested in understanding the structure of the latent representations learned by state of the art models. With his theoretical physics background, Jonathan is also enthusiastic about time series models and forecasting. 
   
 - speaker: Jean-Benoit Delbrouck
   institution: Stanford University
