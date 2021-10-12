@@ -248,7 +248,7 @@
   
 - speaker: Jonathan Crabbé
   institution: University of Cambridge
-  type: upcoming
+  type: previous
   date: 10/7/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Explainable AI - from generalities to time series
@@ -261,6 +261,9 @@
   type: upcoming
   date: 10/14/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Multimodal medical research at the intersection of vision and language
+  abstract: Inspired by traditional machine learning on natural images and texts, new multimodal medical tasks are emerging. From Medical Visual Question Answering to Radiology Report Generation or Summarization using x-rays, we investigate how multimodal architectures and multimodal pre-training can help improving results.
+  bio: Jean-Benoit holds a PhD in engineering science from Polytechnic Mons in Belgium and is now a postdoctoral scholar at the Departement of Biomedical Data Science . His doctoral thesis focused on multimodal learning on natural images and texts. His postdoctoral research focuses on applying new (or proven) methods on multimodal medical tasks at the intersection of vision and language.
   
 - speaker: Khaled Saab
   institution: Stanford University
