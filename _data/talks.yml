@@ -225,7 +225,7 @@
   date: 9/16/21
   
 
-- speaker: Jared Dunnmon
+- speaker: Jared Dunnmon (TIME CHANGE - 2PM to 3PM PST)
   institution: Visiting Scholar, Stanford University
   type: previous
   date: 9/23/21
@@ -278,18 +278,56 @@
   
 - speaker: Sarah Hooper
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 10/28/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Training medical image segmentation models with less labeled data
   abstract: Segmentation is a powerful tool for quantitative analysis of medical images. Because manual segmentation can be tedious, be time consuming, and have high inter-observer variability, neural networks (NNs) are an appealing solution for automating the segmentation process. However, most approaches to training segmentation NNs rely on large, labeled training datasets that are costly to curate. In this work, we present a general semi-supervised method for training segmentation networks that reduces the required amount of labeled data. Instead, we rely on a small set of labeled data and a large set of unlabeled data for training. We evaluate our method on four cardiac magnetic resonance (CMR) segmentation targets and show that by using only 100 labeled training image slices---up to a 99.4% reduction of labeled data---the proposed model achieves within 1.10% of the Dice coefficient achieved by a network trained with over 16,000 labeled image slices. We use the segmentations predicted by our method to derive cardiac functional biomarkers and find strong agreement to expert measurements of predicted ejection fraction, end diastolic volume, end systolic volume, stroke volume, or left ventricular mass compared an expert annotator.  
   bio: Sarah Hooper is a PhD candidate at Stanford University, where she works with Christopher Ré and Curtis Langlotz. She is broadly interested in applying machine learning to meet needs in healthcare, with a particular interest in applications that make quality healthcare more accessible. Sarah received her B.S. in Electrical Engineering at Rice University in 2017 and her M.S. in Electrical Engineering at Stanford University in 2020.
+  recording: https://www.youtube.com/watch?v=FTmvdARsbnI
   
-- speaker: Mars Huang
+- speaker: Mars Huang (TIME CHANGE - 9AM to 10AM PST)
   institution: Stanford University
   type: upcoming
   date: 11/4/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Towards Generalist Medical Imaging AI Using Multimodal Self-supervised Learning
+  abstract: In recent years, deep learning models have demonstrated superior diagnostic accuracy compared to human physicians in several medical domains and imaging modalities. While deep learning and computer vision provide promising solutions for automating medical image analysis, annotating medical imaging datasets requires domain expertise and is cost-prohibitive at scale. Therefore, the task of building effective medical imaging models is often hindered by the lack of large-scale manually labeled datasets. In a healthcare system where myriad opportunities and possibilities for automation exist, it is practically impossible to curate labeled datasets for all tasks, modalities, and outcomes for training supervised models. Therefore, it is important to develop strategies for training generalist medical AI models without the need for large-scale labeled datasets. In this talk, I will talk about how our group plan to develop generalist medical imaging models by combining multimodal fusion techniques with self-supervised learning. 
+  bio: Mars Huang is a 3rd year Ph.D. student in Biomedical Informatics at Stanford University, co-advised by Matthew P. Lungren and Serena Yeung. He is interested in combining self-supervised learning and multimodal fusion techniques for medical imaging applications. Previously, he completed his undergraduate studies at the University of California, San Diego, majoring in Computer Science and Bioinformatics.
+  
+- speaker: Rocky Aikens
+  institution: Stanford University
+  type: upcoming
+  date: 11/11/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Ramon Correa
+  institution: Emory University
+  type: upcoming
+  date: 11/18/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: No session this week -- Thanksgiving break
+  institution: Stanford University
+  type: upcoming
+  date: 11/25/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Douwe van der Wal
+  institution: Artera AI
+  type: upcoming
+  date: 12/2/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Winter Break -- we will see you next year :)
+  type: upcoming
+  date: 12/9/21 to 12/30/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+
+  
+  
+
   
   
   
