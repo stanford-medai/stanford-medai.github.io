@@ -288,18 +288,22 @@
   
 - speaker: Mars Huang (TIME CHANGE - 9AM to 10AM PST)
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 11/4/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Towards Generalist Medical Imaging AI Using Multimodal Self-supervised Learning
   abstract: In recent years, deep learning models have demonstrated superior diagnostic accuracy compared to human physicians in several medical domains and imaging modalities. While deep learning and computer vision provide promising solutions for automating medical image analysis, annotating medical imaging datasets requires domain expertise and is cost-prohibitive at scale. Therefore, the task of building effective medical imaging models is often hindered by the lack of large-scale manually labeled datasets. In a healthcare system where myriad opportunities and possibilities for automation exist, it is practically impossible to curate labeled datasets for all tasks, modalities, and outcomes for training supervised models. Therefore, it is important to develop strategies for training generalist medical AI models without the need for large-scale labeled datasets. In this talk, I will talk about how our group plan to develop generalist medical imaging models by combining multimodal fusion techniques with self-supervised learning. 
   bio: Mars Huang is a 3rd year Ph.D. student in Biomedical Informatics at Stanford University, co-advised by Matthew P. Lungren and Serena Yeung. He is interested in combining self-supervised learning and multimodal fusion techniques for medical imaging applications. Previously, he completed his undergraduate studies at the University of California, San Diego, majoring in Computer Science and Bioinformatics.
+  recording: https://www.youtube.com/watch?v=ToJkbcC1N80 
   
 - speaker: Rocky Aikens
   institution: Stanford University
   type: upcoming
   date: 11/11/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Assignment Control Plots - A Visual Companion for Causal Inference Study Design
+  abstract:  An important step for any causal inference study design is understanding the distribution of the treated and untreated subjects in terms of measured baseline covariates.  However, not all baseline variation is equally important.  In the observational context, balancing on baseline variation summarized in a propensity score can help reduce bias due to self-selection. In both observational and experimental studies, controlling baseline variation associated with the expected outcomes can help increase the precision of causal effect estimates. We propose a set of visualizations that decompose the space of measured covariates into the different types of baseline variation important to the study design.  These assignment-control plots and variations thereof visually illustrate core concepts of causal inference and suggest new directions for methodological research on study design. As a practical demonstration, we illustrate one application of assignment-control plots to a study of cardiothoracic surgery. While the family of visualization tools for studies of causality is relatively sparse, simple visual tools can be an asset to education, application, and methods development.  (This work is in the peer-review process and is currently available as a preprint on arxiv https://arxiv.org/abs/2107.00122)
+  bio: Rachael C. “Rocky” Aikens is a collaborative biostatistician. Her methodological research focuses on the development of simple, data-centered tools and frameworks to design stronger observational studies.  As a collaborator, she has led the statistical analysis of randomized assessments of clinical decision support, clinical informatics applications in pediatrics, and lifestyle interventions for reducing sedentary behavior and improving nutrition.  A central focus of her work is the design and deployment of simple, data-centered methodologies, grounded in the needs of applied researchers.  She is finishing a doctoral degree in Biomedical Informatics at Stanford University with expected completion June 2022. 
   
 - speaker: Ramon Correa
   institution: Emory University
