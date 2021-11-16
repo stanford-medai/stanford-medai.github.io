@@ -298,34 +298,41 @@
   
 - speaker: Rocky Aikens
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 11/11/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Assignment Control Plots - A Visual Companion for Causal Inference Study Design
   abstract:  An important step for any causal inference study design is understanding the distribution of the treated and untreated subjects in terms of measured baseline covariates.  However, not all baseline variation is equally important.  In the observational context, balancing on baseline variation summarized in a propensity score can help reduce bias due to self-selection. In both observational and experimental studies, controlling baseline variation associated with the expected outcomes can help increase the precision of causal effect estimates. We propose a set of visualizations that decompose the space of measured covariates into the different types of baseline variation important to the study design.  These assignment-control plots and variations thereof visually illustrate core concepts of causal inference and suggest new directions for methodological research on study design. As a practical demonstration, we illustrate one application of assignment-control plots to a study of cardiothoracic surgery. While the family of visualization tools for studies of causality is relatively sparse, simple visual tools can be an asset to education, application, and methods development.  (This work is in the peer-review process and is currently available as a preprint on arxiv https://arxiv.org/abs/2107.00122)
   bio: Rachael C. “Rocky” Aikens is a collaborative biostatistician. Her methodological research focuses on the development of simple, data-centered tools and frameworks to design stronger observational studies.  As a collaborator, she has led the statistical analysis of randomized assessments of clinical decision support, clinical informatics applications in pediatrics, and lifestyle interventions for reducing sedentary behavior and improving nutrition.  A central focus of her work is the design and deployment of simple, data-centered methodologies, grounded in the needs of applied researchers.  She is finishing a doctoral degree in Biomedical Informatics at Stanford University with expected completion June 2022. 
+  recording: https://www.youtube.com/watch?v=-Vvquyw4fz4
   
 - speaker: Ramon Correa
   institution: Emory University
   type: upcoming
   date: 11/18/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Adversarial debiasing with partial learning - medical image case-studies
+  abstract: The use of artificial intelligence (AI) in healthcare has become a very active research area in the last few years. While significant progress has been made in image classification tasks, only a few AI methods are actually being deployed in hospitals. A major hurdle in actively using clinical AI models currently is the trustworthiness of these models. When scrutinized, these models reveal implicit biases during the decision making, such as detecting race, ethnic groups, and subpopulations. These biases result in poor model performance, or racial disparity, for patients in these minority groups. In our ongoing study, we develop a two-step adversarial debiasing approach with partial learning that can reduce the racial disparity while preserving the performance of the targeted task. The proposed methodology has been evaluated on two independent medical image case-studies - chest X-ray and mammograms, and showed promises in reducing racial disparity while preserving the performance.
+  bio: Ramon Correa is a Ph.D. student in ASU’s Data Science, Analytics, and Engineering program. His research interest involves studying model debiasing techniques. Previously, he completed his undergraduate studies at Case Western Reserve University, majoring in Biomedical Engineering.
+  
+
   
 - speaker: No session this week -- Thanksgiving break
   institution: Stanford University
   type: upcoming
   date: 11/25/21
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+ 
+  
+- speaker: Winter Break -- we will see you next year :)
+  type: upcoming
+  date: 12/2/21 to 12/30/21
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
 - speaker: Douwe van der Wal
   institution: Artera AI
   type: upcoming
-  date: 12/2/21
-  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
-  
-- speaker: Winter Break -- we will see you next year :)
-  type: upcoming
-  date: 12/9/21 to 12/30/21
+  date: 1/2/22
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
 
