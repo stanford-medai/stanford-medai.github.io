@@ -332,13 +332,23 @@
 
 - speaker: Lequan Yu (TIME CHANGE - 4PM to 5PM PST)
   institution: University of Hong Kong
-  type: upcoming
+  type: previous
   date: 1/20/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Medical Image Analysis and Reconstruction with Data-efficient Learning
   abstract: Medical imaging is a critical step in modern healthcare procedures. Accurate interpretation of medical images, e.g., CT, MRI, Ultrasound, and histology images, plays an essential role in computer-aided diagnosis, assessment, and therapy. While deep learning provides an avenue to deliver automated medical image analysis and reconstruction via data-driven representation learning, the success is largely attributed to the massive datasets with abundant annotations. However, collecting and labeling such large-scaled dataset is prohibitively expensive and time-consuming. In this talk, I will present our recent works on building data-efficient learning systems for medical image analysis and reconstruction, such as computer-aided diagnosis, anatomical structure segmentation, and CT reconstruction. The proposed methods cover a wide range of deep learning and machine learning topics, including semi-supervised learning, multi-modality learning, multi-task learning, integrating domain knowledge, etc. The up-to-date progress and promising future directions will also be discussed. 
   bio: Dr. Lequan Yu is an Assistant Professor at the Department of Statistics and Actuarial Science, the University of Hong Kong. Before joining HKU, he was a postdoctoral fellow at Stanford University. He obtained his Ph.D. degree from The Chinese University of Hong Kong in 2019 and Bachelor’s degree from Zhejiang University in 2015, both in Computer Science. He also experienced research internships in Nvidia and Siemens Healthineers. His research interests are developing advanced machine learning methods for biomedical data analysis, with a primary focus on medical images. He has won the CUHK Young Scholars Thesis Award 2019, Hong Kong Institute of Science Young Scientist Award shortlist in 2019, Best Paper Awards of Medical Image Analysis-MICCAI in 2017 and International Workshop on Machine Learning in Medical Imaging in 2017. He serves as the senior PC member of IJCAI, AAAI, and the reviewer for top-tier journals and conferences, such as Nature Machine Intelligence, IEEE-PAMI, IEEE-TMI, Medical Image Analysis, etc. 
-   
+  recording: https://www.youtube.com/watch?v=HhqgbVnR2ZQ
+  
+- speaker: Jason Jeong
+  institution: Arizona State University
+  type: upcoming
+  date: 1/27/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Applications of Generative Adversarial Networks (GANs) in Medical Image Synthesis, Translation, and Augmentation
+  abstract: Medical imaging is a source of crucial information in modern healthcare. Deep learning models have been developed for various modalities such as CT, MRI, Ultrasound, and PET for automatic or semi-automatic diagnosis or assessment of diseases. While deep learning models have been proven to be very powerful, training such models sufficiently requires large, well-annotated but expensive datasets. However, medical images, especially those containing diseases, are rare. While there are a variety of solutions to improve models with limited and imbalanced datasets, one solution is generating these rare images through generative adversarial networks (GANs). In this presentation, I will present a quick review on the use of GANs in medical imaging tasks, specifically classification and segmentation. Then I will present and discuss our recent work on using GANs for generating synthetic dual energy CT (sDECT) from single energy CT (SECT). Finally, some interesting challenges and possible future directions of GANs in medical imaging will be discussed.
+  bio: 
+  
 
   
   
