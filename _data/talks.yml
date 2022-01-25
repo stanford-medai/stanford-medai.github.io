@@ -348,6 +348,40 @@
   title: Applications of Generative Adversarial Networks (GANs) in Medical Image Synthesis, Translation, and Augmentation
   abstract: Medical imaging is a source of crucial information in modern healthcare. Deep learning models have been developed for various modalities such as CT, MRI, Ultrasound, and PET for automatic or semi-automatic diagnosis or assessment of diseases. While deep learning models have been proven to be very powerful, training such models sufficiently requires large, well-annotated but expensive datasets. However, medical images, especially those containing diseases, are rare. While there are a variety of solutions to improve models with limited and imbalanced datasets, one solution is generating these rare images through generative adversarial networks (GANs). In this presentation, I will present a quick review on the use of GANs in medical imaging tasks, specifically classification and segmentation. Then I will present and discuss our recent work on using GANs for generating synthetic dual energy CT (sDECT) from single energy CT (SECT). Finally, some interesting challenges and possible future directions of GANs in medical imaging will be discussed.
   bio: Jiwoong Jason Jeong is a Ph.D. student in ASU’s Data Science, Analytics, and Engineering program. His research interest involves applying GANs into the medical workflow with a focus on solving medical data imbalance and scarcity. Previously, he completed his Master’s in Medical Physics at Georgia Institute of Technology.  
+  
+- speaker: Jeffrey Gu
+  institution: Stanford University
+  type: upcoming
+  date: 2/3/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Enze Xie
+  institution: University of Hong Kong
+  type: upcoming
+  date: 2/10/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Weston Hughes
+  institution: Stanford University
+  type: upcoming
+  date: 2/17/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Mike Wu
+  institution: Stanford University
+  type: upcoming
+  date: 2/24/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Mikhail Khodak
+  institution: Carnegie Mellon University
+  type: upcoming
+  date: 3/17/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+  
+  
+
 
   
   
