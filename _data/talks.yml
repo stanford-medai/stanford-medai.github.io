@@ -362,18 +362,22 @@
   
 - speaker: Enze Xie (TIME CHANGE - 4PM to 5PM PST)
   institution: University of Hong Kong
-  type: upcoming
+  type: previous
   date: 2/10/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: SegFormer - Simple and Efficient Design for Semantic Segmentation with Transformers
   abstract: We present SegFormer, a simple, efficient yet powerful semantic segmentation framework which unifies Transformers with lightweight multilayer perceptron (MLP) decoders. SegFormer has two appealing features- 1) SegFormer comprises a novel hierarchically structured Transformer encoder which outputs multiscale features. It does not need positional encoding, thereby avoiding the interpolation of positional codes which leads to decreased performance when the testing resolution differs from training. 2) SegFormer avoids complex decoders. The proposed MLP decoder aggregates information from different layers, and thus combining both local attention and global attention to render powerful representations. We show that this simple and lightweight design is the key to efficient segmentation on Transformers. We scale our approach up to obtain a series of models from SegFormer-B0 to SegFormer-B5, reaching significantly better performance and efficiency than previous counterparts. For example, SegFormer-B4 achieves 50.3% mIoU on ADE20K with 64M parameters, being 5x smaller and 2.2% better than the previous best method. Our best model, SegFormer-B5, achieves 84.0% mIoU on Cityscapes validation set and shows excellent zero-shot robustness on Cityscapes-C. Code is available <a href="https://github.com/NVlabs/SegFormer">here</a>.
   bio: <a href="https://xieenze.github.io/" target="_blank">Enze Xie</a> is currently a PhD student in the Department of Computer Science, The University of Hong Kong. His research interest is computer vision in 2D and 3D. He has published 16 papers (including 10 first/co-first author) in top-tier conferences and journals such as TPAMI, NeurIPS, ICML and CVPR with 1400+ citations.  His work PolarMask was selected as CVPR 2020 Top-10 Influential Papers. He was selected into NVIDIA Graduate Fellowship Finalist. He has won 1st place in Google OpenImages 2019 instance segmentation track.
+  recording: https://www.youtube.com/watch?v=Yf9fNn1fWy8
   
 - speaker: Weston Hughes
   institution: Stanford University
   type: upcoming
   date: 2/17/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Deep Learning Methods for Electrocardiograms and Echocardiograms
+  abstract: In this talk, we will discuss two recently published deep learning methods we’ve developed at Stanford and UCSF for the understanding of ECG and echocardiogram data. First, we'll discuss the development and evaluation of a convolutional neural network for multi class ECG interpretation which outperforms cardiologists and currently used ECG algorithms. Second, we’ll discuss a computer vision system for evaluating a range of biomarkers from echocardiogram videos. In our discussion of both papers, we’ll emphasize different analyses aiming to explain and interpret the models in different ways.
+  bio: Weston Hughes is a 3rd year PhD student in the Computer Science department at Stanford, co-advised by James Zou in Biomedical Data Science and Euan Ashley in Cardiology. His research focuses on applying deep learning and computer vision techniques to cardiovascular imaging data, including electrocardiograms, echocardiograms and cardiac MRIs. He is an NSF Graduate Research Fellow. 
   
 - speaker: Mike Wu
   institution: Stanford University
