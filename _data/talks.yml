@@ -372,18 +372,23 @@
   
 - speaker: Weston Hughes
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 2/17/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Deep Learning Methods for Electrocardiograms and Echocardiograms
   abstract: In this talk, we will discuss two recently published deep learning methods we’ve developed at Stanford and UCSF for the understanding of ECG and echocardiogram data. First, we'll discuss the development and evaluation of a convolutional neural network for multi class ECG interpretation which outperforms cardiologists and currently used ECG algorithms. Second, we’ll discuss a computer vision system for evaluating a range of biomarkers from echocardiogram videos. In our discussion of both papers, we’ll emphasize different analyses aiming to explain and interpret the models in different ways.
   bio: Weston Hughes is a 3rd year PhD student in the Computer Science department at Stanford, co-advised by James Zou in Biomedical Data Science and Euan Ashley in Cardiology. His research focuses on applying deep learning and computer vision techniques to cardiovascular imaging data, including electrocardiograms, echocardiograms and cardiac MRIs. He is an NSF Graduate Research Fellow. 
+  recording: https://www.youtube.com/watch?v=ZQu3zNk7_4Y
   
 - speaker: Mike Wu
   institution: Stanford University
   type: upcoming
   date: 2/24/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Optimizing for Interpretability in Deep Neural Networks
+  abstract: Deep models have advanced prediction in many domains, but their lack of interpretability remains a key barrier to their adoption in many real world applications. There exists a large body of work aiming to help humans understand these black box functions to varying levels of granularity – for example, through distillation, gradients, or adversarial examples. These methods however, all tackle interpretability as a separate process after training. In this talk, we explore a different approach and explicitly regularize deep models so that they are well-approximated by processes that humans can step through in little time. Applications will focus on medical prediction tasks for patients in critical care and with HIV.
+  bio: Mike is a fifth year PhD student in Computer Science at Stanford University advised by Prof. Noah Goodman. His primary research interests are in deep generative models and unsupervised learning algorithms, often with applications to education and healthcare data. Mike’s research has been awarded two best paper awards at AAAI and Education Data Mining as well as featured in the New York Times. Prior to Stanford, Mike was a research engineer at Facebook’s applied ML group.
+
   
 - speaker: Mikhail Khodak
   institution: Carnegie Mellon University
