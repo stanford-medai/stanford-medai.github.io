@@ -382,12 +382,28 @@
   
 - speaker: Mike Wu
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 2/24/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Optimizing for Interpretability in Deep Neural Networks
   abstract: Deep models have advanced prediction in many domains, but their lack of interpretability remains a key barrier to their adoption in many real world applications. There exists a large body of work aiming to help humans understand these black box functions to varying levels of granularity – for example, through distillation, gradients, or adversarial examples. These methods however, all tackle interpretability as a separate process after training. In this talk, we explore a different approach and explicitly regularize deep models so that they are well-approximated by processes that humans can step through in little time. Applications will focus on medical prediction tasks for patients in critical care and with HIV.
   bio: Mike is a fifth year PhD student in Computer Science at Stanford University advised by Prof. Noah Goodman. His primary research interests are in deep generative models and unsupervised learning algorithms, often with applications to education and healthcare data. Mike’s research has been awarded two best paper awards at AAAI and Education Data Mining as well as featured in the New York Times. Prior to Stanford, Mike was a research engineer at Facebook’s applied ML group.
+  recording: https://www.youtube.com/watch?v=c4bl3E6MdhE
+
+- speaker: Siyi Tang
+  institution: Stanford University
+  type: upcoming
+  date: 3/3/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis
+  abstract: Automated seizure detection and classification from electroencephalography (EEG) can greatly improve seizure diagnosis and treatment. In this talk, I will present our recent work on graph-based modeling for EEG-based seizure detection and classification. We model EEG signals using a graph neural network and develop two EEG graph structures that capture the natural geometry of EEG sensors or dynamic brain connectivity. We also propose a self-supervised pre-training strategy to further improve the model performance, particularly on rare seizure types. Lastly, we investigate model interpretability and propose quantitative metrics to measure the model’s ability to localize seizures. <a href="https://openreview.net/pdf?id=k9bx1EfHI_-">ICLR paper link</a>
+  bio: Siyi Tang is a PhD candidate in Electrical Engineering at Stanford University, advised by Prof. Daniel Rubin. Her research aims to leverage the structure in medical data to develop better medical machine learning models and enable novel scientific discovery. She is also interested in enhancing the human interpretability and clinical utility of medical machine learning algorithms. Prior to Stanford, Siyi received her Bachelor of Engineering Degree with Highest Distinction Honor from National University of Singapore.
+
+- speaker: Bin Li
+  institution: University of Wisconsin-Madison
+  type: upcoming
+  date: 3/10/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
 
   
 - speaker: Mikhail Khodak
@@ -395,11 +411,18 @@
   type: upcoming
   date: 3/17/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+
   
 - speaker: Karan Singhal
   institution: Google
   type: upcoming
   date: 3/24/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+
+- speaker: Max Lu
+  institution: MIT & Harvard Medical School
+  type: upcoming
+  date: 3/31/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
   
