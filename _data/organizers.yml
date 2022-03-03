@@ -3,7 +3,7 @@
   institution: Stanford University
   email: nanbhas@stanford.edu
   website: https://www.stanford.edu/~nanbhas
-  bio: Nandita Bhaskhar is a PhD candidate in the Department of Electrical Engineering at Stanford University. Her current research focuses on developing alternate sources of supervision for medical data (observational supervision using passively-collected event logs and self-supervision strategies for data-efficient medical representation learning). She is also interested in model performance in the wild and works on developing strategies for quantifying model trust and mitigating distribution shifts for reliable clinical deployment.
+  bio: Nandita Bhaskhar is a PhD student in Electrical Engineering at Stanford University advised by Prof. Daniel Rubin. Her research focuses on observational supervision & self-supervision for leveraging unlabelled medical data and quantifying model trust and mitigating distribution shifts for reliable clinical deployment.
   image: assets/images/nandita-bhaskhar.jpg
 
 - name: Siyi Tang
