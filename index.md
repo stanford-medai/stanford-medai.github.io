@@ -10,16 +10,20 @@ permalink: /
 
 Machine learning and deep networks are transforming the field of medicine in exciting yet hitherto unknown ways, all the way from diagnosis to treatment. Our goal is to foster communication among AI researchers in different groups broadly working in this domain. We want our exchange sessions to be a place where we can critically examine key topics in AI and medicine, generate fresh ideas and discussion around their intersection with problems we’re working on, and most importantly, learn from each other and develop new collaborations and synergies in our work.
 
-We will be having weekly sessions (**Thursdays, 1-2pm PST**, starting **April 1st, 2021**) where our invited guests will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later. Check our [About]({{ 'about' | relative_url}}) page for more details.
+We will be having weekly sessions (on **Thursdays, 1-2pm PST**) where our invited guests will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later. Check our [About]({{ 'about' | relative_url}}) page for more details.
 
 [Mailing List](https://mailman.stanford.edu/mailman/listinfo/medai_announce){: .btn .btn-primary .mr-4} 
 [YouTube](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w){: .btn .btn-primary .mr-4} 
 [Twitter](https://twitter.com/MedaiStanford){: .btn .btn-primary .mr-4} 
 [LinkedIn](https://www.linkedin.com/in/stanford-medai-715754216/){: .btn .btn-primary}
 
-Currently, three medical AI groups are participating in the MedAI Group Exchange Sessions, each having distinct backgrounds and expertise: 
+---
+### Check out our [Upcoming Speakers Schedule]({{ 'upcoming-talks' | relative_url}}) and view details of our [Past Speakers]({{ 'previous-talks' | relative_url}}).
+
+---
+Currently, three medical AI groups spanning multiple universities and institutions are participating in the MedAI Group Exchange Sessions, each having distinct backgrounds and expertise: 
 - [Rubin Lab](https://rubinlab.stanford.edu) (**Stanford University**)
-- [Banerjee Lab](https://sites.google.com/stanford.edu/imon-banerjee-stanford/home?authuser=0) (**Emory University**)
+- [Banerjee Lab](https://labs.engineering.asu.edu/banerjeelab/) (**Mayo Clinic, Arizona State University, Emory University**)
 - [Summers Lab](https://www.cc.nih.gov/meet-our-doctors/rsummers.html) (**National Institute of Health (NIH)**)
 
 Topics of interest to these groups include but are not limited to:
