@@ -392,18 +392,22 @@
 
 - speaker: Siyi Tang
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 3/3/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis
   abstract: Automated seizure detection and classification from electroencephalography (EEG) can greatly improve seizure diagnosis and treatment. In this talk, I will present our recent work on graph-based modeling for EEG-based seizure detection and classification. We model EEG signals using a graph neural network and develop two EEG graph structures that capture the natural geometry of EEG sensors or dynamic brain connectivity. We also propose a self-supervised pre-training strategy to further improve the model performance, particularly on rare seizure types. Lastly, we investigate model interpretability and propose quantitative metrics to measure the model’s ability to localize seizures. <a href="https://openreview.net/pdf?id=k9bx1EfHI_-">ICLR paper link</a>
   bio: Siyi Tang is a PhD candidate in Electrical Engineering at Stanford University, advised by Prof. Daniel Rubin. Her research aims to leverage the structure in medical data to develop better medical machine learning models and enable novel scientific discovery. She is also interested in enhancing the human interpretability and clinical utility of medical machine learning algorithms. Prior to Stanford, Siyi received her Bachelor of Engineering Degree with Highest Distinction Honor from National University of Singapore.
+  recording: https://www.youtube.com/watch?v=FMEnSYbKkV4
 
 - speaker: Bin Li
   institution: University of Wisconsin-Madison
   type: upcoming
   date: 3/10/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Weakly supervised tumor detection in whole slide image analysis
+  abstract: Histopathology is one of the essential tools for disease assessment. In modern histopathology, whole slide imaging (WSI) has become a powerful and widely used tool to visualize tissue sections in disease diagnosis, medical education, and pathological research. The use of machine learning brings great opportunities to the automatic analysis of WSIs that could facilitate the pathologists’ workflow and more importantly, enable higher-order or large-scale correlations that are normally very challenging in standard histopathology practices, such as differential diagnosis of hard-cases and treatment response predictions. This talk will cover our recent work of approaching the fundamental problem of weakly supervised classification and tumor localization in gigapixel WSIs with a novel multiple instance learning (MIL) model leveraged by self-supervised learning, as well as discussing the emerging challenges and opportunities in computational histopathology.
+  bio: Bin Li is a Ph.D. candidate in Biomedical Engineering at the University of Wisconsin-Madison. He is currently a research assistant in the Laboratory for Optical and Computational Instrumentation, mentored by Prof. Kevin Eliceiri. He develops computational methods to improve the understanding of the biological and pathological mechanisms of disease development and patient care based on multi-modal microscopic image analysis.
 
   
 - speaker: Mikhail Khodak
