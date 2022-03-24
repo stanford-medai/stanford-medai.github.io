@@ -430,11 +430,26 @@
   title: Generalization and Personalization in Federated Learning with Connections to Medical AI
   abstract: Karan will present two recent works - "What Do We Mean by Generalization in Federated Learning?" (to appear at ICLR 2022, <a href="https://arxiv.org/abs/2110.14216">paper</a>) and "Federated Reconstruction- Partially Local Federated Learning" (presented at NeurIPS 2021, <a href="https://arxiv.org/abs/2102.03448">paper</a>, <a href="https://ai.googleblog.com/2021/12/a-scalable-approach-for-partially-local.html">blog post</a>). He'll give an overview of federated learning, discuss how we might think about generalization when we have multiple local data distributions, and provide an example of a method that improves final generalization to new data distributions. Throughout the talk, he'll connect the works to medical AI by discussing generalization to unseen patients and hospitals, in both federated and standard centralized settings.
   bio: Karan leads a team of engineers and researchers at Google Research working on representation learning and federated learning, with applications in medical AI. He is broadly interested in developing and validating techniques that lead to wider adoption of AI that benefits people. Prior to joining Google, he received an MS and BS in Computer Science from Stanford University.
+  recording: https://youtu.be/jthG7xHvGmo
 
 - speaker: Max Lu
   institution: MIT & Harvard Medical School
   type: upcoming
   date: 3/31/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+
+- speaker: Albert Gu
+  institution: Stanford University
+  type: upcoming
+  date: 4/21/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+  
+- speaker: Petar Stojanov
+  institution: Broad Institute
+  type: upcoming
+  date: 4/28/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
   
