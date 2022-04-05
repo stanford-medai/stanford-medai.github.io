@@ -434,12 +434,13 @@
 
 - speaker: Max Lu
   institution: MIT & Harvard Medical School
-  type: upcoming
+  type: previous
   date: 3/31/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Weakly-supervised, large-scale computational pathology for diagnosis and prognosis
   abstract: In this talk, I will outline a general framework for developing interpretable diagnostic and prognostic machine learning models based on digitized histopathology slides. Our method does not require manual annotation of regions of interest and can be easily scaled to tens of thousands of samples. Examples of application range from cancer subtyping and prognosis to predicting the primary origins of metastatic tumors. 
   bio: Max is a 1st year Computer Science PhD student at MIT advised by Dr. Faisal Mahmood, currently interested in computational pathology and spatial biology. He obtained his B.S. degree in biomedical engineering and applied math and statistics from Johns Hopkins University. Before starting his PhD, his research primarily focused on developing machine learning algorithms for large scale quantitative analysis of digital histopathology slides.
+  recording: https://www.youtube.com/watch?v=vOptYqkxgwg
   
 - speaker: No session this week -- Spring Break! 
   type: upcoming
