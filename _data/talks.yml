@@ -443,14 +443,18 @@
   recording: https://www.youtube.com/watch?v=vOptYqkxgwg
   
 - speaker: No session this week -- Spring Break! 
-  type: upcoming
+  type: previous
   date: 4/7/2022
   
 - speaker: Sabri Eyuboglu
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 4/14/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Discovering Systematic Errors with Domino
+  abstract: Machine learning models that achieve high overall accuracy often make systematic errors on coherent slices of validation data. In this talk , I introduce Domino, a new approach for discovering these underperforming slices. I also discuss a new framework for quantitatively evaluating methods like Domino.
+  bio: Sabri is a 2nd Year CS PhD Student in the Stanford Machine Learning Group co-advised by Chris Ré and James Zou. He’s broadly interested in methods that make machine learning systems more reliable in challenging applied settings. To that end, he’s recently been working on tools that help practitioners better understand the interaction between their models and their data.
+  recording:  https://www.youtube.com/watch?v=4sN_du_U05A
 
 - speaker: Albert Gu
   institution: Stanford University
