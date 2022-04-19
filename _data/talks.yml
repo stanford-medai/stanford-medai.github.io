@@ -461,6 +461,9 @@
   type: upcoming
   date: 4/21/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Efficiently Modeling Long Sequences with Structured State Spaces
+  abstract: A central goal of sequence modeling is designing a single principled model that can address sequence data across a range of modalities and tasks, particularly on long-range dependencies.  Although conventional models including RNNs, CNNs, and Transformers have specialized variants for capturing long dependencies, they still struggle to scale to very long sequences of 10000 or more steps.  This talk introduces the Structured State Space sequence model (S4), a simple new model based on the fundamental state space representation $x*(t) = Ax(t) + Bu(t), y(t) = Cx(t) + Du(t)$. S4 combines elegant properties of state space models with the recent HiPPO theory of continuous-time memorization, resulting in a class of structured models that handles long-range dependencies mathematically and can be computed very efficiently.  S4 achieves strong empirical results across a diverse range of established benchmarks, particularly for continuous signal data such as images, audio, and time series.
+  bio: Albert Gu is a final year Ph.D. candidate in the Department of Computer Science at Stanford University, advised by Christopher Ré. His research broadly studies structured representations for advancing the capabilities of machine learning and deep learning models, with focuses on structured linear algebra, non-Euclidean representations, and theory of sequence models. Previously, he completed a B.S. in Mathematics and Computer Science at Carnegie Mellon University, and an internship at DeepMind in 2019.
   
   
 - speaker: Petar Stojanov
