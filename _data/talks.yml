@@ -469,12 +469,24 @@
   
 - speaker: Petar Stojanov
   institution: Broad Institute
-  type: upcoming
+  type: previous
   date: 4/28/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Domain Adaptation with Invariant Representation Learning - What Transformations to Learn?
   abstract: Unsupervised domain adaptation, as a prevalent transfer learning setting, spans many real-world applications. With the increasing representational power and applicability of neural networks, state-of-the-art domain adaptation methods make use of deep architectures to map the input features X to a latent representation Z that has the same marginal distribution across domains. This has been shown to be insufficient for generating optimal representation for classification, and to find conditionally invariant representations, usually strong assumptions are needed. We provide reasoning why when the supports of the source and target data from overlap, any map of X that is fixed across domains may not be suitable for domain adaptation via invariant features. Furthermore, we develop an efficient technique in which the optimal map from X to Z also takes domain-specific information as input, in addition to the features X. By using the property of minimal changes of causal mechanisms across domains, our model also takes into account the domain-specific information to ensure that the latent representation Z does not discard valuable information about Y . We demonstrate the efficacy of our method via synthetic and real-world data experiments. The code is available at https://github.com/DMIRLAB-Group/DSAN.
   bio: Petar (<a href="http://petar-stojanov.com/">website</a>) is a postdoctoral researcher at the Broad Institute of MIT and Harvard, where he is supervised by Prof. Gad Getz and Prof. Caroline Uhler. He received his PhD in Computer Science at Carnegie Mellon University, where he was fortunate to be advised by Prof. Jaime Carbonell and Prof. Kun Zhang. Prior to that, he was an associate computational biologist at the Getz Lab. His research interests span machine learning and computational biology. He is currently very interested in applying causal discovery methodology to improve genomic analysis of cancer mutation and single-cell RNA sequencing data with the goal of understanding relevant causal relationships in cancer progression. His doctoral research was in transfer learning and domain adaptation from the causal perspective, a field which he is still interested and active.
+  recording: https://www.youtube.com/watch?v=5A-OnX6pGus
+  
+
+- speaker: Nandita Bhaskhar
+  institution: Stanford University
+  type: upcoming
+  date: 5/5/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Beyond Test Set Performance - Risks, Benefits and Strategies for Clinical Deployment
+  abstract: TBD
+  bio: Nandita Bhaskhar (see <a href="http://web.stanford.edu/~nanbhas/" target="_blank">website</a>) is a PhD student in the Department of Electrical Engineering at Stanford University advised by Daniel Rubin. She is broadly interested in developing machine learning methodology for medical applications. Her current research focuses on (i) building label-efficient models through observational supervision and self-supervision for leveraging unlabelled medical data and (ii) developing strategies for reliable model deployment by assessing, quantifying and enhancing model trust, robustness to distribution shifts, etc. Prior to Stanford, she received her B.Tech in Electronics Engineering from the Indian Institute of Information Technology, IIIT, with the highest honours. 
+  recording: https://www.youtube.com/watch?v=luCBXCErkCs
  
 
   
