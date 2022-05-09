@@ -480,7 +480,7 @@
 
 - speaker: Nandita Bhaskhar
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 5/5/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Beyond Test Set Performance - Rethinking Generalization Strategies for Clinical Deployment
@@ -493,12 +493,23 @@
   type: upcoming
   date: 5/12/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title:  A review of <em>Fair</em> AI model development for image classification and prediction
+  abstract: Artificial Intelligence (AI) models have demonstrated
+expert-level performance in image-based recognition and diagnostic
+tasks, resulting in increased adoption and FDA approvals for clinical
+applications. The new challenge in AI is to understand the limitations
+of models to reduce potential harm. Particularly, unknown disparities
+based on demographic factors could encrypt currently existing inequalities worsening patient care for some groups. In this talk, we will discuss techniques to improve model fairness for medical imaging applications alongside their limitations.
+  bio: Ramon Correa is a Ph.D. student in ASU’s Data Science, Analytics, and Engineering program. His research interest involves studying model debiasing techniques. Previously, he completed his undergraduate studies at Case Western Reserve University, majoring in Biomedical Engineering.
   
-- speaker: Imon Banerjee
-  institution: Mayo Clinic
+- speaker: Xiaoyuan Guo
+  institution: Emory Univeristy
   type: upcoming
   date: 5/19/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Facilitating the Curation and Future Analysis of Annotated Medical Images Across Institutions
+  abstract: Medical imaging plays a significant role in different clinical applications such as detection, monitoring, diagnosis, and treatment evaluations of various clinical conditions. Supervised deep learning approaches have been popular in solving medical image related tasks. However, training such models often require large amounts of annotated data as supervision, which is often unavailable in the medical area. Therefore, curation of annotated data is promising to create a large-scale dataset and contribute to the development of supervised learning. Nonetheless, directly sharing data is prohibited due to the patient concerns. Without exchanging data between internal and external data sources, we propose to apply unsupervised anomaly detectors on the internal dataset and learn the clean in-distribution (ID). Then we share the trained models with the externals and detect the class-wise shift data (aka. out-of-distribution (OOD) data) with the anomaly detectors. Higher anomaly scores indicate more difference the external data owe. We also suggest the quantification methods to measure the shiftness of detected data and the external dataset quality after removing the shift samples. Furthermore, we design a corresponding content-based medical image retrieval method that can balance both the intra- and inter-class variance for OOD-sensitive retrieval. The designed shift data identification pipeline can be used to help detect noisy and under-represented data automatically, accelerating the curation process. Meanwhile, the OOD-aware image retrieval is suitable for image annotation, querying and future analysis in external datasets. 
+  bio: Xiaoyuan Guo is a Computer Science PhD student at Emory University, working with Prof. Imon Banerjee, Prof. Hari Trivedi and Prof. Judy Wawira Gichoya. Her primary research interests are computer vision and medical image processing. She is experienced in medical image segmentation, out-of-distribution detection, image retrieval, unsupervised learning, etc.
   
 - speaker: Laura Manduchi
   institution: ETH Zurich
@@ -510,6 +521,12 @@
   institution: Stanford University
   type: upcoming
   date: 6/2/2022
+  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
+- speaker: Dylan Slack
+  institution: University of California, Irvine
+  type: upcoming
+  date: 6/23/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   
 - speaker: Shibani Santurkar
