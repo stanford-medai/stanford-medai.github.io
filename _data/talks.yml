@@ -494,12 +494,7 @@
   date: 5/12/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title:  A review of <em>Fair</em> AI model development for image classification and prediction
-  abstract: Artificial Intelligence (AI) models have demonstrated
-expert-level performance in image-based recognition and diagnostic
-tasks, resulting in increased adoption and FDA approvals for clinical
-applications. The new challenge in AI is to understand the limitations
-of models to reduce potential harm. Particularly, unknown disparities
-based on demographic factors could encrypt currently existing inequalities worsening patient care for some groups. In this talk, we will discuss techniques to improve model fairness for medical imaging applications alongside their limitations.
+  abstract: Artificial Intelligence (AI) models have demonstrated expert-level performance in image-based recognition and diagnostic tasks, resulting in increased adoption and FDA approvals for clinical applications. The new challenge in AI is to understand the limitations of models to reduce potential harm. Particularly, unknown disparities based on demographic factors could encrypt currently existing inequalities worsening patient care for some groups. In this talk, we will discuss techniques to improve model fairness for medical imaging applications alongside their limitations. 
   bio: Ramon Correa is a Ph.D. student in ASU’s Data Science, Analytics, and Engineering program. His research interest involves studying model debiasing techniques. Previously, he completed his undergraduate studies at Case Western Reserve University, majoring in Biomedical Engineering.
   
 - speaker: Xiaoyuan Guo
