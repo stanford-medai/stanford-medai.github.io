@@ -490,27 +490,32 @@
   
 - speaker: Ramon Correa
   institution: Arizona State University
-  type: upcoming
+  type: previous
   date: 5/12/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title:  A review of <em>Fair</em> AI model development for image classification and prediction
   abstract: Artificial Intelligence (AI) models have demonstrated expert-level performance in image-based recognition and diagnostic tasks, resulting in increased adoption and FDA approvals for clinical applications. The new challenge in AI is to understand the limitations of models to reduce potential harm. Particularly, unknown disparities based on demographic factors could encrypt currently existing inequalities worsening patient care for some groups. In this talk, we will discuss techniques to improve model fairness for medical imaging applications alongside their limitations. 
   bio: Ramon Correa is a Ph.D. student in ASU’s Data Science, Analytics, and Engineering program. His research interest involves studying model debiasing techniques. Previously, he completed his undergraduate studies at Case Western Reserve University, majoring in Biomedical Engineering.
+  recording: https://www.youtube.com/watch?v=ZyW57DBJxT8
   
 - speaker: Xiaoyuan Guo
   institution: Emory Univeristy
-  type: upcoming
+  type: previous
   date: 5/19/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Facilitating the Curation and Future Analysis of Annotated Medical Images Across Institutions
   abstract: Medical imaging plays a significant role in different clinical applications such as detection, monitoring, diagnosis, and treatment evaluations of various clinical conditions. Supervised deep learning approaches have been popular in solving medical image related tasks. However, training such models often require large amounts of annotated data as supervision, which is often unavailable in the medical area. Therefore, curation of annotated data is promising to create a large-scale dataset and contribute to the development of supervised learning. Nonetheless, directly sharing data is prohibited due to the patient concerns. Without exchanging data between internal and external data sources, we propose to apply unsupervised anomaly detectors on the internal dataset and learn the clean in-distribution (ID). Then we share the trained models with the externals and detect the class-wise shift data (aka. out-of-distribution (OOD) data) with the anomaly detectors. Higher anomaly scores indicate more difference the external data owe. We also suggest the quantification methods to measure the shiftness of detected data and the external dataset quality after removing the shift samples. Furthermore, we design a corresponding content-based medical image retrieval method that can balance both the intra- and inter-class variance for OOD-sensitive retrieval. The designed shift data identification pipeline can be used to help detect noisy and under-represented data automatically, accelerating the curation process. Meanwhile, the OOD-aware image retrieval is suitable for image annotation, querying and future analysis in external datasets. 
   bio: Xiaoyuan Guo is a Computer Science PhD student at Emory University, working with Prof. Imon Banerjee, Prof. Hari Trivedi and Prof. Judy Wawira Gichoya. Her primary research interests are computer vision and medical image processing. She is experienced in medical image segmentation, out-of-distribution detection, image retrieval, unsupervised learning, etc.
+  recording: https://www.youtube.com/watch?v=ZZMLIxOy_Lc
   
 - speaker: Laura Manduchi
   institution: ETH Zurich
   type: upcoming
   date: 5/26/2022
   livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  title: Incorporating domain knowledge in deep generative models for weakly supervised clustering with applications to survival data
+  abstract: The ever-growing amount of data and the time cost associated with its labeling have made clustering a relevant task in machine learning. Yet, in many cases, a fully unsupervised clustering algorithm might naturally find a solution that is not consistent with the domain knowledge. Additionally, practitioners often have access to prior information about the types of clusters that are sought, and a principled method to guide the algorithm towards a desirable configuration is then needed. This talk will explore how to integrate domain knowledge, in the form of pairwise constraints and survival data, in deep generative models. Leveraging side information in biomedical datasets enables exploratory analysis of complex data types, resulting in medically meaningful findings.
+  bio: Laura is a PhD student in Computer Science at the Institute of Machine Learning at ETH Zürich under the supervision of Julia Vogt and Gunnar Rätsch. She is a member of the Medical Data Science group and of the ETH AI Centre. Her research lies at the interplay between probabilistic modelling and deep learning, with a focus on representation learning, deep generative models, and clustering algorithms. She is particularly interested in incorporating domain knowledge in the form of constraints and probabilistic relations to obtain preferred representations of data that are robust to biases, with applications in medical imaging and X-ray astronomy.
   
 - speaker: Huaxiu Yao
   institution: Stanford University
