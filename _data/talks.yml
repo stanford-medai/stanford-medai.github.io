@@ -512,7 +512,6 @@
   institution: ETH Zurich
   type: upcoming
   date: 5/26/2022
-  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
   title: Incorporating domain knowledge in deep generative models for weakly supervised clustering with applications to survival data
   abstract: The ever-growing amount of data and the time cost associated with its labeling have made clustering a relevant task in machine learning. Yet, in many cases, a fully unsupervised clustering algorithm might naturally find a solution that is not consistent with the domain knowledge. Additionally, practitioners often have access to prior information about the types of clusters that are sought, and a principled method to guide the algorithm towards a desirable configuration is then needed. This talk will explore how to integrate domain knowledge, in the form of pairwise constraints and survival data, in deep generative models. Leveraging side information in biomedical datasets enables exploratory analysis of complex data types, resulting in medically meaningful findings.
   bio: Laura is a PhD student in Computer Science at the Institute of Machine Learning at ETH Zürich under the supervision of Julia Vogt and Gunnar Rätsch. She is a member of the Medical Data Science group and of the ETH AI Centre. Her research lies at the interplay between probabilistic modelling and deep learning, with a focus on representation learning, deep generative models, and clustering algorithms. She is particularly interested in incorporating domain knowledge in the form of constraints and probabilistic relations to obtain preferred representations of data that are robust to biases, with applications in medical imaging and X-ray astronomy.
@@ -521,19 +520,19 @@
   institution: Stanford University
   type: upcoming
   date: 6/2/2022
-  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
   
 - speaker: Dylan Slack
   institution: University of California, Irvine
   type: upcoming
   date: 6/23/2022
-  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
   
 - speaker: Shibani Santurkar
   institution: Stanford University
   type: upcoming
   date: 6/30/2022
-  livestream: https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w
+  
  
   
 
