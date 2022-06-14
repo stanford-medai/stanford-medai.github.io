@@ -519,11 +519,12 @@
   
 - speaker: Huaxiu Yao
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 6/2/2022
   title: Actionable Machine Learning for Tackling Distribution Shift
   abstract: To deploy machine learning algorithms in real-world applications, we must pay attention to distribution shift. When the test distribution differs from the training distribution, there will be a substantial degradation in model performance. To tackle the distribution shift, in this talk, I will present two paradigms with some instantiations. Concretely, I will first discuss how to build machine learning models that are robust to two kinds of distribution shifts, including subpopulation shift and domain shift. I will then discuss how to effectively adapt the trained model to the test distribution with minimal labeled data. The remaining challenges and promising future research directions will also be discussed.
   bio: Huaxiu Yao is a Postdoctoral Scholar in Computer Science at Stanford University, working with Prof. Chelsea Finn. Currently, his research focuses on building machine learning models that are robust to distribution shifts. He is also passionate about applying these methods to solve real-world problems with limited data. He obtained his Ph.D. degree from Pennsylvania State University. The results of his work have been published in top-tier venues such as ICML, ICLR, NeurIPS. He organized the MetaLearn workshop at NeurIPS, the pre-training workshop at ICML, and he served as a tutorial speaker at KDD, IJCAI, and AAAI.
+  recording: https://www.youtube.com/watch?v=iVk-ouzXiXA
   
 - speaker: SUMMER BREAK!
   type: upcoming
