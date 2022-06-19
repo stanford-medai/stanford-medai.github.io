@@ -527,11 +527,11 @@
   recording: https://www.youtube.com/watch?v=iVk-ouzXiXA
   
 - speaker: SUMMER BREAK!
-  type: upcoming
+  type: previous
   date: 6/9/2022
   
 - speaker: SUMMER BREAK!
-  type: upcoming
+  type: previous
   date: 6/16/2022
   
   
@@ -539,12 +539,25 @@
   institution: University of California, Irvine
   type: upcoming
   date: 6/23/2022
+  title: Exposing Shortcomings and Improving the Reliability of Machine Learning Explanations
+  abstract: For domain experts to adopt machine learning (ML) models in high-stakes settings such as health care and law, they must understand and trust model predictions. As a result, researchers have proposed numerous ways to explain the predictions of complex ML models. However, these approaches suffer from several critical drawbacks, such as vulnerability to adversarial attacks, instability, inconsistency, and lack of guidance about accuracy and correctness. For practitioners to safely use explanations in the real world, it is vital to properly characterize the limitations of current techniques and develop improved explainability methods. This talk will describe the shortcomings of explanations and introduce current research demonstrating how they are vulnerable to adversarial attacks. I will also discuss promising solutions and present recent work on explanations that leverage uncertainty estimates to overcome several critical explanation shortcomings.
+  bio: Dylan Slack is a Ph.D. candidate at UC Irvine advised by Sameer Singh and Hima Lakkaraju and associated with UCI NLP, CREATE, and the HPI Research Center. His research focuses on developing techniques that help researchers and practitioners build more robust, reliable, and trustworthy machine learning models. In the past, he has held research internships at GoogleAI and Amazon AWS and was previously an undergraduate at Haverford College advised by Sorelle Friedler where he researched fairness in machine learning.
   
   
 - speaker: Shibani Santurkar
   institution: Stanford University
   type: upcoming
   date: 6/30/2022
+  
+- speaker: Ruishan Liu
+  institution: Stanford University
+  type: upcoming
+  date: 7/7/2022
+  
+- speaker: Richard Chen
+  institution: Harvard University
+  type: upcoming
+  date: 7/28/2022
   
  
   
