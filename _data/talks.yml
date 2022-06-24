@@ -537,22 +537,37 @@
   
 - speaker: Dylan Slack
   institution: University of California, Irvine
-  type: upcoming
+  type: previous
   date: 6/23/2022
   title: Exposing Shortcomings and Improving the Reliability of Machine Learning Explanations
   abstract: For domain experts to adopt machine learning (ML) models in high-stakes settings such as health care and law, they must understand and trust model predictions. As a result, researchers have proposed numerous ways to explain the predictions of complex ML models. However, these approaches suffer from several critical drawbacks, such as vulnerability to adversarial attacks, instability, inconsistency, and lack of guidance about accuracy and correctness. For practitioners to safely use explanations in the real world, it is vital to properly characterize the limitations of current techniques and develop improved explainability methods. This talk will describe the shortcomings of explanations and introduce current research demonstrating how they are vulnerable to adversarial attacks. I will also discuss promising solutions and present recent work on explanations that leverage uncertainty estimates to overcome several critical explanation shortcomings.
   bio: Dylan Slack is a Ph.D. candidate at UC Irvine advised by Sameer Singh and Hima Lakkaraju and associated with UCI NLP, CREATE, and the HPI Research Center. His research focuses on developing techniques that help researchers and practitioners build more robust, reliable, and trustworthy machine learning models. In the past, he has held research internships at GoogleAI and Amazon AWS and was previously an undergraduate at Haverford College advised by Sorelle Friedler where he researched fairness in machine learning.
+  recording: https://www.youtube.com/watch?v=Eta5Z_ZXrMY
   
   
 - speaker: Shibani Santurkar
   institution: Stanford University
   type: upcoming
   date: 6/30/2022
+  title: Actionably interpretable ML
+  abstract: Machine learning models today attain impressive accuracy on benchmark tasks. But as we move towards deploying these models in the real world, it becomes increasingly important to verify that they not only make the *right prediction*, but that they do so for the *right reasons*. The scale and complexity of current models however presents a major roadblock in achieving this goal.<br> In this talk, I will discuss a methodology to design neural networks that are accurate, yet at the same time inherently more debuggable. As we demonstrate via numerical and human experiments, our approach yields vision and language models wherein one can more easily pinpoint learned spurious correlations, explain misclassifications, and diagnose biases.
+  bio: Shibani Santurkar is a postdoctoral researcher at Stanford University with Tatsu Hashimoto, Percy Liang and Tengyu Ma. Her research revolves around developing machine learning models that can perform reliably in the real world, and characterizing the consequences if they fail to do so. Shibani received a PhD in Computer Science from MIT in 2021, where she was advised by Aleksander Mądry and Nir Shavit. Prior to that, she obtained a B.Tech and M.Tech in electrical engineering from the Indian Institute of Technology Bombay. She is a recipient of the Google Fellowship and an Open Philanthropy early-career grant.
+  recording: Talk will not be publicly available! Catch it live on Zoom!
   
 - speaker: Ruishan Liu
   institution: Stanford University
   type: upcoming
   date: 7/7/2022
+  
+- speaker: Andrew Ilyas
+  institution: MIT
+  type: upcoming
+  date: 7/14/2022
+  
+- speaker: Hyewon Jeong
+  institution: MIT
+  type: upcoming
+  date: 7/21/2022
   
 - speaker: Richard Chen
   institution: Harvard University
