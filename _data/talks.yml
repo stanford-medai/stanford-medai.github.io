@@ -547,7 +547,7 @@
   
 - speaker: Shibani Santurkar
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 6/30/2022
   title: Actionably interpretable ML
   abstract: Machine learning models today attain impressive accuracy on benchmark tasks. But as we move towards deploying these models in the real world, it becomes increasingly important to verify that they not only make the *right prediction*, but that they do so for the *right reasons*. The scale and complexity of current models however presents a major roadblock in achieving this goal.<br> In this talk, I will discuss a methodology to design neural networks that are accurate, yet at the same time inherently more debuggable. As we demonstrate via numerical and human experiments, our approach yields vision and language models wherein one can more easily pinpoint learned spurious correlations, explain misclassifications, and diagnose biases.
@@ -557,6 +557,9 @@
   institution: Stanford University
   type: upcoming
   date: 7/7/2022
+  title: AI for Clinical Trials and Precision Medicine
+  abstract: Clinical trials are the gate-keeper of medicine but can be very costly and lengthy to conduct. Precision medicine transforms healthcare but is limited by available clinical knowledge. This talk explores how AI can help both — make clinical trials more efficient and generate hypotheses for precision medicine. I will first discuss Trial Pathfinder, a computational framework that simulates synthetic patient cohorts from medical records to optimize cancer trial designs (Liu et al. Nature 2021). Trial Pathfinder enables inclusive criteria and data valuation for clinical trials, benefiting diverse patients and trial sponsors. In the second part, I will discuss how to quantify the effectiveness of cancer therapies in patients with specific mutations (Liu et al. Nature Medicine 2022). This work demonstrates how computational analysis of large real-world data generates insights, hypotheses and resources to enable precision oncology.
+  bio: Ruishan Liu is a postdoctoral researcher in the Department of Biomedical Data Science at Stanford University, working with Prof. James Zou. She received her PhD in the Department of Electrical Engineering at Stanford University in 2022. She is broadly interested in the intersection of machine learning and applications in human diseases, health and genomics. Her work on Trial Pathfinder was selected as 2021 Top Ten Clinical Research Achievement and Finalist for Global Pharma Award 2021.
   
 - speaker: Andrew Ilyas
   institution: MIT
