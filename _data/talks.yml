@@ -555,16 +555,20 @@
   
 - speaker: Ruishan Liu
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 7/7/2022
   title: AI for Clinical Trials and Precision Medicine
   abstract: Clinical trials are the gate-keeper of medicine but can be very costly and lengthy to conduct. Precision medicine transforms healthcare but is limited by available clinical knowledge. This talk explores how AI can help both — make clinical trials more efficient and generate hypotheses for precision medicine. I will first discuss Trial Pathfinder, a computational framework that simulates synthetic patient cohorts from medical records to optimize cancer trial designs (Liu et al. Nature 2021). Trial Pathfinder enables inclusive criteria and data valuation for clinical trials, benefiting diverse patients and trial sponsors. In the second part, I will discuss how to quantify the effectiveness of cancer therapies in patients with specific mutations (Liu et al. Nature Medicine 2022). This work demonstrates how computational analysis of large real-world data generates insights, hypotheses and resources to enable precision oncology.
   bio: Ruishan Liu is a postdoctoral researcher in the Department of Biomedical Data Science at Stanford University, working with Prof. James Zou. She received her PhD in the Department of Electrical Engineering at Stanford University in 2022. She is broadly interested in the intersection of machine learning and applications in human diseases, health and genomics. Her work on Trial Pathfinder was selected as 2021 Top Ten Clinical Research Achievement and Finalist for Global Pharma Award 2021.
+  recording: https://www.youtube.com/watch?v=9HVKmTgZJIQ
   
 - speaker: Andrew Ilyas
   institution: MIT
   type: upcoming
   date: 7/14/2022
+  title: Datamodels - Predicting Predictions from Training Data
+  abstract: Machine learning models tend to rely on an abundance of training data. Yet, understanding the underlying structure of this data--and models exact dependence on it--remains a challenge. In this talk, we will present a framework for directly modeling predictions as functions of training data. This framework, given a dataset and a learning algorithm, pinpoints--at varying levels of granularity--the relationships between train and test point pairs through the lens of the corresponding model class. Even in its most basic version, our framework enables many applications, including discovering data subpopulations, quantifying model brittleness via counterfactuals, and identifying train-test leakage. Based on joint work with Sung Min Park, Logan Engstrom, Guillaume Leclerc, and Aleksander Madry.
+  bio: Andrew Ilyas is a fourth-year PhD student at MIT, advised by Aleksander Madry and Constantinos Daskalakis. His research focuses on robust and reliable machine learning, with an emphasis on the ways in which (often unintended) correlations present in training data can manifest at test-time. He is supported by an Open Philanthropy Project AI Fellowship. 
   
 - speaker: Hyewon Jeong
   institution: MIT
