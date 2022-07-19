@@ -564,21 +564,35 @@
   
 - speaker: Andrew Ilyas
   institution: MIT
-  type: upcoming
+  type: previous
   date: 7/14/2022
   title: Datamodels - Predicting Predictions from Training Data
   abstract: Machine learning models tend to rely on an abundance of training data. Yet, understanding the underlying structure of this data--and models exact dependence on it--remains a challenge. In this talk, we will present a framework for directly modeling predictions as functions of training data. This framework, given a dataset and a learning algorithm, pinpoints--at varying levels of granularity--the relationships between train and test point pairs through the lens of the corresponding model class. Even in its most basic version, our framework enables many applications, including discovering data subpopulations, quantifying model brittleness via counterfactuals, and identifying train-test leakage. Based on joint work with Sung Min Park, Logan Engstrom, Guillaume Leclerc, and Aleksander Madry.
   bio: Andrew Ilyas is a fourth-year PhD student at MIT, advised by Aleksander Madry and Constantinos Daskalakis. His research focuses on robust and reliable machine learning, with an emphasis on the ways in which (often unintended) correlations present in training data can manifest at test-time. He is supported by an Open Philanthropy Project AI Fellowship. 
+  recording: https://www.youtube.com/watch?v=dgo7nRQcw_E
   
 - speaker: Hyewon Jeong
   institution: MIT
   type: upcoming
   date: 7/21/2022
+  title: Real-Time Seizure Detection using EEG - A Comprehensive Comparison of Recent Approaches under a Realistic Setting
+  abstract: Electroencephalogram (EEG) is an important diagnostic test that physicians use to record brain activity and detect seizures by monitoring the signals. There have been several attempts to detect seizures and abnormalities in EEG signals with modern deep learning models to reduce the clinical burden. However, they cannot be fairly compared against each other as they were tested in distinct experimental settings. Also, some of them are not trained in real-time seizure detection tasks, making it hard for on-device applications. In this work, for the first time, we extensively compare multiple state-of-the-art models and signal feature extractors in a real-time seizure detection framework suitable for real-world application, using various evaluation metrics including a new one we propose to evaluate more practical aspects of seizure detection models.
+  bio: Hyewon Jeong, M.D., M.S. is a Ph.D. student in Electrical Engineering and Computer Science at MIT, co-advised by Marzyeh Ghassemi and Collin Stultz. Her primary research focus has been on developing and applying machine learning methods to solve real-world clinical tasks using time-series electronic health record data and signal data. Before joining MIT, she received a B.S. in Biological Sciences, M.S. in Computer Science from KAIST, and M.D. at Yonsei University.
   
 - speaker: Richard Chen
   institution: Harvard University
   type: upcoming
   date: 7/28/2022
+  
+- speaker: Natalie Dullerud
+  institution: Stanford University
+  type: upcoming
+  date: 8/11/2022
+  
+- speaker: Chima Okechukwu
+  institution: Georgia Institute of Technology
+  type: upcoming
+  date: 8/25/2022
   
  
   
