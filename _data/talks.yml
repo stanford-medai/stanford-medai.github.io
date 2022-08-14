@@ -597,18 +597,26 @@
   bio: Tri Dao is a PhD student in Computer Science at Stanford, co-advised by Christopher Re and Stefano Ermon. He works at the interface of machine learning and systems, and his research interests include sequence models with long-range memory and structured matrices for compact deep learning models. His work has received the ICML 2022 Outstanding paper runner-up award.
   recording: https://www.youtube.com/watch?v=FThvfkXWqtE
   
-- speaker: Natalie Dullerud
-  institution: Stanford University (prev. at University of Toronto)
+- speaker: No session (Speaker cancellation)
   type: upcoming
   date: 8/11/2022
-  title: Fairness in representation learning - a study in evaluating and addressing fairness via subgroup disparities in deep metric learning
-  abstract: Deep metric learning (DML) enables learning with less supervision through its emphasis on the similarity structure of representations. There has been much work on improving generalization of DML in settings like zero-shot retrieval, but little is known about its implications for fairness. In this talk, we will discuss evaluation of state-of-the-art DML methods trained on imbalanced data, and show the negative impact these representations have on minority subgroup performance when used for downstream tasks. In the talk, we will first define fairness in DML through an analysis of three properties of the representation space -- inter-class alignment, intra-class alignment, and uniformity -- and propose finDML, the fairness in non-balanced DML benchmark to characterize representation fairness. Utilizing finDML, we find bias in DML representations to propagate to common downstream classification tasks. Surprisingly, this bias is propagated even when training data in the downstream task is re-balanced. To address this problem, we present Partial Attribute De-correlation (PARADE) to de-correlate feature representations from sensitive attributes and reduce performance gaps between subgroups in both embedding space and downstream metrics. In addition to covering salient aspects of fairness in deep metric learning, the talk will encompass a larger discussion of fairness metrics in representation learning at large, where our proposed definitions exist within representation learning, and how use of such metrics may vary based on domain.
-  bio: Natalie Dullerud is an incoming PhD student at Stanford University and recently received her Masters from University of Toronto. She previously graduated with a Bachelor’s degree in mathematics from University of Southern California, with minors in computer science and chemistry. At University of Toronto, Natalie was awarded a Junior Fellowship at Massey College, and she has completed several research internships at Microsoft Research. Natalie’s research largely focuses on machine learning through differential privacy, algorithmic fairness, and applications to clinical and biological settings.
+  
+- speaker: Break - No session
+  type: upcoming
+  date: 8/18/2022
   
 - speaker: Chima Okechukwu
   institution: Georgia Institute of Technology
   type: upcoming
   date: 8/25/2022
+  
+- speaker: Natalie Dullerud
+  institution: Stanford University (prev. at University of Toronto)
+  type: upcoming
+  date: 9/15/2022
+  title: Fairness in representation learning - a study in evaluating and addressing fairness via subgroup disparities in deep metric learning
+  abstract: Deep metric learning (DML) enables learning with less supervision through its emphasis on the similarity structure of representations. There has been much work on improving generalization of DML in settings like zero-shot retrieval, but little is known about its implications for fairness. In this talk, we will discuss evaluation of state-of-the-art DML methods trained on imbalanced data, and show the negative impact these representations have on minority subgroup performance when used for downstream tasks. In the talk, we will first define fairness in DML through an analysis of three properties of the representation space -- inter-class alignment, intra-class alignment, and uniformity -- and propose finDML, the fairness in non-balanced DML benchmark to characterize representation fairness. Utilizing finDML, we find bias in DML representations to propagate to common downstream classification tasks. Surprisingly, this bias is propagated even when training data in the downstream task is re-balanced. To address this problem, we present Partial Attribute De-correlation (PARADE) to de-correlate feature representations from sensitive attributes and reduce performance gaps between subgroups in both embedding space and downstream metrics. In addition to covering salient aspects of fairness in deep metric learning, the talk will encompass a larger discussion of fairness metrics in representation learning at large, where our proposed definitions exist within representation learning, and how use of such metrics may vary based on domain.
+  bio: Natalie Dullerud is an incoming PhD student at Stanford University and recently received her Masters from University of Toronto. She previously graduated with a Bachelor’s degree in mathematics from University of Southern California, with minors in computer science and chemistry. At University of Toronto, Natalie was awarded a Junior Fellowship at Massey College, and she has completed several research internships at Microsoft Research. Natalie’s research largely focuses on machine learning through differential privacy, algorithmic fairness, and applications to clinical and biological settings.
   
  
   
