@@ -598,17 +598,25 @@
   recording: https://www.youtube.com/watch?v=FThvfkXWqtE
   
 - speaker: No session (Speaker cancellation)
-  type: upcoming
+  type: previous
   date: 8/11/2022
   
 - speaker: Break - No session
-  type: upcoming
+  type: previous
   date: 8/18/2022
   
 - speaker: Chima Okechukwu
   institution: Georgia Institute of Technology
   type: upcoming
   date: 8/25/2022
+  title: Lessons learned from an X-ray Body Part Classifier Competition
+  abstract: We discuss technical and nontechnical learnings from participating in the UNIFESP X-ray Body Part Classifier Competition. Anyone already in or looking to enter a machine learning competition would benefit from listening to this session.
+  bio: Chima Okechukwu is a Masters student in the College of Computing at Georgia Institute of Technology. He is a student under Judy Gichoya in the Healthcare Innovation and Translational Lab (HITI) at Emory. He is broadly interested in machine learning and applications in medical imaging and disease classification.
+  
+- speaker: Paul Pu Liang
+  institution: Carnegie Mellon University
+  type: upcoming
+  date: 9/1/2022
   
 - speaker: Natalie Dullerud
   institution: Stanford University (prev. at University of Toronto)
