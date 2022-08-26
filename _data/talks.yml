@@ -612,6 +612,7 @@
   title: Lessons learned from an X-ray Body Part Classifier Competition
   abstract: We discuss technical and nontechnical learnings from participating in the UNIFESP X-ray Body Part Classifier Competition. Anyone already in or looking to enter a machine learning competition would benefit from listening to this session.
   bio: Chima Okechukwu is a Masters student in the College of Computing at Georgia Institute of Technology. He is a student under Judy Gichoya in the Healthcare Innovation and Translational Lab (HITI) at Emory. He is broadly interested in machine learning and applications in medical imaging and disease classification.
+  recording: https://www.youtube.com/watch?v=DOIpsOagVXU
   
 - speaker: Paul Pu Liang
   institution: Carnegie Mellon University
