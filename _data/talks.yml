@@ -607,7 +607,7 @@
   
 - speaker: Chima Okechukwu
   institution: Georgia Institute of Technology
-  type: upcoming
+  type: previous
   date: 8/25/2022
   title: Lessons learned from an X-ray Body Part Classifier Competition
   abstract: We discuss technical and nontechnical learnings from participating in the UNIFESP X-ray Body Part Classifier Competition. Anyone already in or looking to enter a machine learning competition would benefit from listening to this session.
@@ -618,6 +618,9 @@
   institution: Carnegie Mellon University
   type: upcoming
   date: 9/1/2022
+  title: Fundamentals of Multimodal Representation Learning - Towards Generalization and Quantification
+  abstract: In recent years, the quest for artificial intelligence capable of digital, physical, and social intelligence has led to an explosion of interest in multimodal datasets and algorithms. This research area of multimodal machine learning studies the computational and theoretical foundations of learning from heterogeneous data sources. This talk studies two core challenges in multimodal learning- (1) constructing multimodal models and datasets that enable generalization across many modalities and different tasks, and (2) designing quantification methods to comprehensively understand the internal mechanics of multimodal representations and gain insights for safe real-world deployment. <br> In the first part, we study generalization in multimodal learning. Generalization is particularly beneficial when one modality has limited resources such as the lack of annotated data, noisy inputs, or unreliable labels, and presents a step towards processing many diverse and understudied modalities. To enable the study of generalization, we introduce MultiBench, a unified large-scale benchmark across a wide range of modalities, tasks, and research areas. Using MultiBench, we study generalization with parallel modalities, as well as in non-parallel scenarios, where we are presented with many modalities, but each task is defined only over a small subset of them. <br> The second part studies quantification of multimodal models via MultiViz, our recent attempt at a framework to understand the internal modeling of multimodal information and cross-modal interactions. We conclude this talk by discussing how future work can leverage these ideas to drive progress towards more general, scalable, and explainable multimodal models.
+  bio: Paul Liang is a Ph.D. student in Machine Learning at CMU, advised by Louis-Philippe Morency and Ruslan Salakhutdinov. His research lies in the foundations of multimodal machine learning with applications in socially intelligent AI, understanding human and machine intelligence, natural language processing, healthcare, and education. His research is generously supported by a Facebook PhD Fellowship and a Center for Machine Learning and Health Fellowship, and has been recognized by awards at the NeurIPS 2019 workshop on federated learning and ICMI 2017. He regularly organizes courses, workshops, and tutorials on multimodal learning and was a workflow chair for ICML 2019. Website: https://www.cs.cmu.edu/~pliang/
   
 - speaker: Arjun Desai
   institution: Stanford University
