@@ -625,11 +625,12 @@
   
 - speaker: Arjun Desai
   institution: Stanford University
-  type: upcoming
+  type: previous 
   date: 9/8/2022
   title: Leveraging Physics-Based Priors for Label-Efficient, Robust MRI Reconstruction
   abstract: Deep learning has enabled improved image quality and fast inference times for various inverse problems, including accelerated MRI reconstruction. However, these models require access to large amounts of fully-sampled (labeled) data and are sensitive to clinically-pervasive distribution drifts. To tackle this challenge, we propose a family of consistency-based training strategies, which leverage physics-driven data augmentations and our domain knowledge of MRI physics to improve label efficiency and robustness to relevant distribution shifts. In this talk, we will discuss how two of these methods, Noise2Recon and VORTEX, can reduce the need for labeled data by over 10-fold and increase robustness to both physics-driven perturbations and variations in anatomy and MRI sequences & contrasts. We will also discuss how these techniques can simplify composing heterogenous augmentation and self-supervised methods into a unified framework.
   bio: Arjun is a 4th-year PhD student in Electrical Engineering working with Akshay Chaudhari and Chris Ré. He is broadly interested in how we can accelerate the pace at which artificial intelligence can be used safely and at scale in healthcare. His interests lie at the intersection of signal processing and machine learning, including representation learning for multimodal data, developing data-efficient & robust machine learning methods, and designing scalable clinical deployment and validation systems for medical image acquisition and analysis. Prior to Stanford, he received his B.E. in Biomedical Engineering and Computer Science from Duke University.
+  recording: https://www.youtube.com/watch?v=acMtMT_iO4s
   
 - speaker: Natalie Dullerud
   institution: Stanford University (prev. at University of Toronto)
