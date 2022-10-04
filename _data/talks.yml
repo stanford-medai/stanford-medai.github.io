@@ -647,7 +647,7 @@
   
 - speaker: Ethan Steinberg
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 9/29/2022
   title: Language Models Are An Effective Representation Learning Technique For Electronic Health Record Data
   abstract: The widespread adoption of electronic health records (EHRs) has fueled the development of using machine learning to build prediction models for various clinical outcomes. However, this process is often constrained by having a relatively small number of patient records for training the model. We demonstrate that using patient representation schemes inspired from techniques in natural language processing can increase the accuracy of clinical prediction models by transferring information learned from the entire patient population to the task of training a specific model, where only a subset of the population is relevant. Such patient representation schemes enable a 3.5% mean improvement in AUROC on five prediction tasks compared to standard baselines, with the average improvement rising to 19% when only a small number of patient records are available for training the clinical prediction model. <a href="https://www.sciencedirect.com/science/article/pii/S1532046420302653?via%3Dihub">Paper Linked Here</a>
