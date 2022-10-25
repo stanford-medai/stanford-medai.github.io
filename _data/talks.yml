@@ -656,16 +656,48 @@
   
 - speaker: Louis Blankemeier
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 10/6/2022
   title: Opportunistic Incidence Prediction of Multiple Chronic Diseases from Abdominal CT Imaging Using Multi-Task Learning
   abstract: Opportunistic computed tomography (CT) analysis is a paradigm where CT scans that have already been acquired for routine clinical questions are reanalyzed for disease prognostication, typically aided by machine learning. While such techniques for opportunistic use of abdominal CT scans have been implemented for assessing the risk of a handful of individual disorders, their prognostic power in simultaneously assessing multiple chronic disorders has not yet been evaluated. In this retrospective study of 9,154 patients, we demonstrate that we can effectively assess 5-year incidence of chronic kidney disease (CKD), diabetes mellitus (DM), hypertension (HT), ischemic heart disease (IHD), and osteoporosis (OST) using single already-acquired abdominal CT scans. We demonstrate that a shared multi-planar CT input, consisting of an axial CT slice occurring at the L3 vertebral level, as well as carefully selected sagittal and coronal slices, enables accurate future disease incidence prediction. Furthermore, we demonstrate that casting this shared CT input into a multi-task approach is particularly valuable in the low-label regime. With just 10% of labels for our diseases of interest, we recover nearly 99% of fully supervised AUROC performance, representing an improvement over single-task learning.
   bio: Louis Blankemeier is a PhD student in electrical engineering at Stanford in the machine intelligence in medical imaging group led by Professor Akshay Chaudhari. His research focuses on reusing the vast amounts of patient data, often collected to answer specific clinical questions, to automatically screen for unrelated indications, a paradigm referred to as opportunistic screening. He has also spent time working on medical AI in industry at GE Healthcare and Microsoft Health AI. He holds a master’s in electrical engineering from Stanford and bachelor’s degrees in physics and electrical engineering from the University of Southern California. 
   
+- speaker: Break - <a href="https://docs.google.com/forms/d/e/1FAIpQLScLGUTBARtbI5Gzr9v1NnO_0gtejECvz9GI2Eb5NKe9N9FjRA/viewform">Speaker Nominations + Feedback Forms</a>
+  type: previous
+  date: 10/13/2022
+  
+- speaker: Break - <a href="https://docs.google.com/forms/d/e/1FAIpQLScLGUTBARtbI5Gzr9v1NnO_0gtejECvz9GI2Eb5NKe9N9FjRA/viewform">Speaker Nominations + Feedback Forms</a>
+  type: upcoming
+  date: 10/20/2022
+
 - speaker: David Ouyang
   institution: Cedars-Sinai Medical Center
   type: upcoming
   date: 10/27/2022
+  title: Development to Deployment of Cardiovascular AI
+  abstract: Computer vision has advanced tremendously over the last decade, with performance of deep learning algorithms surpassing previous paradigms of image identification and segmentation. Cardiovascular care relies on precise detection, interpretation, and measurement of cardiovascular imaging, and could benefit from automation. In this talk, I will describe opportunities to explore cardiovascular medicine and its current challenges through the application of AI models and eventual assessment in clinical trials and deployment in clinical care.
+  bio: David is a cardiologist and researcher in the Department of Cardiology and Division of Artificial Intelligence in Medicine at Cedars-Sinai Medical Center. As a physician-scientist and statistician with focus on cardiology and cardiovascular imaging, he works on applications of deep learning, computer vision, and the statistical analysis of large datasets within cardiovascular medicine. As a clinical echocardiographer, he works on applying deep learning for precision phenotyping in cardiac ultrasound. Additionally, he is interested in multi-modal datasets, linking ECR, echo, and MRI data for a holistic look at cardiovascular disease. He majored in statistics at Rice University, obtained his MD at UCSF, and received post-graduate medical education in internal medicine, cardiology, and a postdoc in computer science and biomedical data science at Stanford University.
+  
+- speaker: Christian Bluethgen
+  instituition: Stanford University
+  type: upcoming
+  date: 11/3/2022
+ 
+  
+- speaker: Julian Acosta
+  instituition: Yale University
+  type: upcoming
+  date: 12/1/2022
+  
+- speaker: Roxana Daneshjou 
+  instituition: Stanford University
+  type: upcoming
+  date: 1/26/2023
+  
+  
+  
+
+  
 
  
   
