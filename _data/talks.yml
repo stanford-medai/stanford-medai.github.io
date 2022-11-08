@@ -681,23 +681,40 @@
   
 - speaker: Christian Bluethgen & Pierre Chambon
   instituition: Stanford University
-  type: upcoming
+  type: previous
   date: 11/3/2022
   title: Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains
   abstract: Multi-modal foundation models are typically trained on millions of pairs of natural images and text captions. Although such models depict excellent generative capabilities, they do not typically generalize well to specific domains such as medical images that have fundamentally shifted distributions compared to natural images. Building generative models for medical images that faithfully depict clinical context may help alleviate the paucity of healthcare datasets. To investigate the capacity of a large pretrained latent diffusion model (Stable Diffusion) to generate medical domain-specific images, we explored the main components of the Stable Diffusion pipeline (the variational autoencoder, the U-Net and the text-encoder), to fine-tune the model to generate chest x-rays and evaluate the results on quantitative and qualitative levels. Our best-performing model can be text-conditioned to insert realistic-looking abnormalities like pleural effusions on synthetic radiological images, while maintaining a high accuracy on a classifier trained to detect the abnormality on real images. 
   bio: <b>Christian</b> is a physician-scientist, a radiologist with a clinical focus on thoracic imaging and currently a postdoctoral research fellow at the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI). At the AIMI Center, he works on the application of deep learning for the detection, diagnosis and monitoring of interstitial lung disease and other thoracic pathologies, using large multi-modal imaging and EHR datasets. Before joining AIMI, he worked as a radiologist at the University Hospital Zurich, where he created computational simulations to visualize lung ultrasound wave propagation, developed NLP models for the classification of radiology reports, used radiomics for the differentiation of thymic neoplasms and deep learning for fracture detection and localization. In Zurich, he initiated the seminar series “Applied Machine Learning in Diagnostic Imaging” (currently in its fifth year), which brings together radiologists, researchers and clinicians from other medical specialties, and industry. <br> <b>Pierre</b>  is an ML researcher, who recently graduated from a master at Stanford ICME and will soon graduate from a master in France at Ecole Centrale Paris, with a focus on mathematical and computational methods for machine learning and deep learning. He has been involved at the AIMI center for the last two years, where he developed NLP methods for domain-specific applications to radiology as well as multimodal tasks along vision models. As part of the MIDRC initiative, he worked on classification tasks in the data- and compute-constraint settings, as well as a text de-identification tool useful for the broad sharing of medical notes within and between institutions. More recently, he tackled both image-to-text and text-to-image tasks, leading to models that can generate synthetic radiology images and reports, hopefully further useful to other machine learning applications in radiology.
+  recording: https://www.youtube.com/watch?v=pSZDT5_EQj0
 
+- speaker: Adriel Saporta
+  instituition: Courant Institute at NYU (New York University)
+  type: upcoming
+  date: 11/10/2022
+  title: Benchmarking saliency methods for chest X-ray interpretation
+  abstract: Saliency methods, which produce heat maps that highlight the areas of the medical image that influence model prediction, are often presented to clinicians as an aid in diagnostic decision-making. However, rigorous investigation of the accuracy and reliability of these strategies is necessary before they are integrated into the clinical setting. In this work, we quantitatively evaluate seven saliency methods, including Grad-CAM, across multiple neural network architectures using two evaluation metrics. We establish the first human benchmark for chest X-ray segmentation in a multilabel classification set-up, and examine under what clinical conditions saliency maps might be more prone to failure in localizing important pathologies compared with a human expert benchmark. We find that (1) while Grad-CAM generally localized pathologies better than the other evaluated saliency methods, all seven performed significantly worse compared with the human benchmark, (2) the gap in localization performance between Grad-CAM and the human benchmark was largest for pathologies that were smaller in size and had shapes that were more complex, and (3) model confidence was positively correlated with Grad-CAM localization performance. Our work demonstrates that several important limitations of saliency methods must be addressed before we can rely on them for deep learning explainability in medical imaging.
+  bio: Adriel Saporta is a PhD candidate in Computer Science at the Courant Institute at NYU, where she is advised by Professor Rajesh Ranganath and is a DeepMind Scholar. Her research interests are at the intersection of AI and health, and she co-hosts The AI Health Podcast with Harvard's Professor Pranav Rajpurkar. Previously, Adriel conducted research on Apple’s Health AI team and in Dr. Andrew Ng’s Stanford Machine Learning Group. She has held engineering and product roles across both big tech (Apple, Amazon) and start-ups (SeatGeek, Common). She holds an MBA from the Stanford Graduate School of Business, an MS in Computer Science from Stanford University, and a BA in Comparative Literature from Yale University. Born and raised in Brooklyn, Adriel is half-Cuban and half-Greek.
 
   
 - speaker: Ramprasaath Selvaraju
   type: upcoming
   date: 11/17/2022
+  
+- speaker: Thanksgiving Break (No MedAI Session)
+  type: upcoming
+  date: 11/25/2022
  
   
 - speaker: Julian Acosta
   instituition: Yale University
   type: upcoming
   date: 12/1/2022
+  
+- speaker: Ali Mottagi
+  instituition: Stanford University
+  type: upcoming
+  date: 12/8/2022
   
 - speaker: Roxana Daneshjou 
   instituition: Stanford University
