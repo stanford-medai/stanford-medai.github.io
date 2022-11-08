@@ -680,7 +680,7 @@
   recording: https://youtu.be/73UnaLgjUNk
   
 - speaker: Christian Bluethgen & Pierre Chambon
-  instituition: Stanford University
+  institution: Stanford University
   type: previous
   date: 11/3/2022
   title: Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains
@@ -689,7 +689,7 @@
   recording: https://www.youtube.com/watch?v=pSZDT5_EQj0
 
 - speaker: Adriel Saporta
-  instituition: Courant Institute at NYU (New York University)
+  institution: Courant Institute at NYU (New York University)
   type: upcoming
   date: 11/10/2022
   title: Benchmarking saliency methods for chest X-ray interpretation
@@ -707,17 +707,17 @@
  
   
 - speaker: Julian Acosta
-  instituition: Yale University
+  institution: Yale University
   type: upcoming
   date: 12/1/2022
   
 - speaker: Ali Mottagi
-  instituition: Stanford University
+  institution: Stanford University
   type: upcoming
   date: 12/8/2022
   
 - speaker: Roxana Daneshjou 
-  instituition: Stanford University
+  institution: Stanford University
   type: upcoming
   date: 1/26/2023
   
