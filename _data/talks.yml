@@ -690,16 +690,21 @@
 
 - speaker: Adriel Saporta
   institution: Courant Institute at NYU (New York University)
-  type: upcoming
+  type: previous
   date: 11/10/2022
   title: Benchmarking saliency methods for chest X-ray interpretation
   abstract: Saliency methods, which produce heat maps that highlight the areas of the medical image that influence model prediction, are often presented to clinicians as an aid in diagnostic decision-making. However, rigorous investigation of the accuracy and reliability of these strategies is necessary before they are integrated into the clinical setting. In this work, we quantitatively evaluate seven saliency methods, including Grad-CAM, across multiple neural network architectures using two evaluation metrics. We establish the first human benchmark for chest X-ray segmentation in a multilabel classification set-up, and examine under what clinical conditions saliency maps might be more prone to failure in localizing important pathologies compared with a human expert benchmark. We find that (1) while Grad-CAM generally localized pathologies better than the other evaluated saliency methods, all seven performed significantly worse compared with the human benchmark, (2) the gap in localization performance between Grad-CAM and the human benchmark was largest for pathologies that were smaller in size and had shapes that were more complex, and (3) model confidence was positively correlated with Grad-CAM localization performance. Our work demonstrates that several important limitations of saliency methods must be addressed before we can rely on them for deep learning explainability in medical imaging.
   bio: Adriel Saporta is a PhD candidate in Computer Science at the Courant Institute at NYU, where she is advised by Professor Rajesh Ranganath and is a DeepMind Scholar. Her research interests are at the intersection of AI and health, and she co-hosts The AI Health Podcast with Harvard's Professor Pranav Rajpurkar. Previously, Adriel conducted research on Apple’s Health AI team and in Dr. Andrew Ng’s Stanford Machine Learning Group. She has held engineering and product roles across both big tech (Apple, Amazon) and start-ups (SeatGeek, Common). She holds an MBA from the Stanford Graduate School of Business, an MS in Computer Science from Stanford University, and a BA in Comparative Literature from Yale University. Born and raised in Brooklyn, Adriel is half-Cuban and half-Greek.
+  recording: https://youtu.be/-chA2LIZPIA
 
   
 - speaker: Ramprasaath Selvaraju
+  institution: Artera
   type: upcoming
   date: 11/17/2022
+  title: Explaining Model Decisions and Fixing Them through Human Feedback
+  abstract: In this talk, I will focus on how we can build algorithms that provide explanations for decisions emanating from deep networks in order to build user trust, incorporate domain knowledge into AI, learn grounded representations, and correct for any unwanted biases learned by our AI models.
+  bio: Ramprasaath is a Sr. Machine Learning Scientist at Artera. Prior to this he was a Sr. Research Scientist at Salesforce. He did his Ph.D in Computer Science at Georgia Institute of Technology advised by Devi Parikh. He works at the intersection of machine learning, computer vision & language, explainable AI and more recently medical AI. He has held visiting positions at Brown University, Oxford University, Meta, Samsung, Microsoft and Tesla Autopilot. He has a Bachelor’s degree in Electrical and Electronics Engineering and a Masters in Physics from BITS-Pilani.
   
 - speaker: Thanksgiving Break (No MedAI Session)
   type: upcoming
