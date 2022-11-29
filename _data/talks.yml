@@ -700,14 +700,15 @@
   
 - speaker: Ramprasaath Selvaraju
   institution: Artera
-  type: upcoming
+  type: previous
   date: 11/17/2022
   title: Explaining Model Decisions and Fixing Them through Human Feedback
   abstract: In this talk, I will focus on how we can build algorithms that provide explanations for decisions emanating from deep networks in order to build user trust, incorporate domain knowledge into AI, learn grounded representations, and correct for any unwanted biases learned by our AI models.
   bio: Ramprasaath is a Sr. Machine Learning Scientist at Artera. Prior to this he was a Sr. Research Scientist at Salesforce. He did his Ph.D in Computer Science at Georgia Institute of Technology advised by Devi Parikh. He works at the intersection of machine learning, computer vision & language, explainable AI and more recently medical AI. He has held visiting positions at Brown University, Oxford University, Meta, Samsung, Microsoft and Tesla Autopilot. He has a Bachelor’s degree in Electrical and Electronics Engineering and a Masters in Physics from BITS-Pilani.
+  recording: https://youtu.be/WUUS-34TZtI
   
 - speaker: Thanksgiving Break (No MedAI Session)
-  type: upcoming
+  type: previous
   date: 11/25/2022
  
   
@@ -715,6 +716,9 @@
   institution: Yale University
   type: upcoming
   date: 12/1/2022
+  title: Multimodal Biomedical Artificial Intelligence - challenges and opportunities
+  abstract: The increasing availability of biomedical data from large biobanks, electronic health records, medical imaging, wearable and ambient biosensors, and the lower cost of genome and microbiome sequencing have set the stage for the development of multimodal artificial intelligence solutions that capture the complexity of human health and disease. In this talk, we will discuss key applications enabled by multimodal AI in health, along with the challenges we need to overcome to achieve its potential.
+  bio: Julian N. Acosta, MD, trained as a neurologist at the Fleni institute in Argentina before joining Yale University as a postdoctoral fellow in 2019, where his research focused on population genetics and advanced neuroimaging in neurovascular disease. He has also collaborated with Dr. Rajpurkar's Medical AI lab on multiple projects related to the application of artificial intelligence in healthcare, and he currently works as a Clinical Data Scientist at Rad AI Inc.
   
 - speaker: Ali Mottagi
   institution: Stanford University
