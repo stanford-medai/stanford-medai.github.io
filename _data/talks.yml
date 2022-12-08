@@ -714,16 +714,21 @@
   
 - speaker: Julian Acosta
   institution: Yale University
-  type: upcoming
+  type: previous
   date: 12/1/2022
   title: Multimodal Biomedical Artificial Intelligence - challenges and opportunities
   abstract: The increasing availability of biomedical data from large biobanks, electronic health records, medical imaging, wearable and ambient biosensors, and the lower cost of genome and microbiome sequencing have set the stage for the development of multimodal artificial intelligence solutions that capture the complexity of human health and disease. In this talk, we will discuss key applications enabled by multimodal AI in health, along with the challenges we need to overcome to achieve its potential.
   bio: Julian N. Acosta, MD, trained as a neurologist at the Fleni institute in Argentina before joining Yale University as a postdoctoral fellow in 2019, where his research focused on population genetics and advanced neuroimaging in neurovascular disease. He has also collaborated with Dr. Rajpurkar's Medical AI lab on multiple projects related to the application of artificial intelligence in healthcare, and he currently works as a Clinical Data Scientist at Rad AI Inc.
+  recording: https://www.youtube.com/watch?v=f8ssRkhFjIU
+  
+- speaker: Winter Break - Happy Holidays :)
+  type: upcoming
+  date: 12/8/2022 to 1/5/2023
   
 - speaker: Ali Mottagi
   institution: Stanford University
   type: upcoming
-  date: 12/8/2022
+  date: 1/12/2023
   
 - speaker: Roxana Daneshjou 
   institution: Stanford University
