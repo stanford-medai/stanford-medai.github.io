@@ -722,13 +722,26 @@
   recording: https://www.youtube.com/watch?v=f8ssRkhFjIU
   
 - speaker: Winter Break - Happy Holidays :)
-  type: upcoming
+  type: previous
   date: 12/8/2022 to 1/5/2023
   
 - speaker: Ali Mottagi
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 1/12/2023
+  title: Adaptation of Surgical Activity Recognition Models Across Operating Rooms
+  abstract: Automatic surgical activity recognition enables more intelligent surgical devices and a more efficient workflow. Integration of such technology in new operating rooms has the potential to improve care delivery to patients and decrease costs. Recent works have achieved a promising performance on surgical activity recognition; however, the lack of generalizability of these models is one of the critical barriers to the wide-scale adoption of this technology. In this work, we study the generalizability of surgical activity recognition models across operating rooms. We propose a new domain adaptation method to improve the performance of the surgical activity recognition model in a new operating room for which we only have unlabeled videos. Our approach generates pseudo labels for unlabeled video clips that it is confident about and trains the model on the augmented version of the clips. We extend our method to a semi-supervised domain adaptation setting where a small portion of the target domain is also labeled. In our experiments, our proposed method consistently outperforms the baselines on a dataset of more than 480 long surgical videos collected from two operating rooms.
+  bio: Ali Mottaghi is a 5th-year Ph.D. student working on AI in Healthcare. He is advised by Serena Yeung in Medical AI and Computer Vision Lab (MARVL). Ali is mainly interested in developing new methods for more data-efficient learning algorithms. He has previously worked in Intuitive Surgical and Curai Health. 
+  recording: https://www.youtube.com/watch?v=m-SZkoYCdUQ
+  
+- speaker: Fuying Wang (TIME change to 10am PST)
+  institution: University of Hong Kong
+  type: previous
+  date: 1/19/2023
+  title: Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning
+  abstract: Learning medical visual representations directly from paired radiology reports has become an emerging topic in representation learning. However, existing medical image-text joint learning methods are limited by instance or local supervision analysis, ignoring disease-level semantic correspondences. In this paper, we present a novel Multi-Granularity Cross-modal Alignment (MGCA) framework for generalized medical visual representation learning by harnessing the naturally exhibited semantic correspondences between medical image and radiology reports at three different levels, i.e., pathological region-level, instance-level, and disease-level. Specifically, we first incorporate the instance-wise alignment module by maximizing the agreement between image-report pairs. Further, for token-wise alignment, we introduce a bidirectional cross-attention strategy to explicitly learn the matching between fine-grained visual tokens and text tokens, followed by contrastive learning to align them. More important, to leverage the high-level inter-subject relationship semantic (e.g., disease) correspondences, we design a novel cross-modal disease-level alignment paradigm to enforce the cross-modal cluster assignment consistency. Extensive experimental results on seven downstream medical image datasets covering image classification, object detection, and semantic segmentation tasks demonstrate the stable and superior performance of our framework.
+  bio: Fuying Wang is a second-year Ph.D. student in the department of Statistics and Actuarial Science at the university of Hong Kong, supervised by Dr. Lequan Yu. Prior to this, he received his bachelor’s degree from Tsinghua university. His research interests span the area of multimodal learning, self-supervised learning and interpretable AI. In particular, He is currently working on multimodal biomedical data analysis, self-supervised medical representation learning and interpretable machine learning for healthcare. 
+  recording: https://www.youtube.com/watch?v=3RqBOzY5XTo
   
 - speaker: Roxana Daneshjou 
   institution: Stanford University
