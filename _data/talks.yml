@@ -747,6 +747,10 @@
   institution: Stanford University
   type: upcoming
   date: 1/26/2023
+  title: AI in Dermatology - the Pitfalls and Promises
+  abstract: Artificial intelligence (AI) has the potential to have significant impacts in healthcare. The field of dermatology, which involves diagnosing skin disease, is particularly ripe for innovation given the visual nature of the clinical tasks. However, potential pitfalls of AI for dermatology include biased datasets and algorithms. Addressing these pitfalls is necessary for the development of equitable algorithms that do not exacerbate existing health disparities. With fairness in mind, AI in dermatology also has the promise of streamlining the healthcare process.
+  bio: Dr. Roxana Daneshjou received her undergraduate degree at Rice University in Bioengineering, where she was recognized as a Goldwater Scholar for her research. She completed her MD/PhD at Stanford, where she worked in the lab of Dr. Russ Altman. During this time, she was a Howard Hughes Medical Institute Medical Scholar and a Paul and Daisy Soros Fellowship for New Americans Fellow.  She completed dermatology residency at Stanford in the research track and now practices dermatology as a Clinical Scholar in Stanford's Department of Dermatology while also conducting artificial intelligence research with Dr. James Zou as a postdoc in Biomedical Data Science. Her research interests are in developing diverse datasets and fair algorithms for applications in precision medicine.   
+  recording: https://www.youtube.com/watch?v=nu_QyAUK4ZA
   
   
   
