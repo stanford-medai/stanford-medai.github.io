@@ -745,7 +745,7 @@
   
 - speaker: Roxana Daneshjou 
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 1/26/2023
   title: AI in Dermatology - the Pitfalls and Promises
   abstract: Artificial intelligence (AI) has the potential to have significant impacts in healthcare. The field of dermatology, which involves diagnosing skin disease, is particularly ripe for innovation given the visual nature of the clinical tasks. However, potential pitfalls of AI for dermatology include biased datasets and algorithms. Addressing these pitfalls is necessary for the development of equitable algorithms that do not exacerbate existing health disparities. With fairness in mind, AI in dermatology also has the promise of streamlining the healthcare process.
