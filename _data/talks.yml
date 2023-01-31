@@ -752,6 +752,16 @@
   bio: Dr. Roxana Daneshjou received her undergraduate degree at Rice University in Bioengineering, where she was recognized as a Goldwater Scholar for her research. She completed her MD/PhD at Stanford, where she worked in the lab of Dr. Russ Altman. During this time, she was a Howard Hughes Medical Institute Medical Scholar and a Paul and Daisy Soros Fellowship for New Americans Fellow.  She completed dermatology residency at Stanford in the research track and now practices dermatology as a Clinical Scholar in Stanford's Department of Dermatology while also conducting artificial intelligence research with Dr. James Zou as a postdoc in Biomedical Data Science. Her research interests are in developing diverse datasets and fair algorithms for applications in precision medicine.   
   recording: https://www.youtube.com/watch?v=nu_QyAUK4ZA
   
+
+- speaker: Sanmi Koyejo
+  institution: Stanford University
+  type: upcoming
+  date: 2/2/2023
+  title: Diagnosing failures of fairness transfer across distribution shift in real-world medical settings
+  abstract: Diagnosing and mitigating changes in model fairness under distribution shift is an important component of the safe deployment of machine learning in healthcare settings. Importantly, the success of any mitigation strategy strongly depends on the \textit{structure} of the shift. Despite this, there has been little discussion of how to empirically assess the structure of a distribution shift that one is encountering in practice. In this work, we adopt a causal framing to motivate conditional independence tests as a key tool for characterizing distribution shifts. Using our approach in two medical applications, we show that this knowledge can help diagnose failures of fairness transfer, including cases where real-world shifts are more complex than is often assumed in the literature. Based on these results, we discuss potential remedies at each step of the machine learning pipeline.
+  bio: Sanmi (Oluwasanmi) Koyejo is an Assistant Professor in the Department of Computer Science at Stanford University. Koyejo was previously an Associate Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. His research interests are in developing the principles and practice of trustworthy machine learning, focusing on applications to neuroscience and healthcare. Koyejo completed a Ph.D. in Electrical Engineering at the University of Texas at Austin, advised by Joydeep Ghosh, and postdoctoral research at Stanford University with Russell A. Poldrack and Pradeep Ravikumar. Koyejo has been the recipient of several awards, including a best paper award from the conference on uncertainty in artificial intelligence, a Skip Ellis Early Career Award, a Sloan Fellowship, a Terman faculty fellowship, an NSF CAREER award, a Kavli Fellowship, an IJCAI early career spotlight, and a trainee award from the Organization for Human Brain Mapping. Koyejo spends time at Google as a part of the Brain team, serves on the Neural Information Processing Systems Foundation Board, the Association for Health Learning and Inference Board, and as president of the Black in AI organization.
+ 
+  
   
   
 
