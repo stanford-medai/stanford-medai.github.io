@@ -796,21 +796,44 @@
   
 - speaker: Houcemeddine Turki
   institution: University of Sfax, Tunisia
-  type: upcoming
+  type: previous
   date: 3/9/2023
   title: Empowering Biomedical Informatics with Open Resources - Unleashing the Potential of Data and Tools
   abstract: Biomedical informatics is a highly interdisciplinary field that has gained increasing importance in recent years. Combining computer science, statistics, and information science with clinical and basic biomedical research, it seeks to leverage data-driven approaches to solve healthcare challenges and accelerate biomedical discovery. With the explosion of biomedical data generated from various sources such as genomic sequencing, medical imaging, electronic health records, and wearable devices, the field has witnessed significant growth in recent years. One of the key drivers of this growth is the increasing availability of open resources, such as open-access data repositories and software tools. These resources have democratized access to biomedical data and tools, making it easier for researchers to conduct biomedical informatics research and drive scientific discoveries. <br>PubMed, an open-access bibliographic database maintained by the National Center for Biotechnology Information (NCBI), offers researchers access to millions of citations for biomedical literature, including links to full-text articles and MeSH (Medical Subject Headings) terms for indexing and searching. These resources can be used to develop and validate computational models and algorithms, enabling researchers to study different aspects of diseases and therapies. Wikidata, a free and open knowledge graph maintained by the Wikimedia Foundation, is another critical open resource that is driving biomedical informatics. With Wikidata, researchers can access and contribute to a structured and linked database of biomedical information, including genes, diseases, and drugs. The Open Biomedical Ontologies Foundry (OBO Foundry) is an initiative to develop and maintain a library of interoperable, open-source ontologies for biomedical research. These ontologies provide a common framework for annotating and integrating biomedical data from different sources, enabling data sharing and collaboration. <br>In this presentation, I will share our way of reusing open resources, particularly NCBI Resources, Wikidata, and the Python Package Index. I will highlight the advantages and challenges of using open resources in biomedical informatics research, share success stories, and discuss the potential of these resources in accelerating scientific discovery. Finally, I will provide some insights into the future of open resources in biomedical informatics, emphasizing the need for greater collaboration and data sharing to tackle the pressing challenges in healthcare.
   bio: Houcemeddine Turki is a medical student at the University of Sfax, Tunisia, and a research assistant at the Data Engineering and Semantics Research Unit, University of Sfax, Tunisia. His research spans several interdisciplinary fields, including Biomedical Informatics, Library and Information Science, Semantic Technologies, Open Science, and Applied Linguistics. With a passion for open science, he is a dedicated contributor to Wikimedia Projects, particularly Wikipedia and Wikidata, and has held leadership roles within the Wikimedia community, including Vice-Chair of the Wikimedia Tunisia User Group (2020-2022), Board member of the Wikimedia and Libraries User Group (2019-2021), and member and advisor to the Affiliations Committee of the Wikimedia Foundation (2021-2023). Houcemeddine has played an active role in organizing several Wikimedia community conferences, such as Wikimania (2022) and WikiIndaba Conference (2018, 2020, and 2021), and is committed to advancing the mission of open access and open knowledge sharing for all.
+  recording: https://www.youtube.com/watch?v=hRC7q5fW40k
+
+- speaker: Arjun Desai, 
+  institution: Stanford University
+  type: previous
+  date: 3/16/2023
+  title: "Meerkat: Interactive Data Systems For Unstructured Data & Foundation Models"
+  abstract: "Unstructured data (e.g. images, videos, text documents, etc.) are ubiquitous in today's digital world. However, the analysis of such data using traditional data science tools can be quite challenging. Foundation models (FMs) have shown that they extract semantically meaningful information from diverse types of unstructured data, but they can be imprecise, brittle, and difficult to control. We’re excited to introduce Meerkat, a Python library that teams can use to interactively wrangle their unstructured data with foundation models. In this talk, we will explore how Meerkat makes it easier to work with unstructured data and FMs, learn how to build user interfaces with Meerkat, and dive into potential applications in healthcare. <br>Interested in building with Meerkat? Check out our website and join our Discord!"
+  bio: Arjun Desai is a 4th-year EE PhD student working with Akshay Chaudhari and Chris Re. He is interested in how signal processing principles can improve robustness, efficiency, and scalability in machine learning. He is excited about how these methods can help build scalable deployment and validation systems for challenging applications in healthcare and the sciences. <br> Karan Goel is a 5th year CS PhD student at Stanford advised by Chris Ré. He is interested in sequence modeling techniques for building large-scale foundation models, as well as problems that arise due to the deployment of ML models to practice. As part of the Meerkat project, he thinks about how the application of FMs will change systems for data science and engineering. He is a recipient of the Siebel Foundation Scholarship. <br>Sabri Eyuboglu is a 3rd year PhD student advised by Chris Ré and James Zou. He is broadly interested in how we can bring machine learning to bear in challenging applied settings like medicine and the sciences. To that end, he’s recently been working on data management tools that help practitioners better understand their data. He is supported by the National Science Foundation GRFP.
+  recording: https://www.youtube.com/watch?v=isrdPLiTJIQ
 
 - speaker: Yuzhe Yang
   institution: MIT
   type: upcoming
   date: 3/23/2023
+  title: "Using AI to Diagnose and Assess Parkinson's Disease: Challenges, Algorithms, and Applications"
+  abstract: "There are currently no effective biomarkers for diagnosing Parkinson’s disease (PD) or tracking its progression. In this talk, I will present an artificial intelligence (AI) model to detect PD and track its progression from nocturnal breathing signals (https://pd-breathing.csail.mit.edu/). I’ll first discuss background, problem setup, and general challenges and principles for designing such AI models in the wild for health applications: sparse supervision, data imbalance, and distribution shift. I’ll present the most general form of each principle before providing concrete instantiations of using each in practice. This will include a simple multi-task learning method that incorporates health domain knowledge and for AI model interpretation, a framework for learning imbalanced data with continuous targets (http://dir.csail.mit.edu/), and an algorithm that enables learning from multi-domain imbalanced data as well as imbalanced domain generalization with theoretical guarantees (http://mdlt.csail.mit.edu/). Finally, I will conclude with implications and applications of using AI to advance digital medicine and other real-world applications."
+  bio: "Yuzhe Yang is a PhD student in computer science at MIT CSAIL. He received his B.S. in EECS from Peking University. His research interests include machine learning and AI for health and medicine, with a focus on trustworthy machine learning for model fairness, robustness and generalization, as well as building innovative AI solutions to enable new understanding for human diseases, health and precision medicine. His work on AI-enabled biomarker for Parkinson’s disease is named as Top Ten Notable Advances in 2022 by Nature Medicine, and Top Ten Crucial Advances in Movement Disorders in 2022 by The Lancet Neurology. His research has been published at top interdisciplinary journals and AI/ML conferences including Nature Medicine, Science Translational Medicine, NeurIPS, ICML, ICLR, CVPR, ECCV, etc. His works have been recognized by the MathWorks Fellowship, Baidu PhD Fellowship, and media coverage from MIT Tech Review, Wall Street Journal, Forbes, BBC, The Washington Post, etc."
   
 - speaker: Vivek Natarajan
   institution: Google Research
   type: upcoming
   date: 3/30/2023
+  
+- speaker: Vignav Ramesh
+  institution: Harvard University
+  type: upcoming
+  date: 4/6/2023
+  
+- speaker: Chirag Nagpal
+  institution: Carnegie Mellon University
+  type: upcoming
+  date: 4/20/2023
   
   
   
