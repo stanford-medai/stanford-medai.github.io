@@ -814,26 +814,39 @@
 
 - speaker: Yuzhe Yang
   institution: MIT
-  type: upcoming
+  type: previous
   date: 3/23/2023
   title: "Using AI to Diagnose and Assess Parkinson's Disease: Challenges, Algorithms, and Applications"
   abstract: "There are currently no effective biomarkers for diagnosing Parkinson’s disease (PD) or tracking its progression. In this talk, I will present an artificial intelligence (AI) model to detect PD and track its progression from nocturnal breathing signals (<a href="https://pd-breathing.csail.mit.edu/">https://pd-breathing.csail.mit.edu/</a>). I’ll first discuss background, problem setup, and general challenges and principles for designing such AI models in the wild for health applications: sparse supervision, data imbalance, and distribution shift. I’ll present the most general form of each principle before providing concrete instantiations of using each in practice. This will include a simple multi-task learning method that incorporates health domain knowledge and for AI model interpretation, a framework for learning imbalanced data with continuous targets (<a href='http://dir.csail.mit.edu/'>http://dir.csail.mit.edu/</a>), and an algorithm that enables learning from multi-domain imbalanced data as well as imbalanced domain generalization with theoretical guarantees (<a href='http://mdlt.csail.mit.edu/'>http://mdlt.csail.mit.edu/</a>). Finally, I will conclude with implications and applications of using AI to advance digital medicine and other real-world applications."
   bio: "Yuzhe Yang is a PhD student in computer science at MIT CSAIL. He received his B.S. in EECS from Peking University. His research interests include machine learning and AI for health and medicine, with a focus on trustworthy machine learning for model fairness, robustness and generalization, as well as building innovative AI solutions to enable new understanding for human diseases, health and precision medicine. His work on AI-enabled biomarker for Parkinson’s disease is named as Top Ten Notable Advances in 2022 by Nature Medicine, and Top Ten Crucial Advances in Movement Disorders in 2022 by The Lancet Neurology. His research has been published at top interdisciplinary journals and AI/ML conferences including Nature Medicine, Science Translational Medicine, NeurIPS, ICML, ICLR, CVPR, ECCV, etc. His works have been recognized by the MathWorks Fellowship, Baidu PhD Fellowship, and media coverage from MIT Tech Review, Wall Street Journal, Forbes, BBC, The Washington Post, etc."
+  recording: https://www.youtube.com/watch?v=CWOCDnNvPhg
   
-- speaker: Vivek Natarajan
-  institution: Google Research
-  type: upcoming
+- speaker: Spring Break (No MedAI session)
+  type: previous
   date: 3/30/2023
   
-- speaker: Vignav Ramesh
-  institution: Harvard University
-  type: upcoming
+- speaker: Spring Break (No MedAI session)
+  type: previous
   date: 4/6/2023
+  
+- speaker: Yasha Ektefaie
+  institution: Harvard Medical School
+  type: upcoming
+  date: 4/13/2023
+  title: Multimodal learning with graphs for biomedical applications
+  abstract: Artificial intelligence for graphs has achieved remarkable success in modelling complex systems, ranging from dynamic networks in biology to interacting particle systems in physics. However, the increasingly heterogeneous graph datasets call for multimodal methods that can combine different inductive biases — assumptions that algorithms use to make predictions for inputs they have not encountered during training. Learning on multimodal datasets is challenging because the inductive biases can vary by data modality and graphs might not be explicitly given in the input. To address these challenges, graph artificial intelligence methods combine different modalities while leveraging cross-modal dependencies through geometric relationships. Diverse datasets are combined using graphs and fed into sophisticated multimodal architectures, specified as image-intensive, knowledge-grounded and language-intensive models. Using this categorization, we introduce a blueprint for multimodal graph learning, use it to study existing methods and provide guidelines to design new models. This talk will focus on biomedical applications of multimodal graph learning, emphasizing how this blueprint can enable future innovation in this space.
+  bio: Yasha is a PhD candidate in the Bioinformatics and Integrative Genomics program at Harvard Medical School co-advised by Marinka Zitnik and Maha Farhat. With publications in Nature Machine Intelligence, Nature Breast Cancer, and Lancet Microbe, he is interested in designing the next generation of machine learning methods to predict phenotypes from genotypes. Specifically, he is interested in understanding and improving the ability of these models to generalize to new and unseen genotypes. Before Harvard, he received a B.S. in electrical engineering and computer science (EECS) and bioengineering at UC Berkeley where he did research on designing computational methods to understand bacterial communities.
+  recording: https://www.youtube.com/watch?v=MAfxw-GlkBI
   
 - speaker: Chirag Nagpal
   institution: Carnegie Mellon University
   type: upcoming
   date: 4/20/2023
+  
+ - speaker: Vivek Natarajan
+  institution: Google Research
+  type: upcoming
+  date: 4/27/2023
   
   
   
