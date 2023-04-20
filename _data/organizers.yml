@@ -6,13 +6,20 @@
   bio: Nandita Bhaskhar is a PhD student in Electrical Engineering at Stanford University advised by Prof. Daniel Rubin. Her research focuses on observational supervision & self-supervision for leveraging unlabelled medical data and quantifying ML model trust and mitigating distribution shifts for reliable clinical deployment.
   image: assets/images/nandita-bhaskhar.jpg
 
-- name: Siyi Tang
-  position: PhD Candidate
-  institution: Stanford University
-  email: siyitang@stanford.edu
-  website: https://siyitang.me
-  bio: Siyi Tang is a PhD student in Electrical Engineering at Stanford University advised by Prof. Daniel Rubin. Her research interests lie in the intersection of machine learning and medicine. She develops ML methods for medical applications by leveraging the important characteristics in medical data. 
-  image: assets/images/siyi-tang.jpg
+# - name: Siyi Tang
+#   position: PhD Candidate
+#   institution: Stanford University
+#   email: siyitang@stanford.edu
+#   website: https://siyitang.me
+#   bio: Siyi Tang is a PhD student in Electrical Engineering at Stanford University advised by Prof. Daniel Rubin. Her research interests lie in the intersection of machine learning and medicine. She develops ML methods for medical applications by leveraging the important characteristics in medical data. 
+#   image: assets/images/siyi-tang.jpg
+  
+- name: Amara Tariq
+  position: Senior Data Science Analyst 
+  institution: Mayo Clinic
+  email: tariq.amara@mayo.edu
+  bio: Amara Tariq works as Senior Data Science Analyst in Machine Intelligence in Medicine and Imaging (MI-2) lab at Mayo Clinic Arizona. She received her doctoral degree in computer science from University of Central Florida where her work was focused on confluence of image and natural language processing for semantic understanding of multi-modal datasets. She received her post-doctoral training at Emory University, GA and Mayo Clinic Arizona where her research interests shifted to development of fusion models for multi-modal biomedical data for applications including clinical event prediction and opportunistic screening for diseases. Her research has been published in reputable journals including IEEE transactions on Pattern Analysis and Machine Intelligence, Journal of American Medical Informatics Association, nature Digital Medicine, IEEE journal of Biomedical and Health Informatics. 
+  image: assets/images/amara-tariq.jpg
 
 - name: Daniel L Rubin
   position: Professor
