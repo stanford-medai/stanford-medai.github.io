@@ -863,6 +863,27 @@
   bio: "Tom Hartvigsen is a postdoc at MIT and an incoming assistant professor at the University of Virginia. Tom focuses on core challenges in making machine learning and data mining systems responsibly deployable in healthcare settings, mostly for time series and text. His work has appeared at top venues such as KDD, ACL, NeurIPS, and AAAI. He also ran the 2022 NeurIPS workshop on Learning from Time Series for Health and is the general chair of the 2023 Machine Learning for Health Symposium. Tom received his Ph.D. in Data Science from Worcester Polytechnic Institute in 2021, where he was advised by Elke Rundensteiner and Xiangnan Kong."
   recording: https://youtu.be/x-Eh8Z-gr7c
   
+- speaker: Elliot Bolton
+  institution: Stanford University
+  type: upcoming
+  date: 5/11/2023
+
+- speaker: Haoran Zhang
+  institution: MIT
+  type: upcoming
+  date: 5/18/2023
+
+- speaker: Meirui Jiang
+  institution: The Chinese University of Hong Kong
+  type: upcoming
+  date: 5/25/2023
+
+- speaker: Siyi Tang
+  institution: Artera AI
+  type: upcoming
+  date: 6/1/2023
+  
+  
   
   
   
