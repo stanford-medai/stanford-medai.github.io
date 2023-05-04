@@ -839,7 +839,7 @@
   
 - speaker: Chirag Nagpal
   institution: Carnegie Mellon University
-  type: upcoming
+  type: previous
   date: 4/20/2023
   title: Leveraging Heterogeneity in Time-to-Event (Survival) Predictions
   abstract: "Time-to-Event Regression, often referred to as Survival Analysis or Censored Regression involves learning of statistical estimators of the survival distribution of an individual given their covariates. As opposed to standard regression, survival analysis is challenging as it involves accounting for outcomes censored due to loss of follow up. This circumstance is common in, e.g., bio-statistics, predictive maintenance, and econometrics. With the recent advances in machine learning methodology, especially deep learning, it is now possible to exploit expressive representations to help model survival outcomes. My thesis contributes to this new body of work by demonstrating that problems in survival analysis often manifest inherent heterogeneity which can be effectively discovered, characterized, and modeled to learn better estimators of survival.<br><br>Heterogeneity may arise in a multitude of settings in the context of survival analysis. Some examples include heterogeneity in the form of input features or covariates (for instance, static vs. streaming, time-varying data), or multiple outcomes of simultaneous interest (more commonly referred to as competing risks). Other sources of heterogeneity involve latent subgroups that manifest different base survival rates or differential responses to an intervention or treatment. In this talk, I aim to demonstrate that carefully modelling the inherent structure of heterogeneity can boost predictive power of survival analysis models while improving their specificity and precision of estimated survival at an individual level. An overarching methodological framework of this thesis is the application of graphical models to impose inherent structure in time-to-event problems that explicitly model heterogeneity, while employing advances in deep learning to learn powerful representations of data that help leverage various aspects of heterogeneity."
@@ -848,7 +848,7 @@
   
 - speaker: Vivek Natarajan
   institution: Google Research
-  type: upcoming
+  type: previous
   date: 4/27/2023
   title: Foundation Models for Medical AI
   abstract: "Despite recent progress in the field of medical artificial intelligence (AI), most existing models are narrow, single-task systems that require large quantities of labeled data to train. Moreover, these models cannot be easily reused in new clinical contexts and lack expressivity and interactive capabilities. This, in turn, has prevented their broad uptake in real-world healthcare settings. The advent of foundation models offers an opportunity to rethink medical AI and make it more performant, interactive, safer, and equitable. In this talk, I will share some of my recent work in the space of foundation medical models: REMEDIS, Co-Doc and Med-PaLM. In particular, I will highlight the effectiveness of these models in solving key medical AI translation problems such as data-efficient generalization, reliability and safety. Finally, I will also lay out how we might be able to build on these models towards generalist multimodal, multi-task medical AI."
