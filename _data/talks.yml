@@ -856,7 +856,7 @@
   
 - speaker: Tom Hartvigsen
   institution: MIT
-  type: upcoming
+  type: previous
   date: 5/4/2023
   title: Avoiding Model Aging by Continually Editing and Repairing Deployed Models
   abstract: "Deployed machine learning models often fail in unexpected ways. For example, models can perpetuate unexpected biases and rely on spurious features in their training data. Such performance decay can also happen gradually over time. While there is a wealth of work training models to be robust to shifting label and covariate distributions, a new paradigm is arising: updatable machine learning, where we adapt, edit, or repair big pre-trained models. With the advent of foundation models, such methods pose a cost-effective alternative to expensive retraining, especially when pre-training data are private or proprietary. This is particularly relevant in healthcare where training data are often private and models decay quickly. In this talk, I will discuss model editing, a paradigm for spot-fixing mistakes made by pre-trained models. I will then showcase my recent work introducing GRACE, the first method for continually editing pre-trained models thousands of times during deployment. GRACE learns to cache discrete segments of a language model's latent space, rerouting its embeddings to selectively modify the model's behavior and enabling targeted fixes in its predictions. These fixes leave the model's original weights unaltered and can generalize to correct new errors. I will conclude my talk with a look towards the future of lifelong model maintenance."
@@ -865,13 +865,22 @@
   
 - speaker: Elliot Bolton
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 5/11/2023
+  title: Foundation Models For Biomedical QA
+  abstract: "During this talk we’ll discuss CRFM’s work on large scale foundation models for the biomedical domain, culminating in a 2.7 billion parameter GPT-style model trained on PubMed. We’ll discuss the training process and results of our evaluations in the question answering setting, and survey biomedical NLP language model landscape. We aim for a vibrant discussion with the biomedical community, and would love to hear about potential applications to help us shape future models."
+  bio: "Elliot is a research engineer working on language models for Stanford CRFM. Currently he is working on a large scale, open source foundation model for biomedical NLP. For nearly a decade Elliot has helped build and maintain various open source Stanford projects including CoreNLP, Stanza, and Mistral."
+  recording: https://youtu.be/CCkY6k20Ymg
+  
 
 - speaker: Haoran Zhang
   institution: MIT
   type: upcoming
   date: 5/18/2023
+  title: "Why did the Model Fail? Attributing Model Performance Changes to Distribution Shifts"
+  abstract: "Clinical machine learning models frequently experience performance drops under distribution shifts. These shifts may occur when a model is deployed in a different domain, a different subpopulation, or gradually over time. The underlying cause of such shifts may be multiple simultaneous factors such as changes in data quality, differences in specific covariate distributions, or changes in the relationship between label and features. When a model does fail during deployment, attributing model failure to these factors is critical for the model developer to identify the root cause and take mitigating action. In this talk, I will motivate the performance attribution problem, and present our recent method for attributing model performance changes to distribution shifts in the underlying data generating mechanism. We formulate the problem as a cooperative game where the players are distributions. We define the value of a set of distributions to be the change in model performance when only that set of distributions has changed between environments, and derive an importance weighting method for computing the value of an arbitrary set of distributions. The contribution of each distribution to the total performance change is then quantified as its Shapley value. We demonstrate the correctness and utility of our method on synthetic, semi-synthetic, and real-world case studies, showing its effectiveness in attributing performance changes to a wide range of distribution shifts."
+  bio: "Haoran Zhang is a 2nd year PhD student at the Computer Science and Artificial Intelligence Laboratory at MIT, advised by Prof. Marzyeh Ghassemi. His research focuses on methods to construct fair and robust machine learning models which maintain their performance across real-world distribution shifts. He is also interested in the application of such methods in the healthcare domain. His research has appeared in top venues such as Nature Medicine, NeurIPS, ICML, and ACM FAccT. Before joining MIT, Haoran received his M.Sc. from the University of Toronto and his B.Eng. from McMaster University."
+ 
 
 - speaker: Meirui Jiang
   institution: The Chinese University of Hong Kong
