@@ -875,22 +875,40 @@
 
 - speaker: Haoran Zhang
   institution: MIT
-  type: upcoming
+  type: previous
   date: 5/18/2023
   title: "Why did the Model Fail? Attributing Model Performance Changes to Distribution Shifts"
   abstract: "Clinical machine learning models frequently experience performance drops under distribution shifts. These shifts may occur when a model is deployed in a different domain, a different subpopulation, or gradually over time. The underlying cause of such shifts may be multiple simultaneous factors such as changes in data quality, differences in specific covariate distributions, or changes in the relationship between label and features. When a model does fail during deployment, attributing model failure to these factors is critical for the model developer to identify the root cause and take mitigating action. In this talk, I will motivate the performance attribution problem, and present our recent method for attributing model performance changes to distribution shifts in the underlying data generating mechanism. We formulate the problem as a cooperative game where the players are distributions. We define the value of a set of distributions to be the change in model performance when only that set of distributions has changed between environments, and derive an importance weighting method for computing the value of an arbitrary set of distributions. The contribution of each distribution to the total performance change is then quantified as its Shapley value. We demonstrate the correctness and utility of our method on synthetic, semi-synthetic, and real-world case studies, showing its effectiveness in attributing performance changes to a wide range of distribution shifts."
   bio: "Haoran Zhang is a 2nd year PhD student at the Computer Science and Artificial Intelligence Laboratory at MIT, advised by Prof. Marzyeh Ghassemi. His research focuses on methods to construct fair and robust machine learning models which maintain their performance across real-world distribution shifts. He is also interested in the application of such methods in the healthcare domain. His research has appeared in top venues such as Nature Medicine, NeurIPS, ICML, and ACM FAccT. Before joining MIT, Haoran received his M.Sc. from the University of Toronto and his B.Eng. from McMaster University."
+  recording: https://youtu.be/0n1IgKTh-w4
  
 
 - speaker: Meirui Jiang
   institution: The Chinese University of Hong Kong
-  type: upcoming
+  type: previous
   date: 5/25/2023
+  title: Robust and Reliable Federated Learning for Heterogeneous Medical Images
+  abstract: "Federated learning (FL) has become a promising paradigm to enable multi-institutional collaboration without sharing raw data. However, data heterogeneity is still an outstanding challenge in FL, typically in cases where the local devices are responsible for heterogeneity in the data distributions. It is important to find a way to train the model robustly and reliably by utilizing large amounts of distributed data. This presentation will discuss our ongoing progress in designing FL algorithms that embrace the data heterogeneity properties in medical images, including tackling the data heterogeneity for FL global model, personalizing the client model and improving the generalization in FL, and promoting fairness in FL training on heterogeneous data."
+  bio: "Meirui Jiang is a third-year Ph.D. student in the Department of Computer Science and Engineering at the Chinese University of Hong Kong, supervised by Prof. Qi Dou. His research interest lies in federated learning for medical image analysis, aiming to promote the applicability (efficiency, privacy, fairness, generalizability) of medical imaging research by utilizing large, distributed data. His research has been published in at top-tier conferences and journals such as ICLR, CVPR, AAAI, MICCAI, Nature Communications, and IEEE TMI, and he also wrote a book chapter on Machine Learning, Medical AI and Robotics."
+  recording: https://youtu.be/55J3jtLfi4c
 
 - speaker: Siyi Tang
   institution: Artera AI
   type: upcoming
   date: 6/1/2023
+  title: Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models
+  abstract: "Multivariate biosignals play an important role in many medical domains, such as electroencephalography, polysomnography, and electrocardiography. Modeling multivariate biosignals is challenging due to (1) long-range temporal dependencies and (2) complex spatial correlations between the electrodes. In this talk, I will present a general graph neural network (GNN) architecture, GraphS4mer, which aims to address the aforementioned challenges. Specifically, (1) we leverage the Structured State Space architecture, a state-of-the-art deep sequence model, to capture long-range temporal dependencies in biosignals and (2) we propose a graph structure learning layer to learn dynamically evolving graph structures in the data. We evaluate our proposed model on three distinct biosignal classification tasks and show that GraphS4mer consistently improves over existing models, including (1) seizure detection from electroencephalographic signals, outperforming a previous GNN with self-supervised pre-training by 3.1 points in AUROC; (2) sleep staging from polysomnographic signals, a 4.1 points improvement in macro-F1 score compared to existing sleep staging models; and (3) 12-lead electrocardiogram classification, outperforming previous state-of-the-art models by 2.7 points in macro-F1 score."
+  bio: "Siyi is a Machine Learning Scientist at ArteraAI, where her research focuses on developing multimodal deep learning models for predicting cancer patient outcomes and personalizing treatment strategies. Siyi recently received her PhD Degree from Stanford University, where she was advised by Prof. Daniel Rubin. At Stanford, she worked on developing deep learning methods for modeling medical time series data, with a focus on graph-based modeling approaches. She also co-organized the Stanford MedAI Group Exchange Sessions with Nandita. Prior to Stanford, Siyi received her Bachelor's Degree in Electrical Engineering with Highest Distinction Honors from National University of Singapore."
+  recording: https://youtu.be/DObBS2OkQV8
+  
+- speaker: Summer Break (No MedAI Session)
+  type: upcoming
+  date: 6/8/2023
+  
+- speaker: Summer Break (No MedAI Session)
+  type: upcoming
+  date: 6/15/2023
+  
   
   
   
