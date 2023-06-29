@@ -32,9 +32,14 @@ nav_order: 4
           {% elsif talk.livestream %}
             <div class="talk-subtitle">Video</div>
             <div><a href="{{ talk.livestream }}">Livestream Link</a></div>
-          {% endif %}   
-          <div class="talk-subtitle">Questions for the Speaker</div>
-          <div>Please add your questions to the speaker either to this <a href="https://forms.gle/229GT2yi35NHqHje8" target="_blank">google form</a> or directly under the <a href="https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w" target="_blank">YouTube video</a></div>
+          {% elsif talk.abstract %}
+            <div class="talk-subtitle">Video</div>div>
+            <div>Session not recorded on request</div>
+          {% endif %} 
+          {% if talk.abstract %}
+            <div class="talk-subtitle">Questions for the Speaker</div>
+            <div>Please add your questions to the speaker either to this <a href="https://forms.gle/229GT2yi35NHqHje8" target="_blank">google form</a> or directly under the <a href="https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w" target="_blank">YouTube video</a></div>
+          {% endif %}
       </div>
     {% endif %}
   {% endfor %}
