@@ -894,7 +894,7 @@
 
 - speaker: Siyi Tang
   institution: Artera AI
-  type: upcoming
+  type: previous
   date: 6/1/2023
   title: Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models
   abstract: "Multivariate biosignals play an important role in many medical domains, such as electroencephalography, polysomnography, and electrocardiography. Modeling multivariate biosignals is challenging due to (1) long-range temporal dependencies and (2) complex spatial correlations between the electrodes. In this talk, I will present a general graph neural network (GNN) architecture, GraphS4mer, which aims to address the aforementioned challenges. Specifically, (1) we leverage the Structured State Space architecture, a state-of-the-art deep sequence model, to capture long-range temporal dependencies in biosignals and (2) we propose a graph structure learning layer to learn dynamically evolving graph structures in the data. We evaluate our proposed model on three distinct biosignal classification tasks and show that GraphS4mer consistently improves over existing models, including (1) seizure detection from electroencephalographic signals, outperforming a previous GNN with self-supervised pre-training by 3.1 points in AUROC; (2) sleep staging from polysomnographic signals, a 4.1 points improvement in macro-F1 score compared to existing sleep staging models; and (3) 12-lead electrocardiogram classification, outperforming previous state-of-the-art models by 2.7 points in macro-F1 score."
@@ -902,12 +902,46 @@
   recording: https://youtu.be/DObBS2OkQV8
   
 - speaker: Summer Break (No MedAI Session)
-  type: upcoming
+  type: previous
   date: 6/8/2023
   
 - speaker: Summer Break (No MedAI Session)
-  type: upcoming
+  type: previous
   date: 6/15/2023
+
+- speaker: Michael Moor
+  institution: Stanford University
+  type: previous
+  date: 6/22/2023
+  title: Generalist Medical AI
+  abstract: "The exceptionally rapid development of highly flexible, reusable artificial intelligence (AI) models is likely to usher in newfound capabilities in medicine. In this talk, we will discuss a new paradigm for medical AI: generalist medical AI (GMAI). GMAI models will be capable of carrying out a diverse set of tasks using very little or no task-specific labelled data. Built through self-supervision on large, diverse datasets, GMAI will flexibly interpret different combinations of medical modalities, including data from imaging, electronic health records, laboratory results, genomics, graph-structured data, or medical text. Models will in turn produce expressive outputs such as free-text explanations, spoken recommendations or image annotations that demonstrate advanced medical reasoning abilities. We identify a set of high-impact potential applications for GMAI and lay out specific technical capabilities and training datasets necessary to enable them. Finally, we discuss how GMAI-enabled applications will challenge current strategies for regulating and validating AI devices for medicine."
+  bio: "Dr. Moor is a postdoctoral scholar at Stanford University’s Department of Computer Science, mentored by Prof. Jure Leskovec. He completed his PhD at ETH Zurich in the Machine Learning and Computational Biology lab advised by Prof. Karsten Borgwardt. He obtained his medical degree at the University of Basel. Dr. Moor’s research revolves around developing novel machine learning approaches for analyzing multimodal medical data. He developed machine learning methods for clinical early warning systems, such as the detection of sepsis. Beyond applications, he also developed representation learning methods to better capture the structure of complex and high-dimensional input data. Most recently, Dr. Moor explores zero-shot learning, knowledge injection, and medical reasoning in large-scale medical AI. Dr. Moor is a recipient of the Fellowship of the Swiss Study Foundation, a program designed to promote academic excellence in Switzerland. His doctoral thesis was nominated for the 2022 ETH silver medal for best dissertations."
+
+- speaker: Jiwoong Jason Jeong
+  institution: Arizona State University
+  type: upcoming
+  date: 6/29/2023
+  title: "The EMory BrEast imaging Dataset (EMBED): A Racially Diverse, Granular Dataset of 3.4 Million Screening and Diagnostic Mammographic Images"
+  abstract: "Breast cancer detection remains one of the most frequent commercial and research applications for deep learning (DL) in radiology. Development of DL models to improve breast cancer screening requires robustly curated and demographically diverse datasets to ensure generalizability. However, most publicly released breast cancer datasets are ethnically and racially homogeneous, are relatively small, and lack image annotations and/or pathologic data. While many mammographic datasets are available, they either lack semantic imaging descriptors (OMI-DB) or are not full-field digital mammograms (CBIS-DDSM) along with the underrepresentation of minority patients. As such, we created the EMory BrEast imaging Dataset (EMBED) contains lesion-level annotations, pathologic outcomes, and demographic information for 116 000 patients from racially diverse backgrounds and will help bridge the existing gaps in granularity, diversity, and scale in breast imaging datasets."
+  bio: "Jiwoong Jason Jeong is a third year PhD student at ASU’s School of Computing and Augmented Intelligence, advised by Dr. Imon Banerjee. His primary research interests lies in using generative models to handle data imbalance problems in classification tasks but also focuses on the application and deployment of classification models in healthcare."
+
+- speaker: Yun Liu
+  institution: Google
+  type: upcoming
+  date: 7/6/2023
+
+- speaker: Alexandros Rekkas
+  institution: Erasmus University Medical Center
+  type: upcoming
+  date: 7/13/2023
+
+- speaker: Cheng-Yu Hseih
+  institution: University of Washington
+  type: upcoming
+  date: 7/20/2023
+
+
+
   
   
   
