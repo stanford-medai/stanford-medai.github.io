@@ -940,6 +940,10 @@
   institution: Erasmus University Medical Center
   type: upcoming
   date: 7/13/2023
+  title: "Risk-based approaches to the assessment of treatment effect heterogeneity"
+  abstract: "In order to provide the most optimal medical care, doctors are advised to align their clinical treatments with the results of well-conducted clinical trials, or the aggregated results of multiple such trials. However, the overall estimated treatment effect is often an average of heterogeneous treatment effects and, as such, may not be applicable to most patient subgroups, let alone individual patients. A patient’s baseline risk—her or his probability of experiencing an outcome of interest—is an important determinant of treatment effect and can be used to guide medical decisions. In this talk we present methods for risk-based assessment of treatment effect heterogeneity in both the clinical trial and the observational setting. Performance of these methods is evaluated using simulations and real-world data."
+  bio: "Alexandros is a PhD student at the Department of Medical Informatics of Erasmus University Medical Center, Netherlands. His research focuses on risk prediction and its use for guiding medical decisions. He is an active member of the OHDSI collaborative which promotes large-scale observational research through the adoption of an open community data standard. He has a bachelor's degree in mathematics from Aristotle University of Thessaloniki (Greece) and a master’s degree in Statistics from KU Leuven (Belgium)."
+  recording: https://youtu.be/sVgI7QI-W-Y
 
 - speaker: Cheng-Yu Hseih
   institution: University of Washington
