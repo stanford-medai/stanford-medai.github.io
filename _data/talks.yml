@@ -929,7 +929,7 @@
 
 - speaker: Yun Liu
   institution: Google
-  type: upcoming
+  type: previous
   date: 7/6/2023
   title: Lessons on the path from Code to Clinic
   abstract: "Inspired by the potential of artificial intelligence (AI) to improve access to expert-level medical image interpretation, several organizations began developing deep learning-based AI systems for detecting diabetic retinopathy (DR) from retinal fundus images around 2015. Today, these AI-based tools are finally being deployed at scale in certain parts of the world, often bringing DR screening to a population lacking easy access to timely diagnosis. The path to translating AI research into a useful clinical tool has gone through several unforeseen challenges along the way. In this talk, we share some lessons contrasting a priori expectations (*myths*) with synthesized learnings of what truly transpired (*reality*), to help others who wish to develop and deploy similar medical AI tools. In addition, I will cover recent work in explainability and learning new knowledge from deep learning models."
