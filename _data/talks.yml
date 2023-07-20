@@ -938,7 +938,7 @@
 
 - speaker: Alexandros Rekkas
   institution: Erasmus University Medical Center
-  type: upcoming
+  type: previous
   date: 7/13/2023
   title: "Risk-based approaches to the assessment of treatment effect heterogeneity"
   abstract: "In order to provide the most optimal medical care, doctors are advised to align their clinical treatments with the results of well-conducted clinical trials, or the aggregated results of multiple such trials. However, the overall estimated treatment effect is often an average of heterogeneous treatment effects and, as such, may not be applicable to most patient subgroups, let alone individual patients. A patient’s baseline risk—her or his probability of experiencing an outcome of interest—is an important determinant of treatment effect and can be used to guide medical decisions. In this talk we present methods for risk-based assessment of treatment effect heterogeneity in both the clinical trial and the observational setting. Performance of these methods is evaluated using simulations and real-world data."
@@ -949,6 +949,10 @@
   institution: University of Washington
   type: upcoming
   date: 7/20/2023
+  title: "Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes"
+  abstract: "Deploying large language models (LLMs) is challenging because they are memory inefficient and compute-intensive for practical applications. In reaction, researchers train smaller task-specific models by either finetuning with human labels or distilling using LLM-generated labels. However, finetuning and distillation require large amounts of training data to achieve comparable performance to LLMs. We introduce Distilling step-by-step, a new mechanism that (a) trains smaller models that outperform LLMs, and (b) achieves so by leveraging less training data needed by finetuning or distillation. Our method extracts LLM rationales as additional supervision for training small models within a multi-task framework. We present three findings across 4 NLP benchmarks: First, compared to both finetuning and distillation, our mechanism achieves better performance with much fewer labeled/unlabeled training examples. Second, compared to few-shot prompted LLMs, we achieve better performance using substantially smaller model sizes. Third, we reduce both the model size and the amount of data required to outperform LLMs; our finetuned 770M T5 model outperforms the few-shot prompted 540B PaLM model using only 80% of available data on a benchmark, whereas standard finetuning the same T5 model struggles to match even by using 100% of the dataset."
+  bio: "Cheng-Yu Hsieh is a PhD student at UW working with Ranjay Krishna and Alex Ratner. He focuses on data-centric machine learning, specifically around developing techniques and tools that help users efficiently curate large-scale datasets, enrich dataset information, and communicate model behavior via data. He is also interested in the interplay between data and modern large-scale pretrained models."
+  recording: https://youtu.be/fnDUaDDrR4c
 
 
 
