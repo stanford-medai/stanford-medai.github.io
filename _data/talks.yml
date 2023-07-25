@@ -954,6 +954,15 @@
   bio: "Cheng-Yu Hsieh is a PhD student at UW working with Ranjay Krishna and Alex Ratner. He focuses on data-centric machine learning, specifically around developing techniques and tools that help users efficiently curate large-scale datasets, enrich dataset information, and communicate model behavior via data. He is also interested in the interplay between data and modern large-scale pretrained models."
   recording: https://youtu.be/fnDUaDDrR4c
 
+- speaker: Zifeng Wang
+  institution: University of Illinois Urbana-Champaign
+  type: upcoming
+  date: 7/27/2023
+  title: "MedCLIP: Contrastive Learning from Unpaired Medical Images and Text"
+  abstract: "Existing vision-text contrastive learning like CLIP aims to match the paired image and caption embeddings while pushing others apart, which improves representation transferability and supports zero-shot prediction. However, medical image-text datasets are orders of magnitude below the general images and captions from the internet. Moreover, previous methods encounter many false negatives, i.e., images and reports from separate patients probably carry the same semantics but are wrongly treated as negatives. In this paper, we decouple images and texts for multimodal contrastive learning thus scaling the usable training data in a combinatorial magnitude with low cost. We also propose to replace the InfoNCE loss with semantic matching loss based on medical knowledge to eliminate false negatives in contrastive learning. We prove that MedCLIP is a simple yet effective framework: it outperforms state-of-the-art methods on zero-shot prediction, supervised classification, and image-text retrieval. Surprisingly, we observe that with only 20K pre-training data, MedCLIP wins over the state-of-the-art method (using around 200K data)."
+  bio: "Zifeng Wang is a PhD student in the computer science department at UIUC. His research interests are AI4Health, AI4Drug, and NLP. He published in NeurIPS, ICLR, KDD, AAAI, EMNLP, etc. He is the recipient of the Best Student Paper award of PAKDD'21. His research is sponsored by Yunni & Maxine Pao Memorial Fellowship and Yee Memorial Fellowship. "
+  
+
 
 
   
