@@ -34,7 +34,7 @@ nav_order: 3
             <div><a href="{{ talk.livestream }}">Livestream Link</a></div>
           {% elsif talk.abstract %}
             <div class="talk-subtitle">Video</div>
-            <div>Session not recorded on request</div>
+            <div>Coming soon</div>
           {% endif %} 
           {% if talk.abstract %}
             <div class="talk-subtitle">Questions for the Speaker</div>
