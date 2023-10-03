@@ -983,11 +983,25 @@
 
 - speaker: Hyungjin Chung
   institution: KAIST
-  type: upcoming
+  type: previous
   date: 8/17/2023
   title: "Generative Diffusion Models for Medical Imaging"
   abstract: "Foundational generative models are gaining more and more interest in recent days. Among them, all the modalities except language seem to be converging towards a single class of model: diffusion models. In this talk, we will focus on leveraging diffusion models as generative priors using Bayesian inference, and how to use them to solve inverse problems, especially focusing on medical imaging. The talk will be focused on fully leveraging the power of foundation models by using them as plug-and-play building blocks to solve challenging downstream tasks. At the end of the talk, a new work on adapting diffusion models for out-of-distribution measurements, showcasing that diffusion models can be used to reconstruct data that were trained on completely different datasets. "
   bio: "Hyungjin Chung is a PhD student at KAIST, and a student researcher at Google AI. His research interests lie on the intersection between deep generative models and computational imaging. Especially, he has pioneered many works on using diffusion models for solving inverse problems, many of them focusing on biomedical imaging. Hyungjin completed his Master's degree in KAIST, and his Bachelor's degree in Korea University."
+  recording: https://youtu.be/1z5rwWr5tlI?si=OsRg2Y7zKLQHIZCB
+
+- speaker: Yunhe Gao
+  institution: Rutgers University
+  type: previous
+  date: 8/23/2023
+  title: "Toward Universal Medical Image Segmentation: Challenges and Opportunities"
+  abstract: "A major enduring focus of clinical workflows is disease analytics and diagnosis, leading to medical imaging datasets where the modalities and annotations are strongly tied to specific clinical objectives. To date, the prevailing training paradigm for medical image segmentation revolves around developing separate models for specific medical objects (e.g., organs or tumors) and image modalities (e.g., CT or MR). This traditional paradigm can hinder the robustness and generalizability of these AI models, inflate costs when further scaling data volumes, and fail to exploit potential synergies among various medical imaging tasks. By observing the training program of radiology residency, we recognize that radiologists’ expertise arises from routine exposure to a diverse range of medical images across body regions, diseases, and imaging modalities. This observation motivates us to explore a new training paradigm, 'universal medical image segmentation', whose key goal is to learn from diverse medical imaging sources. In this talk, I’ll delve into challenges in the new paradigm including issues with partial labeling, conflicting class definitions, and significant data heterogeneity. I’ll also present our pioneering solution, Hermes, aimed at tackling these challenges. We demonstrate that our proposed universal paradigm not only offers enhanced performance and scalability, but also excels in transfer learning, incremental learning and generalization. This innovative approach opens up new perspectives for the construction of foundational models in a broad range of medical image analysis."
+  bio: "Yunhe Gao is a fourth-year Ph.D. candidate in the Department of Computer Science at Rutgers University, advised by Distinguished Professor Dimitris Metaxas. His research focuses on computer vision and medical image analysis. He is also broadly interested in AI model robustness, data efficiency and their applications in the machine learning and healthcare domains. His research has been published in top-tier venues such as IEEE TMI, MedIA, ICCV, ECCV, IPMI and MICCAI."
+  recording: https://youtu.be/in4HoRrVuYo?si=50asEbPZadoqIt33
+
+
+  
+  
 
   
 
