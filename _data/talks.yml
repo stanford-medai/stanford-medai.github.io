@@ -1016,7 +1016,7 @@
   date: 9/14/21
 
 - speaker: Zeshan Hussain
-  institution: Harvard-MIT Health
+  institution: "Harvard-MIT Health"
   type: previous
   date: 9/21/2023
   title: "Benchmarking Causal Effects from Observational Studies using Experimental Data"
