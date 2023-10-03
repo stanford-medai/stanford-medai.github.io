@@ -9,10 +9,10 @@ nav_order: 2
 ---
 
 ## Weekly Exchange Sessions
-We will be having weekly sessions (Thursdays, 1-2pm PT, starting April 1st, 2021) where invited speakers will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later.
+We have weekly sessions (Thursdays, 2-3pm PT) where invited speakers will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later.
 
 ## Timings
-The talks will be held **every week** from **1pm-2pm PT** on **Thursdays**.
+The talks will be held **every week** from **2pm-3pm PT** on **Thursdays**.
 
 ## Schedule
 Check out our [Upcoming Talks]({{ 'upcoming-talks' | relative_url }}) page to get more information about the scheduled talks. We have an exciting line up of speakers.
