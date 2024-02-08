@@ -9,15 +9,16 @@ nav_order: 2
 ---
 
 ## Weekly Exchange Sessions
-We have weekly sessions (Thursdays, 2-3pm PT) where invited speakers will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later.
+We have weekly sessions (Mondays, 1-2pm PT) where invited speakers will present their work or a journal club paper followed by an interactive discussion and Q&A among all participants. Sessions will be recorded or livestreamed based on presenters' consent and the recordings will be available for viewership later.
 
 ## Timings
-The talks will be held **every week** from **2pm-3pm PT** on **Thursdays**.
+The talks will be held **every week** from **1pm-2pm PT** on **Mondays**. You can subcribe to our [public calendar](https://calendar.google.com/calendar/u/0/embed?src=ab4c643a609c1c1e417badd79027697d716f7bed093114f274c72a8100aafcf6@group.calendar.google.com&ctz=America/Los_Angeles).
 
-## Schedule
-Check out our [Upcoming Talks]({{ 'upcoming-talks' | relative_url }}) page to get more information about the scheduled talks. We have an exciting line up of speakers.
+## Speaker Schedule
+Check out our [Upcoming Talks]({{ 'upcoming-talks' | relative_url }}) page to get more information about the scheduled talks. We have an exciting line up of speakers. You can visit our [Previous Talks]({{ 'previous-talks' | relative_url }}) page to get a full list of all talks presented at MedAI till date.
 
-[Upcoming Talks]({{ 'upcoming-talks' | relative_url }}){: .btn .btn-primary}
+[Upcoming Talks]({{ 'upcoming-talks' | relative_url }}){: .btn .btn-primary} 
+[Previous Talks]({{ 'previous-talks' | relative_url }}){: .btn .btn-primary}
 
 ## Video Info
 Please email one of the organizers to get the Zoom information. Recorded sessions will be posted on our [YouTube channel](https://www.youtube.com/channel/UCOkkljs06NPPkjNysCdQV4w) or livestreamed directly (links will be posted in our [Upcoming Talks]({{ 'upcoming-talks' | relative_url }}) page.
