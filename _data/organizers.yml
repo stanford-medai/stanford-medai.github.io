@@ -1,9 +1,7 @@
 - name: Nandita Bhaskhar
-  position: PhD Candidate
-  institution: Stanford University
   email: nanbhas@stanford.edu
   website: https://www.stanford.edu/~nanbhas
-  bio: Nandita Bhaskhar is a PhD student in Electrical Engineering at Stanford University advised by Prof. Daniel Rubin. Her research focuses on observational supervision & self-supervision for leveraging unlabelled medical data and quantifying ML model trust and mitigating distribution shifts for reliable clinical deployment.
+  bio: Nandita Bhaskhar is an alumnus of the Stanford Electrical Engineering PhD program where she was advised by Prof. Daniel Rubin. Her research interests lie in representation learning, robust & trustworthy DL, multimodal and time-series research, especially for health applications.
   image: assets/images/nandita-bhaskhar.jpg
 
 # - name: Siyi Tang
@@ -14,17 +12,16 @@
 #   bio: Siyi Tang is a PhD student in Electrical Engineering at Stanford University advised by Prof. Daniel Rubin. Her research interests lie in the intersection of machine learning and medicine. She develops ML methods for medical applications by leveraging the important characteristics in medical data. 
 #   image: assets/images/siyi-tang.jpg
   
-- name: Amara Tariq
-  position: Senior Data Science Analyst 
+- name: Amara Tariq 
   institution: Mayo Clinic
   email: tariq.amara@mayo.edu
   bio: Amara Tariq works as Senior Data Science Analyst in Machine Intelligence in Medicine and Imaging (MI-2) lab at Mayo Clinic Arizona. She received her PhD in computer science from University of Central Florida where her work was focused on confluence of image and natural language processing for semantic understanding of multi-modal datasets. She received her post-doc at Emory University, GA and Mayo Clinic Arizona where her research interests shifted to development of fusion models for multi-modal biomedical data for applications including clinical event prediction and opportunistic screening for diseases. 
   image: assets/images/amara-tariq.jpg
 
-- name: Daniel L Rubin
+- name: Imon Banerjee
   position: Professor
-  institution: Stanford University
-  email: dlrubin@stanford.edu
-  website: https://rubinlab.stanford.edu/
-  bio: Daniel Rubin is Professor in the Departments of Biomedical Data Science, Radiology, and Medicine (Biomedical Informatics), and by courtesy, of Computer Science and Ophthalmology at Stanford University. Work in the lab lies at the intersection of biomedical informatics and imaging science.  
-  image: assets/images/daniel-rubin.jpg
+  institution: Mayo Clinic and Arizona State University
+  website: https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/
+  bio: Imon Banerjee is a lead AI scientist, affiliated with the Mayo Clinic and Arizona State University. Work in the lab focuses on Multimodal fusion of imaging and nonimaging data for clinical diagnosis and prognosis, Natural language processing to support data curation for state and national cancer registry, and 
+Fair AI model development using computational debiasing.
+  image: assets/images/imon.png
