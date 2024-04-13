@@ -20,3 +20,9 @@ nav_order: 6
     </div>
   {% endfor %}
 </div>
+
+## Founding Members
+
+- Nandita Bhaskhar
+- Siyi Tang
+- Daniel Rubin
