@@ -1043,4 +1043,158 @@
   abstract: "For multiple diseases, early detection significantly improves patient outcomes. This motivates considerable investments in population-wide screening programs, such as mammography for breast cancer and low-dose CT for lung cancer. To be effective and economically viable, these programs must find the right balance between early detection and overscreening. This capacity builds on two complementary technologies: (1) the ability to accurately assess patient risk at a given time point and (2) the ability to design screening regimens based on this risk. Moreover, these tools must obtain consistent performance across diverse populations and adapt to new clinical requirements while learning from limited datasets. In this talk, I’ll discuss approaches to address these challenges in cancer risk assessment from imaging and personalized screening policy design. I’ve demonstrated that these clinical models offer significant improvements over the current standard of care across globally diverse patient populations, and our image-based tools now underly prospective trials."
   bio: "Adam Yala is an assistant professor of Computational Precision Health, Electrical Engineering and Computer Science at UC Berkeley and UCSF. His research focuses on developing machine learning methods for personalized medicine and translating them to clinical care.  His previous research has focused on two areas: 1) predicting future cancer risk, and 2) designing personalized screening policies. Adam's tools underly multiple prospective trails and his research has been featured in the Washington Post, New York Times, STAT, Boston Globe and Wired. Prof Yala obtained his BS, MEng and PhD in Computer Science from MIT where he was a member of MIT Jameel Clinic and MIT CSAIL."
   recording: https://youtu.be/X5fW4aMERmU
+
+
+- speaker: Zongwei Zhou
+  institution: Johns Hopkins University 
+  type: previous
+  date: 10/19/2023
+  title: "Medical Image Analysis: Scaling Annotations, Datasets, and Algorithms"
+  abstract: "Cancer, a leading cause of mortality, can be effectively treated if detected in its early stages. However, early detection is challenging for both humans and computers. While AI can identify details beyond human perception, delineate anatomical structures, and localize abnormalities in medical images, the training of these algorithms requires large-scale datasets, comprehensive annotations, and cutting-edge algorithms. Several disciplines, including natural language processing (e.g., GPTs), representation learning (e.g., MAE), and image segmentation (e.g., SAMs), have witnessed the transformative power of scaling data for AI advancement, but this concept remains relatively underexplored in medical imaging due to the inherent challenges in data and annotation curation. This talk seeks to bridge this gap by focusing on datasets, annotations, and algorithms that are integral to the analysis of medical images, particularly for early cancer detection."
+  bio: "Zongwei Zhou is a postdoctoral researcher at Johns Hopkins University. He received his Ph.D. in Biomedical Informatics at Arizona State University in 2021. His research focuses on developing novel methods to reduce the annotation efforts for computer-aided detection and diagnosis. Zongwei received the AMIA Doctoral Dissertation Award in 2022, the Elsevier-MedIA Best Paper Award in 2020, and the MICCAI Young Scientist Award in 2019. In addition to five U.S. patents, Zongwei has published over 30 peer-reviewed journal/conference articles, two of which have been ranked among the most popular articles in IEEE TMI and the highest-cited article in EJNMMI Research. He was named the top 2 percent of Scientists released by Stanford University in 2022 and 2023. Zongwei has been elected to the Guest Editor of Sensors and J. Imaging; Reviewer of IEEE TPAMI, MedIA, Information Fusion, and IEEE TMI; and Area Chair for CVPR in 2024. "
+
+
+- speaker: Aishik Konwer
+  institution: Stony Brook University
+  type: previous
+  date: 10/26/2023
+  title: "Embracing Imperfection in Medical Vision: Towards Data-Efficient Representation Learning"
+  abstract: "Deep learning approaches have been widely used for supervised tasks like segmentation and predictive modeling in medical computer vision. However, in many cases, medical datasets are limited or imperfect due to the absence of annotations and modalities, thereby preventing traditional frameworks from being applied off the shelf. Such scenarios pose highly complex challenges regarding the efficient usage of accessible modalities to boost downstream performance. There is also a dearth of sophisticated methods that facilitate the incorporation of hidden spatial and temporal data patterns into machine learning frameworks, to aid downstream tasks. I will present data-efficient representation learning approaches for disease severity/outcome prediction modeling from longitudinal imaging data, and lesion segmentation from missing imaging data. This talk comprises discussions encapsulating frameworks that: 1) jointly exploit the spatial distribution within images and the temporal information across time points, 2) augment snapshot-image-based pipelines by the integration of information from multi-image sequences, and 3) employ novel meta-adversarial learning strategies to address the problem of missing MRI sequences in brain tumor segmentation. "
+  bio: "Aishik Konwer is a final year PhD student in the Computer Science department at Stony Brook University, New York. He works in the Imaging Informatics for Precision Medicine (IMAGINE) lab, supervised by Dr. Prateek Prasanna. His research in medical vision focuses on the development of algorithms that leverage meta-learning, few-shot learning, self-supervised learning, and knowledge distillation techniques to tackle challenges associated with imperfect data in medical imaging. Driven by these core techniques, he has proposed several modality- and annotation-efficient learning algorithms for tumor segmentation, disease progression, and outcome prediction tasks, which have been published in top-tier conferences such as CVPR, ICCV, MICCAI, and MIDL. For more details please visit his homepage https://aishikkonwer95.github.io/. "
+  recording: https://youtu.be/yV3TOK6Obqk
+
+
+- speaker: Ayis Pyrros
+  institution: University of Illinois, Chicago
+  type: previous
+  date: 11/2/2023
+  title: "Harnessing the Power of AI in Radiology: Revolutionizing Population Health Management"
+  abstract: "As healthcare progressively integrates technological advancements, the intersection of population health and Artificial Intelligence (AI) emerges as a groundbreaking frontier, especially in the realm of medical imaging. This talk delves into the transformative potential of AI in shaping population health strategies through deep learning with medical imaging techniques. We will explore the contemporary methodologies by which AI-driven algorithms process, analyze, and interpret vast volumes of imaging data, identifying patterns that might be imperceptible to the human eye. Such capabilities pave the way for early disease detection, prediction of epidemiological trends, and personalized care strategies at a population level."
+  bio: "Dr. Ayis Pyrros, a board-certified neuroradiologist, specializes in clinical informatics and machine learning applications within diagnostic radiology. After completing his education at Jefferson Medical College and further specialization at Northwestern Memorial Hospital, he earned a Clinical Informatics certification from the American Board of Preventive Medicine. At Duly Health and Care, Dr. Pyrros played a pivotal role in designing and implementing a machine learning-driven population health platform. His notable research at the Medical Imaging Data Resource Center (MIDRC) has been widely published, including a significant study on the AI-enabled detection of type 2 diabetes from chest radiographs. Currently, he serves as adjunct faculty at the University of Illinois Chicago and is an active contributor to multiple radiological societies (RSNA, ASNR, and ARRS), advocating for advancements in informatics-driven patient care. "
+  recording: https://youtu.be/INbKTNZUtS8
+
+
+- speaker: Chunfeng Lian
+  institution: Xian Jiaotong University
+  type: previous
+  date: 11/9/2023
+  title: "A dual meta-learning framework with application to longitudinally generalized brain tissue segmentation (and other cross-domain segmentation tasks)"
+  abstract: "Brain tissue segmentation is essential for neuroscience and clinical studies. However, segmentation on (unpaired) longitudinal data is technically challenging due to dynamic brain changes across the lifespan, especially in infancy. In this talk, we’ll introduce a dual meta-learning (DuMeta) paradigm to learn efficiently longitudinally consistent/generalized representations and persist when fine-tuning. Results on heterogenous T1w MRI datasets demonstrate the effectiveness of DuMeta in the challenging one-shot segmentation setting. Also, some further experiments suggest that such a meta-learning strategy could also be applied to other cross-domain segmentation tasks."
+  bio: "Chunfeng Lian is currently an Associate Professor of Information Science, School of Mathematics and Statistics, Xi’an Jiaotong University, Xi’an, China. His research focuses on machine learning in medical image computing. He received his PhD in Computer Science from Université de Technologie de Compiègne, CNRS, Heudiasyc (UMR 7253), Compiègne, France, in 2017. From 2017 to 2020, he was a Postdoc with the Radiology department & Biomedical Research Imaging Center (BRIC), UNC-Chapel Hill. Dr. Lian serves as an Associate Editor of three international journals, i.e., Medical Physics, IRBM, and Frontiers in Radiology, and was a Distinguished Reviewer of IEEE T-MI. He was an AC of multiple conferences, e.g., MICCAI’23 & ICPR’22, & a leading co-organizer of MICCAI-MLMI’ 22 workshop."
+  recording: https://youtu.be/czvuZj1gXOI
+
+
+- speaker: Zhi Huang
+  institution: Stanford University
+  type: previous
+  date: 11/16/2023
+  title: "Visual-language foundation model for pathology research and education"
+  abstract: "The lack of annotated publicly available medical images is a major barrier for computational research and education innovations. At the same time, many de-identified images and much knowledge are shared by clinicians on public forums such as medical Twitter. Here we harness these crowd platforms to curate OpenPath, a large dataset of 208,414 pathology images paired with natural language descriptions. We demonstrate the value of this resource by developing pathology language–image pretraining (PLIP), a multimodal artificial intelligence with both image and text understanding, which is trained on OpenPath. PLIP achieves state-of-the-art performances for classifying new pathology images across four external datasets: for zero-shot classification, PLIP achieves F1 scores of 0.565–0.832 compared to F1 scores of 0.030–0.481 for previous contrastive language–image pretrained model. Training a simple supervised classifier on top of PLIP embeddings also achieves 2.5% improvement in F1 scores compared to using other supervised model embeddings. Moreover, PLIP enables users to retrieve similar cases by either image or natural language search, greatly facilitating knowledge sharing. Our approach demonstrates that publicly shared medical information is a tremendous resource that can be harnessed to develop medical artificial intelligence for enhancing diagnosis, knowledge sharing and education."
+  bio: "Zhi Huang is a postdoctoral fellow at Stanford University. In August 2021, He received a Ph.D. degree from Purdue University, majoring in Electrical and Computer Engineering (ECE). His background is in the area of Artificial Intelligence, Digital Pathology, and Computational Biology."
+  recording: https://youtu.be/NtNCHWEv-pk
+
+
+- speaker: Thanksgiving Break + Winter Break -- We will see you next year :)
+  type: previous
+  date: 11/23/2023 to 2/1/2024
+
+
+- speaker: Margarita Bintsi
+  institution: Imperial College London
+  type: previous
+  date: 2/8/2024
+  title: "Multimodal Brain Age Estimation Using Interpretable Adaptive Population-Graph Learning"
+  abstract: "Brain age estimation is clinically important as it can provide valuable information in the context of neurodegenerative diseases such as Alzheimer’s. Population graphs, which include multimodal imaging information of the subjects along with the relationships among the population, have been used in literature along with Graph Convolutional Networks (GCNs) and have proved beneficial for a variety of medical imaging tasks. A population graph is usually static and constructed manually using non-imaging information. However, graph construction is not a trivial task and might significantly affect the performance of the GCN, which is inherently very sensitive to the graph structure. In this work, we propose a framework that learns a population graph structure optimized for the downstream task. An attention mechanism assigns weights to a set of imaging and non-imaging features (phenotypes), which are then used for edge extraction. The resulting graph is used to train the GCN. The entire pipeline can be trained end-to-end. Additionally, by visualizing the attention weights that were the most important for the graph construction, we increase the interpretability of the graph. We use the UK Biobank, which provides a large variety of neuroimaging and non-imaging phenotypes, to evaluate our method on brain age regression and classification. The proposed method outperforms competing static graph approaches and other state-of-the-art adaptive methods. We further show that the assigned attention scores indicate that there are both imaging and non-imaging phenotypes that are informative for brain age estimation and are in agreement with the relevant literature."
+  bio: "Margarita is a final year PhD student at the BioMedIA lab at Imperial College London, supervised by Prof. Daniel Rueckert. Her PhD is on deep learning for medical imaging, and more specifically brain age estimation. Her interests include graph machine learning and multimodal learning, with a particular focus on increasing interpretability. During her PhD, she interned at Microsoft Research and the NASA Frontier Development Lab, when she applied machine learning methods to telecommunications and solar physics, respectively. "
+  recording: https://youtu.be/165vl28_uww
+
+
+- speaker: Maximilian Dreyer
+  institution: Fraunhofer Heinrich Hertz Institute
+  type: previous
+  date: 2/15/2024
+  title: "Reveal to Revise: How to Uncover and Correct Biases of Deep Models in Medical Applications"
+  abstract: "Deep Neural Networks are prone to learning spurious correlations embedded in the training data, leading to potentially biased predictions. This poses risks when deploying these models for high-stakes decision-making, such as in medical applications. In this talk, we will explore the latest techniques to reveal and revise model biases. To reveal model misbehavior, we will study Explainable AI methods of the next generation that communicate model behavior using human-understandable concepts (locally and globally). To revise biases, techniques based on full retraining, fine-tuning or no additional training (post-hoc) are discussed. At last, possible ways to evaluate the success of bias unlearning are presented."
+  bio: "Maximilian Dreyer is a PhD student in the Explainable AI group led by Sebastian Lapuschkin and Wojciech Samek of the Fraunhofer Heinrich Hertz Institute in Berlin (Germany). His research focuses, on the one hand, on developing XAI method that are human-understandable, insightful and yet require low human effort. Secondly, Maximilian works on frameworks that allow to improve AI models based on XAI insights. Specifically, his research focuses here on revealing and revising model (mis)-behavior. Maximilian obtained his B.Sc. in Physics at Humboldt-University of Berlin and M.Sc. in Computational Science at University of Potsdam. "
+  recording: https://youtu.be/HEOz7zXTAcY
+
+
+- speaker: Seongsu Bae
+  institution: KAIST
+  type: previous
+  date: 2/19/2024
+  title: "EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images"
+  abstract: "Electronic Health Records (EHRs) are rich in clinical information, presented in a multi-modal format. Developing a question answering (QA) system to interact with EHRs can significantly aid clinicians in making informed decisions, assist researchers in conducting precise studies, and enhance hospital operational efficiency. Current research mainly focuses on uni-modal QA, such as table-based or image-based QA. This leaves a gap in multi-modal QA, a largely underexplored area. In this talk, I will introduce EHRXQA, the first multi-modal clinical QA dataset requiring reasoning over both tables and images. I will detail the creation of two datasets: a new X-ray-based QA dataset utilizing MIMIC-CXR and Chest ImaGenome, and a table-based QA dataset from MIMIC-IV using EHRSQL, where the two are combined to create EHRXQA. Additionally, I will discuss the potential of NeuralSQL, which integrates SQL with external function calls, in addressing multi-modal questions. "
+  bio: "Seongsu Bae is a second-year Ph.D. student at KAIST's Kim Jaechul Graduate School of AI, advised by Prof. Edward Choi. His research focuses on multi-modal learning, healthcare AI, and the evaluation and benchmarking of AI systems for deployment. Seongsu is dedicated to developing and assessing AI models that understand multi-modal Electronic Health Records (EHRs), including both structured EHRs and medical images/reports. Recently, he completed an internship at Microsoft Research Asia (MSRA) in 2023, focused on multi-modal question answering and generative models in the healthcare domain. "
+  recording: https://youtu.be/ZH8CVWVelZ8
+
+
+- speaker: Emma Chen
+  institution: Harvard University
+  type: previous
+  date: 2/26/2024
+  title: "Multimodal Clinical Benchmark for Emergency Care (MC-BEC): A Comprehensive Benchmark for Evaluating Foundation Models in Emergency Medicine"
+  abstract: "We propose the Multimodal Clinical Benchmark for Emergency Care (MC-BEC), a comprehensive benchmark for evaluating foundation models in Emergency Medicine using a dataset of 100K+ continuously monitored Emergency Department visits from 2020-2022. MC-BEC focuses on clinically relevant prediction tasks at timescales from minutes to days, including predicting patient decompensation, disposition, and emergency department (ED) revisit, and includes a standardized evaluation framework with train-test splits and evaluation metrics. The multimodal dataset includes a wide range of detailed clinical data, including triage information, prior diagnoses and medications, continuously measured vital signs, electrocardiogram and photoplethysmograph waveforms, orders placed and medications administered throughout the visit, free-text reports of imaging studies, and information on ED diagnosis, disposition, and subsequent revisits. We provide performance baselines for each prediction task to enable the evaluation of multimodal, multitask models. We believe that MC-BEC will encourage researchers to develop more effective, generalizable, and accessible foundation models for multimodal clinical data."
+  bio: "Emma Chen is a second-year Ph.D. student in Computer Science at Harvard University, co-advised by Professor Vijay Janapa Reddi and Professor Pranav Rajpurkar. Her research focuses on multimodal machine learning for healthcare. In her free time, she writes a weekly newsletter, Doctor Penguin Weekly (https://doctorpenguin.substack.com), with Dr. Eric Topol to share the latest important medical AI research with the community."
+  recording: https://youtu.be/jqVqROblDp8
+
+
+- speaker: Zeljko Kraljevic
+  institution: King's College London
+  type: previous
+  date: 3/4/2024
+  title: "Large Language Models as Universal Medical Forecasters"
+  abstract: "Electronic Health Records hold detailed longitudinal information about each patient's health status and general clinical history, a large portion of which is stored within the unstructured text. Existing approaches focus mostly on structured data or a subset of single-domain outcomes. We will explore how temporal modeling of patients from free text and structured data, using large language models fine tuned on over 1M million patient timelines can be used to forecast a wide range of future disorders, medications, procedures and symptoms."
+  bio: "Zeljko Kraljevic is a researcher in AI for Healthcare at King’s College London working on temporal modeling of patients and disorders using generative transformers."
+  recording: https://youtu.be/Qis8zK6RGqM
+
+
+- speaker: Yi Lin
+  institution: Hong Kong University of Science and Technology
+  type: previous
+  date: 3/11/2024
+  title: "Data Efficient Learning in medical image segmentation"
+  abstract: "Medical image segmentation is a foundational yet arduous undertaking within the realm of medical image analysis. However, the availability of manually annotated medical data remains limited and costly, posing a significant impediment in this field. In this seminar, I will present our recent research on data-efficient learning in medical image segmentation. Our work delves into the exploration of strategies for maximizing the utility of available data, optimizing annotation efficiency, and enhancing the scalability of the deep-learning-based model. "
+  bio: "Yi Lin is a Ph.D. student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. Kwang-Ting (Tim) Cheng and Prof. Hao Chen. He also worked as a research engineer at the Tencent Jarvis Lab. His research interests include label-efficient learning algorithms with human-in-the-loop, and computer-aided-diagnosis systems considering efficiency, scalability, and accessibility. He has published several papers in top-tier conferences and journals, including IEEE TMI, Medical Image Analysis, IEEE JBHI, MICCAI, and IPMI. He also serves as a reviewer for top-tier conferences and journals, including CVPR, ICCV, ECCV, MICCAI, IEEE TPAMI, IEEE TNNLS, IEEE TMI."
+  recording: https://youtu.be/9RuSuCx3V2M
+
+
+- speaker: Che Liu & Zhongwei Wan
+  institution: Imperial College London and Ohio State University
+  type: previous
+  date: 3/18/2024
+  title: "Towards Fundamental Biomedical AI: Integrating Vision, Language, and Signals"
+  abstract: "This presentation showcases cutting-edge frameworks designed to address key challenges in biomedical AI, focusing on integrating vision-language and signal-language modalities for medical diagnostics. We introduce Med-UniC, an innovative solution for cross-lingual medical vision-language pre-training, effectively reducing community bias across languages to improve performance in medical image analysis. Further, we highlight the Multimodal ECG Representation Learning (MERL) framework, which advances zero-shot ECG classification by leveraging large language models and multimodal learning, and the Multimodal ECG Instruction Tuning (MEIT) framework, designed to automate ECG report generation. Both MEIT and MERL exhibit unparalleled performance in their fields, underlining the significant potential of multimodal and cross-lingual learning in enhancing biomedical AI through the seamless integration of clinical insights and artificial intelligence technologies."
+  bio: "Che Liu, a 3rd-year PhD student at Imperial College London, is working on multimodal large language models (LLMs) for analyzing both daily world and healthcare data. Zhongwei Wan, a 1st-year student at Ohio State University, focuses on multimodal LLMs and enhancing the efficiency of LLMs."
+  recording: https://youtu.be/WHhdrwCnyrk
+
+- speaker: Spring Break -- No MedAI session
+  type: previous
+  date: 3/25/2024 to 4/1/2024
+
+
+
+- speaker: Muhammad Shaban
+  institution: Mass General Brigham and Harvard Medical School
+  type: previous
+  date: 4/8/2024
+  title: "AI-driven fast and accurate cell phenotyping in highly multiplex images"
+  abstract: "Highly multiplexed protein imaging is emerging as a potent technique for analyzing protein distribution within cells and tissues in their native context. However, existing cell annotation methods utilizing high-plex spatial proteomics data are resource intensive and necessitate iterative expert input, thereby constraining their scalability and practicality for extensive datasets. We introduce MAPS (Machine learning for Analysis of Proteomics in Spatial biology), a machine learning approach facilitating rapid and precise cell type identification with human-level accuracy from spatial proteomics data. Validated on multiple in-house and publicly available MIBI and CODEX datasets, MAPS outperforms current annotation techniques in terms of speed and accuracy, achieving pathologist-level precision even for typically challenging cell types, including tumor cells of immune origin. By democratizing rapidly deployable and scalable machine learning annotation, MAPS holds significant potential to expedite advances in tissue biology and disease comprehension."
+  bio: "Dr. Shaban is a Machine Learning Scientist at the AI for Pathology Image Analysis Lab, associated with Mass General Brigham and Harvard Medical School. This role follows his completion of over two years of post-doctoral research at the same lab. He earned his PhD in Computer Science from the University of Warwick, focusing on medical image analysis. He has over eight years of research experience in computer vision, deep learning, and AI-driven medical image analysis. His primary focus is developing advanced algorithms for critical clinical applications in computational pathology. For further information, please visit his website at www.mshaban.org."
+  recording: https://youtu.be/RmBUYslBqIE
+
+
+
+- speaker: Syed Muhammad Anwar
+  institution: George Washington University, School of Medicine
+  type: upcoming
+  date: 4/15/2024
+  title: "Self-supervised learning for chest x-ray analysis"
+  abstract: "Chest X-Ray (CXR) is a widely used clinical imaging modality and has a pivotal role in the diagnosis and prognosis of various lung and heart related conditions. Conventional automated clinical diagnostic tool design strategies relying on radiology reads and supervised learning, entail the cumbersome requirement of high quality annotated training data. To address this challenge, self-supervised pre-training has proven to outperform supervised pre-training in numerous downstream vision tasks, representing a significant breakthrough in the field. However, medical imaging pre-training significantly differs from pre-training with natural images (e.g., ImageNet) due to unique attributes of clinical images. In this talk, I will present a self-supervised training paradigm that leverages a student teacher framework for learning diverse concepts and hence effective representation of the CXR data. Hence, expanding beyond merely modeling a single primary label within an image, instead, effectively harnessing the information from all the concepts inherent in the CXR. The pre-trained model is subsequently fine-tuned to address diverse domain-specific tasks. Our proposed paradigm consistently demonstrates robust performance across multiple downstream tasks on multiple datasets, highlighting the success and generalizability of the pre-training strategy. The training strategy has been extended for federated learning (FL), which could alleviate the burden of data sharing and enable patient privacy. I will briefly talk about the privacy landscape of FL and potential data leakage within the FL paradigm. "
+  bio: "Dr. Anwar is principal investigator at Children’s National Hospital and associate professor of Radiology and Pediatrics at the George Washington University School of Medicine and Health Sciences. Within the hospital, he is associated with the Sheikh Zayed Institute (SZI) for Pediatric Surgical Innovation doing cutting edge research in surgical planning, treatment and device innovation. Prior to this, Dr. Anwar was associated with the University of Engineering and Technology, Taxila as associate professor (Tenured) in the Department of Software Engineering and was a Fulbright Research Fellow at the Center for Research in Computer Vision (CRCV) at the University of Central Florida. CRCV is one of the top-ranked computer vision centers in the world. Dr. Anwar's research interests include developing computational & engineering solutions for healthcare systems that benefit from computer vision, signal processing and artificial intelligence. He has expertise in a wide range of application areas related to machine learning, image and signal processing, and biomedical engineering. "
+
+
+
+
+
   
