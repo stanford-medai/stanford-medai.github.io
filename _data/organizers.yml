@@ -22,6 +22,5 @@
   position: Professor
   institution: Mayo Clinic and Arizona State University
   website: https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/
-  bio: Imon Banerjee is a lead AI scientist, affiliated with the Mayo Clinic and Arizona State University. Work in the lab focuses on Multimodal fusion of imaging and nonimaging data for clinical diagnosis and prognosis, Natural language processing to support data curation for state and national cancer registry, and 
-Fair AI model development using computational debiasing.
+  bio: Imon Banerjee is a lead AI scientist, affiliated with the Mayo Clinic and Arizona State University. Work in the lab focuses on Multimodal fusion of imaging and nonimaging data for clinical diagnosis and prognosis, Natural language processing to support data curation for state and national cancer registry, and Fair AI model development using computational debiasing.
   image: assets/images/imon.png
