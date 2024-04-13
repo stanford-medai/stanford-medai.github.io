@@ -15,12 +15,11 @@
 - name: Amara Tariq 
   institution: Mayo Clinic
   email: tariq.amara@mayo.edu
-  bio: Amara Tariq works as Senior Data Science Analyst in Machine Intelligence in Medicine and Imaging (MI-2) lab at Mayo Clinic Arizona. She received her PhD in computer science from University of Central Florida where her work was focused on confluence of image and natural language processing for semantic understanding of multi-modal datasets. She received her post-doc at Emory University, GA and Mayo Clinic Arizona where her research interests shifted to development of fusion models for multi-modal biomedical data for applications including clinical event prediction and opportunistic screening for diseases. 
+  bio: Amara Tariq is Senior Data Science Analyst in the Machine Intelligence in Medicine and Imaging (MI-2) lab at Mayo Clinic Arizona. Her research interests lie in the development of fusion models for multi-modal biomedical data for applications including clinical event prediction and opportunistic screening for diseases. 
   image: assets/images/amara-tariq.jpg
 
 - name: Imon Banerjee
   position: Professor
   institution: Mayo Clinic and Arizona State University
-  website: https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/
   bio: Imon Banerjee is a lead AI scientist, affiliated with the Mayo Clinic and Arizona State University. Work in the lab focuses on Multimodal fusion of imaging and nonimaging data for clinical diagnosis and prognosis, Natural language processing to support data curation for state and national cancer registry, and Fair AI model development using computational debiasing.
   image: assets/images/imon.png
