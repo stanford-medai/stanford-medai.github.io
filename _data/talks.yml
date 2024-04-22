@@ -1187,11 +1187,23 @@
 
 - speaker: Syed Muhammad Anwar
   institution: George Washington University, School of Medicine
-  type: upcoming
+  type: previous
   date: 4/15/2024
   title: "Self-supervised learning for chest x-ray analysis"
   abstract: "Chest X-Ray (CXR) is a widely used clinical imaging modality and has a pivotal role in the diagnosis and prognosis of various lung and heart related conditions. Conventional automated clinical diagnostic tool design strategies relying on radiology reads and supervised learning, entail the cumbersome requirement of high quality annotated training data. To address this challenge, self-supervised pre-training has proven to outperform supervised pre-training in numerous downstream vision tasks, representing a significant breakthrough in the field. However, medical imaging pre-training significantly differs from pre-training with natural images (e.g., ImageNet) due to unique attributes of clinical images. In this talk, I will present a self-supervised training paradigm that leverages a student teacher framework for learning diverse concepts and hence effective representation of the CXR data. Hence, expanding beyond merely modeling a single primary label within an image, instead, effectively harnessing the information from all the concepts inherent in the CXR. The pre-trained model is subsequently fine-tuned to address diverse domain-specific tasks. Our proposed paradigm consistently demonstrates robust performance across multiple downstream tasks on multiple datasets, highlighting the success and generalizability of the pre-training strategy. The training strategy has been extended for federated learning (FL), which could alleviate the burden of data sharing and enable patient privacy. I will briefly talk about the privacy landscape of FL and potential data leakage within the FL paradigm. "
   bio: "Dr. Anwar is principal investigator at Children’s National Hospital and associate professor of Radiology and Pediatrics at the George Washington University School of Medicine and Health Sciences. Within the hospital, he is associated with the Sheikh Zayed Institute (SZI) for Pediatric Surgical Innovation doing cutting edge research in surgical planning, treatment and device innovation. Prior to this, Dr. Anwar was associated with the University of Engineering and Technology, Taxila as associate professor (Tenured) in the Department of Software Engineering and was a Fulbright Research Fellow at the Center for Research in Computer Vision (CRCV) at the University of Central Florida. CRCV is one of the top-ranked computer vision centers in the world. Dr. Anwar's research interests include developing computational & engineering solutions for healthcare systems that benefit from computer vision, signal processing and artificial intelligence. He has expertise in a wide range of application areas related to machine learning, image and signal processing, and biomedical engineering. "
+  recording: https://www.youtube.com/watch?v=aqeWVToE8_4
+
+- speaker: Bin Wang
+  institution: Northwestern University
+  type: upcoming
+  date: 4/22/2024
+  title: "Radiologist-centered AI with Eye Tracking Techniques"
+  abstract: "Although artificial intelligence (AI) based computer-aided diagnosis systems have been shown to be useful in medical image analysis, current deep learning methods still suffer (1) challenging localization of lesions and (2) low-efficient clinical practice (3) lack of expert knowledge. Eye tracking research is important in computer vision because it can help us understand how humans interact with the visual world. Specifically for high-risk applications, such as medical imaging, eye tracking can help us comprehend how radiologists and other medical professionals search, analyze, and interpret images for diagnostic and clinical purposes. In this study, we investigate how to apply eye tracking techniques to real clinical practice, which builds a time-efficient, robust, and radiologist-centered computer-aided diagnosis system."
+  bio: "Bin Wang is a second-year PhD student in the Department of Electrical and Computer Engineering at Northwestern University under the supervision of Prof. Ulas Bagci. He is mainly working on developing Human-centered AI for medical image analysis. His research interests include Eye Tracking, Multi-Modal Foundational Models, and Human-Computer Interaction. He has over ten papers published in leading machine learning conferences and journals, including MICCAI, WACV, ICASSP, CVPR and NeurIPS workshop, and Medical Image Analysis. (Personal Website: ukaukaaaa.github.io) "
+  recording: https://www.youtube.com/watch?v=gZ3bnQLpXwk
+
+  
 
 
 
