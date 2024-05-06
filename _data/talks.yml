@@ -1214,6 +1214,7 @@
   title: "Generative AI for designing and validating easily synthesizable and structurally novel antibiotics"
   abstract: "Generative AI methods are a promising approach to design new drug candidates, but they often create molecules that are difficult to synthesize, limiting their usefulness in real-world drug discovery. To overcome this limitation, we recently introduced SyntheMol, a generative AI method that exclusively designs easy-to-synthesize molecules from a chemical space of nearly 30 billion molecules. In this talk, I will describe the SyntheMol algorithm as well as how we applied SyntheMol to design, synthesize, and validate molecules that successfully target the bacterium Acinetobacter baumannii."
   bio: "Kyle Swanson is a 3rd year PhD student in computer science at Stanford University advised by Prof. James Zou. His research focuses on developing AI methods for drug discovery and biomedicine, with a particular emphasis on bridging the gap between computational methods and wet lab validation. Previously at MIT (BS, MEng), he worked with Prof. Regina Barzilay to develop Chemprop, a graph neural network for molecular property prediction that enabled the discovery of Halicin, one of the first antibiotic candidates identified by AI. Kyle also studied at the University of Cambridge (MASt) and Imperial College London (MSc) as a Marshall Scholar and currently studies at Stanford as a Knight-Hennessy scholar."
+  recording: https://youtu.be/96eMw7XzA2M
     
 
   
