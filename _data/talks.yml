@@ -1209,12 +1209,20 @@
 
 - speaker: Kyle Swanson
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 5/06/2024
   title: "Generative AI for designing and validating easily synthesizable and structurally novel antibiotics"
   abstract: "Generative AI methods are a promising approach to design new drug candidates, but they often create molecules that are difficult to synthesize, limiting their usefulness in real-world drug discovery. To overcome this limitation, we recently introduced SyntheMol, a generative AI method that exclusively designs easy-to-synthesize molecules from a chemical space of nearly 30 billion molecules. In this talk, I will describe the SyntheMol algorithm as well as how we applied SyntheMol to design, synthesize, and validate molecules that successfully target the bacterium Acinetobacter baumannii."
   bio: "Kyle Swanson is a 3rd year PhD student in computer science at Stanford University advised by Prof. James Zou. His research focuses on developing AI methods for drug discovery and biomedicine, with a particular emphasis on bridging the gap between computational methods and wet lab validation. Previously at MIT (BS, MEng), he worked with Prof. Regina Barzilay to develop Chemprop, a graph neural network for molecular property prediction that enabled the discovery of Halicin, one of the first antibiotic candidates identified by AI. Kyle also studied at the University of Cambridge (MASt) and Imperial College London (MSc) as a Marshall Scholar and currently studies at Stanford as a Knight-Hennessy scholar."
   recording: https://youtu.be/96eMw7XzA2M
+
+- speaker: Aimon Rahman
+  institution: Johns Hopkins University
+  type: upcoming
+  date: 5/13/2024
+  title: "Ambiguous medical image segmentation using diffusion models"
+  abstract: "Collective insights from a group of experts have always proven to outperform an individual's best diagnostic for clinical tasks. For the task of medical image segmentation, existing research on AI-based alternatives focuses more on developing models that can imitate the best individual rather than harnessing the power of expert groups. In this paper, we introduce a single diffusion model-based approach that produces multiple plausible outputs by learning a distribution over group insights. Our proposed model generates a distribution of segmentation masks by leveraging the inherent stochastic sampling process of diffusion using only minimal additional learning. We demonstrate on three different medical image modalities-CT, ultrasound, and MRI that our model is capable of producing several possible variants while capturing the frequencies of their occurrences. Comprehensive results show that our proposed approach outperforms existing state-of-the-art ambiguous segmentation networks in terms of accuracy while preserving naturally occurring variation. We also propose a new metric to evaluate the diversity as well as the accuracy of segmentation predictions that aligns with the interest of clinical practice of collective insights."
+  bio: "Aimon Rahman is a third-year PhD student in the Department of Electrical and Computer Engineering at Johns Hopkins University under the supervision of Dr. Vishal M. Patel.  Her research lies at the intersection of computer vision and medical image analysis, with a focus on developing deep learning techniques to make healthcare more affordable and accessible globally. Her specific research interests include 2D/3D segmentations, generative networks, representation learning, and addressing bias/ambiguity in medical image problems. She is also open to exploring general vision problems, particularly in the areas of generative networks and representation learning. She has a track record of first-author publications in conferences, such as MICCAI, MIDL and CVPR. (Personal Website: https://aimansnigdha.github.io/)."  
     
 
   
