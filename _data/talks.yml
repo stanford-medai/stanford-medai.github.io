@@ -1218,11 +1218,21 @@
 
 - speaker: Aimon Rahman
   institution: Johns Hopkins University
-  type: upcoming
+  type: previous
   date: 5/13/2024
   title: "Ambiguous medical image segmentation using diffusion models"
   abstract: "Collective insights from a group of experts have always proven to outperform an individual's best diagnostic for clinical tasks. For the task of medical image segmentation, existing research on AI-based alternatives focuses more on developing models that can imitate the best individual rather than harnessing the power of expert groups. In this paper, we introduce a single diffusion model-based approach that produces multiple plausible outputs by learning a distribution over group insights. Our proposed model generates a distribution of segmentation masks by leveraging the inherent stochastic sampling process of diffusion using only minimal additional learning. We demonstrate on three different medical image modalities-CT, ultrasound, and MRI that our model is capable of producing several possible variants while capturing the frequencies of their occurrences. Comprehensive results show that our proposed approach outperforms existing state-of-the-art ambiguous segmentation networks in terms of accuracy while preserving naturally occurring variation. We also propose a new metric to evaluate the diversity as well as the accuracy of segmentation predictions that aligns with the interest of clinical practice of collective insights."
   bio: "Aimon Rahman is a third-year PhD student in the Department of Electrical and Computer Engineering at Johns Hopkins University under the supervision of Dr. Vishal M. Patel.  Her research lies at the intersection of computer vision and medical image analysis, with a focus on developing deep learning techniques to make healthcare more affordable and accessible globally. Her specific research interests include 2D/3D segmentations, generative networks, representation learning, and addressing bias/ambiguity in medical image problems. She is also open to exploring general vision problems, particularly in the areas of generative networks and representation learning. She has a track record of first-author publications in conferences, such as MICCAI, MIDL and CVPR. (Personal Website: https://aimansnigdha.github.io/)."  
+  recording: https://www.youtube.com/watch?v=yHwzG0cd8yM
+
+- speaker: Kaishuai Xu
+  institution: Hong Kong Polytechnic University
+  type: upcoming
+  date: 5/20/2024
+  title: "Behave like a Doctor: Clinical Process-Aware Medical Dialogue System"
+  abstract: "Medical dialogue systems (MDS) aim to provide patients with medical services, such as diagnosis and prescription, and have attracted significant attention for their potential to act as medical assistants. Many past and present studies in medical dialogue have focused on improving the accuracy and relevance of single-turn responses, often overlooking the learning of the entire medical dialogue or interview process. While the application of large medical language models has made generating high-quality, contextually relevant responses less challenging, most of these models still rely on QA-style single-turn responses and lack the ability to construct a genuine medical dialogue process. Our work aims to build a medical dialogue system that better aligns with real medical dialogue processes, real diagnostic processes, and real doctors’ thought processes."
+  bio: "Kaishuai Xu is a third-year PhD student in the Department of Computing at the Hong Kong Polytechnic University, supervised by Prof. Wenjie Li. His research focuses on developing reliable and trustworthy medical applications. His interests include Medical Dialogue Systems, Radiology Report Generation, and other applications powered by Large Language Models (LLMs). He has published several papers in leading computational linguistics conferences, including ACL and EMNLP. More information can be found in the personal website: kaishxu.github.io."
+  
     
 
   
