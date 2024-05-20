@@ -1232,6 +1232,11 @@
   title: "Behave like a Doctor: Clinical Process-Aware Medical Dialogue System"
   abstract: "Medical dialogue systems (MDS) aim to provide patients with medical services, such as diagnosis and prescription, and have attracted significant attention for their potential to act as medical assistants. Many past and present studies in medical dialogue have focused on improving the accuracy and relevance of single-turn responses, often overlooking the learning of the entire medical dialogue or interview process. While the application of large medical language models has made generating high-quality, contextually relevant responses less challenging, most of these models still rely on QA-style single-turn responses and lack the ability to construct a genuine medical dialogue process. Our work aims to build a medical dialogue system that better aligns with real medical dialogue processes, real diagnostic processes, and real doctors’ thought processes."
   bio: "Kaishuai Xu is a third-year PhD student in the Department of Computing at the Hong Kong Polytechnic University, supervised by Prof. Wenjie Li. His research focuses on developing reliable and trustworthy medical applications. His interests include Medical Dialogue Systems, Radiology Report Generation, and other applications powered by Large Language Models (LLMs). He has published several papers in leading computational linguistics conferences, including ACL and EMNLP. More information can be found in the personal website: kaishxu.github.io."
+  recording: https://www.youtube.com/watch?v=T4if1iDbxaE
+
+- speaker: No MedAI session (Memorial Day)
+  type: previous
+  date: 5/27/2024  
   
     
 
