@@ -1,7 +1,7 @@
 - name: Nandita Bhaskhar
   email: nanbhas@stanford.edu
   website: https://www.stanford.edu/~nanbhas
-  bio: Nandita Bhaskhar is an alumnus of the Stanford Electrical Engineering PhD program where she was advised by Prof. Daniel Rubin. Her research interests lie in representation learning, robust & trustworthy DL, multimodal and time-series research, especially for health applications.
+  bio: Nandita is an ML Researcher at Apple. She is an alumnus of the Stanford EE PhD program where she was advised by Prof. Daniel Rubin. Her research interests lie in representation learning, robust & trustworthy DL, multimodal and time-series research, especially for health applications.
   image: assets/images/nandita-bhaskhar.jpg
 
 # - name: Siyi Tang
@@ -17,6 +17,12 @@
   email: tariq.amara@mayo.edu
   bio: Amara Tariq is a Senior Data Science Analyst in the Machine Intelligence in Medicine and Imaging (MI-2) lab at Mayo Clinic Arizona. Her research interests lie in the development of fusion models for multi-modal biomedical data for applications including clinical event prediction and opportunistic screening for diseases. 
   image: assets/images/amara-tariq.jpg
+
+- name: Avisha Das
+  institution: Mayo Clinic
+  email: das.avisha@mayo.edu
+  bio: Avisha is a Research Fellow at Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic Arizona. Her research interests lie in Large Language Modeling (LLM), focusing on natural language generation and understanding tasks. At the Mayo Clinic, she is working on Privacy Concerns and Mitigation of Large Language Model in biomedical and healthcare domain.
+  image: assets/images/avisha-das.png
 
 - name: Imon Banerjee
   institution: Mayo Clinic & ASU
