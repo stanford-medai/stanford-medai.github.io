@@ -1227,7 +1227,7 @@
 
 - speaker: Kaishuai Xu
   institution: Hong Kong Polytechnic University
-  type: upcoming
+  type: previous
   date: 5/20/2024
   title: "Behave like a Doctor: Clinical Process-Aware Medical Dialogue System"
   abstract: "Medical dialogue systems (MDS) aim to provide patients with medical services, such as diagnosis and prescription, and have attracted significant attention for their potential to act as medical assistants. Many past and present studies in medical dialogue have focused on improving the accuracy and relevance of single-turn responses, often overlooking the learning of the entire medical dialogue or interview process. While the application of large medical language models has made generating high-quality, contextually relevant responses less challenging, most of these models still rely on QA-style single-turn responses and lack the ability to construct a genuine medical dialogue process. Our work aims to build a medical dialogue system that better aligns with real medical dialogue processes, real diagnostic processes, and real doctors’ thought processes."
@@ -1237,6 +1237,14 @@
 - speaker: No MedAI session (Memorial Day)
   type: previous
   date: 5/27/2024  
+
+- speaker: Arko Barman
+  institution: Rice University
+  type: upcoming
+  date: 6/3/2024
+  title: "Deep Symmetry-sensitive networks for detecting brain diseases"
+  abstract: "Spatial symmetry is commonly used by clinicians in the diagnosis and prognosis of diseases involving multiple organs such as the brain, prostate, breasts, and lungs. Anomalies in symmetry can be indicative of patient-specific disease-related features that are less sensitive to inter-patient variability. However, quantifying these symmetric anomalies is challenging as the symmetries in the human body are not exact mirrored copies. We will explore the design and development of a novel deep learning architectural paradigm, named Deep Symmetry-sensitive Network (DeepSymNet), capable of learning anomalies in symmetry from minimally processed 2D or 3D radiological images. DeepSymNet was evaluated for detection of Large Vessel Occlusion (LVO) in the brain for ischemic stroke patients (using 3D CT angiography images). DeepSymNet is less sensitive to noise, rotation and translation compared to a ‘symmetry-naive’ deep convolutional neural network (CNN) with a similar number of parameters. Finally, an interpretation of the decision-making process of the DeepSymNet model using activation maps is presented. An expanded DeepSymNet (e-DeepSymNet) architecture also explores the combination of symmetry-sensitive and symmetry-naive feature representations for the detection of brain hemorrhage. Other applications of DeepSymNet in radiological image analysis, such as quantifying the neurodegeneration in Alzheimer's disease using MRI, will be briefly discussed."
+  bio: "Dr. Arko Barman is an Assistant Teaching Professor in the Data to Knowledge Lab, the ECE department, and the Statistics department at Rice University. He received his Ph.D. in Computer Science at the University of Houston, Master's in Signal Processing at the Indian Institute of Science, and Bachelor's in Electrical Engineering at Jadavpur University. Dr. Barman has previously worked at the Palo Alto Research Center, UTHealth, and Broadcom Inc. before joining Rice. His research encompasses AI, machine learning, and computer vision and their applications in biomedicine, video surveillance, ecological conservation, and the social sciences. He is also actively involved in data science education research and has published, presented, and has been in the organizing committee of engineering  and computer science education conferences such ACM SIGCSE and IEEE Frontiers in Engineering. Additionally, he serves as the director of the data science capstone program at Rice, which brings together industry, healthcare, and non-profit companies with Rice students to solve real world problems using machine learning and AI."  
   
     
 
