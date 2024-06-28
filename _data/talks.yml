@@ -1249,15 +1249,16 @@
 
 - speaker: Mingjie Li
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 6/10/2024
   title: "Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation"
   abstract: "In the realm of medical imaging, automatic radiology reporting has emerged as a crucial tool to alleviate the heavy workloads faced by radiologists and enhance the interpretation of diagnoses. Traditional approaches have augmented data-driven neural networks with static medical knowledge graphs to tackle the inherent visual and textual biases in this task. However, these fixed graphs, constructed from general knowledge, often fail to capture the most relevant and specific clinical knowledge, limiting their effectiveness. In this talk, Dr. Li will introduce his innovative approach to dynamic graph enhanced contrastive learning for chest X-ray report generation, termed Dynamic Contrastive Learning (DCL). This method constructs an initial knowledge graph from general medical knowledge and dynamically updates it by incorporating specific knowledge extracted from retrieved reports during the training process. This adaptive graph structure allows each image feature to be integrated with an updated and contextually relevant graph, enhancing the quality of the generated reports. Key components of this approach include the introduction of Image-Report Contrastive and Image-Report Matching losses, which improve the representation of visual features and textual information. He will present the results of the proposed method evaluated on the IU-Xray and MIMIC-CXR datasets, demonstrating its superior performance compared to existing state-of-the-art models. This advancement holds significant promise for improving the accuracy and efficiency of automatic radiology reporting, ultimately contributing to better clinical outcomes."
   bio: "Dr. Mingjie is a postdoctoral researcher in the Department of Radiation Oncology at Stanford University, working under the mentorship of Professor Lei Xing. Dr. Mingjie earned their Ph.D. in Computer Science from the University of Technology Sydney. His research focuses on medical multi-modal tasks, with a particular interest in medical report generation and medical multi-modal representation learning. Dr. Mingjie has publications in top-tier venues such as T-PAMI, CVPR, NeurIPS, and TIP. In addition to his research, Dr. Mingjie serves as a reviewer for several prestigious conferences and journals, including CVPR, NeurIPS, ACM MM, ACL, TMI, and TCSVT. His work aims to advance the integration of artificial intelligence in medical imaging and improve clinical outcomes through innovative methodologies."
+  recording: https://www.youtube.com/watch?v=R9ig2ZSLoNU
 
 - speaker: Summer break - No MedAI session 
   type: upcoming
-  date: 6/17/2024 - 6/24/2024   
+  date: 6/17/2024 - 7/01/2024   
 
   
     
