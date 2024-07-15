@@ -1262,12 +1262,26 @@
 
 - speaker: Avisha Das
   institution: Mayo Clinic
-  type: upcoming
+  type: previous
   date: 7/8/2024
   title: "Framework for Exposing Vulnerabilities of Clinical Large Language Model: A Case Study in Breast Cancer"
   abstract: "Large language models (LLMs) with billions of parameters and trained on massive amounts of crowdsourced public data have made a dramatic impact on natural language processing (NLP) tasks. Domain specific `finetuning' of LLMs has further improved model behavior through task-specific alignment and refinement. However, with the widespread development and deployment of LLMs, existing vulnerabilities in these models have made way for perpetrators to manipulate them for malicious intentions. The widespread integration of LLMs in clinical NLP underscores the looming threat of privacy leakage and targeted attacks like prompt injection or data poisoning. In this work, we designed a systematic framework to expose vulnerabilities of clinical generative language models with a specific emphasis on its application to clinical notes. We design three attack pipelines to highlight model's susceptibility to core types of targeted attacks -  (i) instruction-based data poisoning, (ii) trigger-based model editing and (iii) membership inference on de-identified breast cancer clinical notes. Our proposed framework is the first work to investigate the extent of LLM-based attacks in the clinical domain. Our findings reveal successful manipulation of LLM behavior, prompting concerns about the stealthiness and effectiveness of such attacks. Through this work, we hope to emphasize on the urgency of comprehending these vulnerabilities in LLMs and encourage the mindful and responsible usage of LLMs in the clinical domain."
   bio: "I am currently a Research Fellow with the Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic, AZ. I have previously worked as a Postdoc at the University of Texas Health Science Center, Houston. My research interests lie in Large Language Modeling and Language Understanding. I am currently working on exploring LLM vulnerabilities in the Biomedical and Clinical Domain. I have previously worked on Biomedical Knowledge Mining and Retrieval as well as Empathetic Conversational Agents for Mental Health Support."
   recording: https://www.youtube.com/watch?v=osrv5cNo26E
+
+- speaker: Aisha Urooj
+  institution: Mayo Clinic
+  type: upcoming
+  date: 7/15/2024
+  title: "AI-Driven Advancements in Mammogram Analysis"
+  abstract: "Adapting AI models for healthcare applications presents significant challenges, such as domain misalignment, limited access to extensive datasets, and highly imbalanced classes. Hence, there is a pressing need to develop a corresponding proficiency in adapting the advancements in AI to the medical domain. Such adaptations would prove immensely valuable in healthcare applications to extract clinical insights and actionable information. In this talk, I will discuss my research efforts at the Mayo Clinic to design and validate AI models for use cases in mammogram analysis, particularly in the context of cancer screening and risk assessment of adverse cardiovascular events among women."
+  bio: "Aisha Urooj is a Research Fellow at Arizona Advanced AI & Innovation (AI3) Hub, Mayo Clinic, AZ. She received her Ph.D. from the Center for Research in Computer Vision (CRCV) at the University of Central Florida, where she was advised by Dr. Mubarak Shah and Dr. Niels Da Vitoria Lobo. She also worked at MIT-IBM Watson AI lab as a Research Scientist Intern in Summers 2020-2021. Her research interests include multimodal understanding tasks involving language and vision with a focus on representation learning, visual question answering, and visual grounding. Her recent work is focused on learning joint representations from imaging and clinical reports and developing efficient AI systems to assist radiologists in their diagnosis."
+
+
+
+
+
+
   
 
   
