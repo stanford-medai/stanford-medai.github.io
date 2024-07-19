@@ -1276,6 +1276,22 @@
   title: "AI-Driven Advancements in Mammogram Analysis"
   abstract: "Adapting AI models for healthcare applications presents significant challenges, such as domain misalignment, limited access to extensive datasets, and highly imbalanced classes. Hence, there is a pressing need to develop a corresponding proficiency in adapting the advancements in AI to the medical domain. Such adaptations would prove immensely valuable in healthcare applications to extract clinical insights and actionable information. In this talk, I will discuss my research efforts at the Mayo Clinic to design and validate AI models for use cases in mammogram analysis, particularly in the context of cancer screening and risk assessment of adverse cardiovascular events among women."
   bio: "Aisha Urooj is a Research Fellow at Arizona Advanced AI & Innovation (AI3) Hub, Mayo Clinic, AZ. She received her Ph.D. from the Center for Research in Computer Vision (CRCV) at the University of Central Florida, where she was advised by Dr. Mubarak Shah and Dr. Niels Da Vitoria Lobo. She also worked at MIT-IBM Watson AI lab as a Research Scientist Intern in Summers 2020-2021. Her research interests include multimodal understanding tasks involving language and vision with a focus on representation learning, visual question answering, and visual grounding. Her recent work is focused on learning joint representations from imaging and clinical reports and developing efficient AI systems to assist radiologists in their diagnosis."
+  recording: https://www.youtube.com/watch?v=JzTF6OURd0U
+
+- speaker: Ege Ozsoy
+  institution: Technical University of Munich
+  type: upcoming
+  date: 7/15/2024
+  title: "Holistic OR Domain Modeling with Large Vision Language Models"
+  abstract: "The operating room (OR) is an intricate environment involving diverse medical staff, patients, devices, and their interactions. Traditionally, only skilled medical professionals can navigate and comprehend these complex dynamics. This talk introduces an innovative approach towards automated, comprehensive modeling of the OR domain using Large Vision Language Models (LVLMs). By leveraging semantic scene graphs (SSG) and state-of-the-art vision-language integration, we aim to achieve a holistic understanding and representation of surgical environments. Our approach involves creating and utilizing the first open-source 4D-OR dataset, capturing simulated surgeries with RGB-D sensors. This dataset, enriched with annotations for SSGs, human and object poses, clinical roles, and surgical phases, enables advanced semantic reasoning. We will discuss our neural network-based SSG generation pipeline and its successful application to clinical role prediction and surgical phase recognition tasks, showcasing its potential to enhance decision-making and patient safety during surgical procedures. Furthermore, I will highlight the significant strides made in Knowledge Guidance using LVLMs in OR modeling and the transformative impact it promises for the future of surgical data analysis."
+  bio: "I am currently a third-year PhD student at the Technical University of Munich (TUM) in the Chair of Computer Aided Medical Procedures (CAMP). I completed both my bachelor’s and master’s degrees in computer science at TUM. Towards the end of my master’s, I began focusing on Holistic OR Domain Modeling at CAMP. My research centers on achieving a comprehensive understanding and modeling of the entire operating room using semantic scene graphs and large vision language models."
+  recording: 
+
+
+
+
+
+  
 
 
 
