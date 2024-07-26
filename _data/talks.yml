@@ -1271,7 +1271,7 @@
 
 - speaker: Aisha Urooj
   institution: Mayo Clinic
-  type: upcoming
+  type: previous
   date: 7/15/2024
   title: "AI-Driven Advancements in Mammogram Analysis"
   abstract: "Adapting AI models for healthcare applications presents significant challenges, such as domain misalignment, limited access to extensive datasets, and highly imbalanced classes. Hence, there is a pressing need to develop a corresponding proficiency in adapting the advancements in AI to the medical domain. Such adaptations would prove immensely valuable in healthcare applications to extract clinical insights and actionable information. In this talk, I will discuss my research efforts at the Mayo Clinic to design and validate AI models for use cases in mammogram analysis, particularly in the context of cancer screening and risk assessment of adverse cardiovascular events among women."
@@ -1280,12 +1280,27 @@
 
 - speaker: Ege Ozsoy
   institution: Technical University of Munich
-  type: upcoming
-  date: 7/15/2024
+  type: previous
+  date: 7/22/2024
   title: "Holistic OR Domain Modeling with Large Vision Language Models"
   abstract: "The operating room (OR) is an intricate environment involving diverse medical staff, patients, devices, and their interactions. Traditionally, only skilled medical professionals can navigate and comprehend these complex dynamics. This talk introduces an innovative approach towards automated, comprehensive modeling of the OR domain using Large Vision Language Models (LVLMs). By leveraging semantic scene graphs (SSG) and state-of-the-art vision-language integration, we aim to achieve a holistic understanding and representation of surgical environments. Our approach involves creating and utilizing the first open-source 4D-OR dataset, capturing simulated surgeries with RGB-D sensors. This dataset, enriched with annotations for SSGs, human and object poses, clinical roles, and surgical phases, enables advanced semantic reasoning. We will discuss our neural network-based SSG generation pipeline and its successful application to clinical role prediction and surgical phase recognition tasks, showcasing its potential to enhance decision-making and patient safety during surgical procedures. Furthermore, I will highlight the significant strides made in Knowledge Guidance using LVLMs in OR modeling and the transformative impact it promises for the future of surgical data analysis."
   bio: "I am currently a third-year PhD student at the Technical University of Munich (TUM) in the Chair of Computer Aided Medical Procedures (CAMP). I completed both my bachelor’s and master’s degrees in computer science at TUM. Towards the end of my master’s, I began focusing on Holistic OR Domain Modeling at CAMP. My research centers on achieving a comprehensive understanding and modeling of the entire operating room using semantic scene graphs and large vision language models."
+  recording: https://www.youtube.com/watch?v=M3D1eLhcGRo
+
+- speaker: Sarah Volinsky
+  institution: The Leiden University Medical Center
+  type: upcoming
+  date: 7/29/2024
+  title: "HECTOR, a multimodal deep learning model predicting recurrence risk in endometrial cancer"
+  abstract: "Predicting distant recurrence of endometrial cancer (EC) is crucial for personalized adjuvant treatment. The current gold standard of combined pathological and molecular profiling is costly, hampering implementation. Here we developed HECTOR (histopathology-based endometrial cancer tailored outcome risk), a multimodal deep learning prognostic model using hematoxylin and eosin-stained, whole-slide images and tumor stage as input, on 2,072 patients from eight EC cohorts including the PORTEC-1/-2/-3 randomized trials. HECTOR demonstrated C-indices in internal (n = 353) and two external (n = 160 and n = 151) test sets of 0.789, 0.828 and 0.815, respectively, outperforming the current gold standard, and identified patients with markedly different outcomes (10-year distant recurrence-free probabilities of 97.0%, 77.7% and 58.1% for HECTOR low-, intermediate- and high-risk groups, respectively, by Kaplan–Meier analysis). HECTOR helps delivery of personalized treatment in EC."
+  bio: "Sarah Volinsky is a deep learning engineer with specific expertise in computational pathology. She is completing her 4-year PhD research in The Leiden University Medical Center in the Netherlands where she is the principal junior researcher of the AIRMEC team, a joint collaboration with Dr. Tjalling Bosse and Dr. Nanda Horeweg at the Leiden University Medical Center and Prof. Viktor Koelzer at the University Hospital of Basel. As part of her PhD research work, she has been developing deep learning models using histology images, outcomes, genomic data, specifically in the domain of endometrial cancer for predicting molecular alterations and outcomes. This has led to two first author publications in the Lancet digital health 2023, Nature Medicine 2024 and platform presentations in several international conferences including USCAP and AACR. Prior to this, she was working in the UK as a machine learning engineer after completing her second Msc in Data Science in London. She has also graduated from a Msc in financial engineering and a bachelor in mathematics in Paris."
   recording: 
+
+
+
+
+
+  
 
 
 
