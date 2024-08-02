@@ -1289,12 +1289,22 @@
 
 - speaker: Sarah Volinsky
   institution: The Leiden University Medical Center
-  type: upcoming
+  type: previous
   date: 7/29/2024
   title: "HECTOR, a multimodal deep learning model predicting recurrence risk in endometrial cancer"
   abstract: "Predicting distant recurrence of endometrial cancer (EC) is crucial for personalized adjuvant treatment. The current gold standard of combined pathological and molecular profiling is costly, hampering implementation. Here we developed HECTOR (histopathology-based endometrial cancer tailored outcome risk), a multimodal deep learning prognostic model using hematoxylin and eosin-stained, whole-slide images and tumor stage as input, on 2,072 patients from eight EC cohorts including the PORTEC-1/-2/-3 randomized trials. HECTOR demonstrated C-indices in internal (n = 353) and two external (n = 160 and n = 151) test sets of 0.789, 0.828 and 0.815, respectively, outperforming the current gold standard, and identified patients with markedly different outcomes (10-year distant recurrence-free probabilities of 97.0%, 77.7% and 58.1% for HECTOR low-, intermediate- and high-risk groups, respectively, by Kaplan–Meier analysis). HECTOR helps delivery of personalized treatment in EC."
   bio: "Sarah Volinsky is a deep learning engineer with specific expertise in computational pathology. She is completing her 4-year PhD research in The Leiden University Medical Center in the Netherlands where she is the principal junior researcher of the AIRMEC team, a joint collaboration with Dr. Tjalling Bosse and Dr. Nanda Horeweg at the Leiden University Medical Center and Prof. Viktor Koelzer at the University Hospital of Basel. As part of her PhD research work, she has been developing deep learning models using histology images, outcomes, genomic data, specifically in the domain of endometrial cancer for predicting molecular alterations and outcomes. This has led to two first author publications in the Lancet digital health 2023, Nature Medicine 2024 and platform presentations in several international conferences including USCAP and AACR. Prior to this, she was working in the UK as a machine learning engineer after completing her second Msc in Data Science in London. She has also graduated from a Msc in financial engineering and a bachelor in mathematics in Paris."
+  recording: https://www.youtube.com/watch?v=w2gFOZVOcYY
+
+- speaker: Xiaohan Xing
+  institution: Stanford University
+  type: upcoming
+  date: 8/5/2024
+  title: "Integrating Pathology Images and Genomics Data for Cancer Grading"
+  abstract: "In recent years, Artificial Intelligence (AI) technology has been widely applied to the analysis of multi-modal biomedical data, revolutionizing healthcare. Integrating morphological information from pathology slides with molecular information from genomics data enhances cancer grading accuracy and reliability. However, this integration faces challenges: modality gap, modality imbalance, and modality missing. To address these, we developed a low-rank constraint-based method to bridge the gap between different modalities and capture cross-modal complementary information, a saliency-aware masking strategy to balance the contribution of different modalities, and a knowledge distillation framework to improve model performance when genomics data is missing. We validated the effectiveness of these methods on the TCGA GBMLGG dataset."
+  bio: "Dr. Xiaohan Xing is a postdoctoral researcher at Stanford University, having obtained her Ph.D. from The Chinese University of Hong Kong in 2021. She has been extensively involved in research related to medical AI, focusing on disease diagnosis and survival prediction based on medical images, omics data, and the integration of multimodal data. Currently, she has published more than 20 papers in top-tier journals and conferences in the field. Among these, she is the first author of 12 papers in leading journals such as Proceedings of IEEE, TMI, Medical Image Analysis, Bioinformatics, and prominent conferences like MICCAI and BIBM. Her research contributions have gained worldwide recognition, and she was honored with the MICCAI Young Scientist Award in 2022."
   recording: 
+  
 
 
 
