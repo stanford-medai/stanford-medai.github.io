@@ -1298,12 +1298,21 @@
 
 - speaker: Xiaohan Xing
   institution: Stanford University
-  type: upcoming
+  type: previous
   date: 8/5/2024
   title: "Integrating Pathology Images and Genomics Data for Cancer Grading"
   abstract: "In recent years, Artificial Intelligence (AI) technology has been widely applied to the analysis of multi-modal biomedical data, revolutionizing healthcare. Integrating morphological information from pathology slides with molecular information from genomics data enhances cancer grading accuracy and reliability. However, this integration faces challenges: modality gap, modality imbalance, and modality missing. To address these, we developed a low-rank constraint-based method to bridge the gap between different modalities and capture cross-modal complementary information, a saliency-aware masking strategy to balance the contribution of different modalities, and a knowledge distillation framework to improve model performance when genomics data is missing. We validated the effectiveness of these methods on the TCGA GBMLGG dataset."
   bio: "Dr. Xiaohan Xing is a postdoctoral researcher at Stanford University, having obtained her Ph.D. from The Chinese University of Hong Kong in 2021. She has been extensively involved in research related to medical AI, focusing on disease diagnosis and survival prediction based on medical images, omics data, and the integration of multimodal data. Currently, she has published more than 20 papers in top-tier journals and conferences in the field. Among these, she is the first author of 12 papers in leading journals such as Proceedings of IEEE, TMI, Medical Image Analysis, Bioinformatics, and prominent conferences like MICCAI and BIBM. Her research contributions have gained worldwide recognition, and she was honored with the MICCAI Young Scientist Award in 2022."
-  recording: 
+  recording: https://www.youtube.com/watch?v=qjJV9C01AEs
+
+- speaker: Hassan Mohy-ud-Din
+  institution: School of Science and Engineering, LUMS
+  type: upcoming
+  date: 8/12/2024
+  title: "Towards Robust Radiomics and Radiogenomics Predictive Models for Brain Tumor Characterization"
+  abstract: "In the context of brain tumor characterization, we focused on two key questions which, to the best of our knowledge, have not been explored so far: (a) stability of radiomics features to variability in multiregional segmentation masks obtained with fully-automatic deep segmentation methods and (b) subsequent impact on predictive performance on downstream prediction tasks. The hypothesis is that highly stable and discriminatory radiomics features lead to generalizable radio(geno)mics models for brain tumor characterization."
+  bio: "Dr. Hassan Mohy-ud-Din is the Director of Algorithms in Theory and Practice Lab and an Assistant Professor of Electrical Engineering, Syed Babar Ali School of Science and Engineering, LUMS. He completed his PhD and MSE in Electrical and Computer Engineering and MA in Applied Mathematics and Statistics from Johns Hopkins University (2009 – 2015). From 2015 – 2017 he was a postdoctoral associate in the Department of Radiology and Biomedical Imaging at the Yale School of Medicine. From 2017 – 2018 he was a Clinical Research Scientist at Shaukat Khanum Memorial Cancer Hospital and Research Centre, Lahore, Pakistan. His research is at the intersection of applied mathematics and clinical imaging – exploiting tools in machine learning, optimization, statistics, and information theory to develop novel algorithms for clinical and translational imaging. He has done extensive research in multimodality imaging including PET/CT, SPECT/CT, PET/MR, Low-dose CT, and multiparametric MRI and developed computational pipelines for brain imaging, cardiac imaging, and abdominal imaging. His work on dynamic cardiac PET imaging won the 2014 SNMMI Bradley-Alavi fellowship and the 2014 SIAM student award. He is also a recipient of the 2019 Charles Wallace Fellowship from the British Council, Pakistan. He carries a university teaching experience of over fifteen years (including five years at Johns Hopkins University)."
+  recording: https://www.youtube.com/watch?v=-o1f3QzRLHU
   
 
 
