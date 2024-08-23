@@ -1313,6 +1313,25 @@
   abstract: "In the context of brain tumor characterization, we focused on two key questions which, to the best of our knowledge, have not been explored so far: (a) stability of radiomics features to variability in multiregional segmentation masks obtained with fully-automatic deep segmentation methods and (b) subsequent impact on predictive performance on downstream prediction tasks. The hypothesis is that highly stable and discriminatory radiomics features lead to generalizable radio(geno)mics models for brain tumor characterization."
   bio: "Dr. Hassan Mohy-ud-Din is the Director of Algorithms in Theory and Practice Lab and an Assistant Professor of Electrical Engineering, Syed Babar Ali School of Science and Engineering, LUMS. He completed his PhD and MSE in Electrical and Computer Engineering and MA in Applied Mathematics and Statistics from Johns Hopkins University (2009 – 2015). From 2015 – 2017 he was a postdoctoral associate in the Department of Radiology and Biomedical Imaging at the Yale School of Medicine. From 2017 – 2018 he was a Clinical Research Scientist at Shaukat Khanum Memorial Cancer Hospital and Research Centre, Lahore, Pakistan. His research is at the intersection of applied mathematics and clinical imaging – exploiting tools in machine learning, optimization, statistics, and information theory to develop novel algorithms for clinical and translational imaging. He has done extensive research in multimodality imaging including PET/CT, SPECT/CT, PET/MR, Low-dose CT, and multiparametric MRI and developed computational pipelines for brain imaging, cardiac imaging, and abdominal imaging. His work on dynamic cardiac PET imaging won the 2014 SNMMI Bradley-Alavi fellowship and the 2014 SIAM student award. He is also a recipient of the 2019 Charles Wallace Fellowship from the British Council, Pakistan. He carries a university teaching experience of over fifteen years (including five years at Johns Hopkins University)."
   recording: https://www.youtube.com/watch?v=-o1f3QzRLHU
+
+- speaker: Rahul Thapa
+  institution: Stanford University
+  type: upcoming
+  date: 8/19/2024
+  title: "SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"
+  abstract: "Sleep is a complex physiological process evaluated through various modalities recording electrical brain, cardiac, and respiratory activities. We curate a large polysomnography dataset from over 14,000 participants comprising over 100,000 hours of multi-modal sleep recordings. Leveraging this extensive dataset, we developed SleepFM, the first multi-modal foundation model for sleep analysis. We show that a novel leave-one-out approach for contrastive learning significantly improves downstream task performance compared to representations from standard pairwise contrastive learning. A logistic regression model trained on SleepFM's learned embeddings outperforms an end-to-end trained convolutional neural network (CNN) on sleep stage classification (macro AUROC 0.88 vs 0.72 and macro AUPRC 0.72 vs 0.48) and sleep disordered breathing detection (AUROC 0.85 vs 0.69 and AUPRC 0.77 vs 0.61). Notably, the learned embeddings achieve 48% top-1 average accuracy in retrieving the corresponding recording clips of other modalities from 90,000 candidates. This work demonstrates the value of holistic multi-modal sleep modeling to fully capture the richness of sleep recordings."
+  bio: "Rahul is a second-year PhD student at Stanford University, working under the guidance of Dr. James Zou, with a primary focus on AI in biomedicine. Currently, he is also a research intern at Together AI, where he concentrates on multimodal models. Rahul's research interests lie in the development and application of multimodal models. He has experience working with sleep signal data and biomedical image, text, and video data."
+  recording: https://youtu.be/t2AX7SJjJyQ
+
+- speaker: No session for two weeks -- Fall break! 
+  type: upcoming
+  date: 8/26/2024 - 9/3/2024 
+
+
+
+
+
+  
   
 
 
