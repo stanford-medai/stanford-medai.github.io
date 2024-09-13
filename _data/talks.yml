@@ -1336,6 +1336,21 @@
   bio: "Mihir is a Ph.D. student at Arizona State University and a Research Associate at Mayo Clinic. His research has been published in top-tier NLP conferences such as ACL, EMNLP, NAACL, and EACL, where he received the "Outstanding Paper Award" at EACL 2023. His work focuses on pioneering instruction-tuning in the biomedical domain, analyzing the impact of various instructions on model performance, and exploring LLMs' capabilities in question decomposition, program synthesis, and reasoning. Additionally, he has industry experience as a research scientist intern at Adobe Research (Summer 2023) and the AI Innovation Lab at Novartis (Summer 2022)."
   recording: https://youtu.be/-9sHHTz8FNw
 
+- speaker: Shantanu Ghosh
+  institution: Boston University
+  type: upcoming
+  date: 9/16/2024
+  title: "Divide and Conquer: Carving Out Concept-based Models out of BlackBox for More Efficient Transfer Learning"
+  abstract: "Building generalizable AI models is one of the primary challenges in the healthcare domain. While radiologists rely on generalizable descriptive rules of abnormality, Neural Networks (NN), often treated as blackboxes, suffer even with a slight shift in input distribution (e.g., scanner type). Fine-tuning a model to transfer knowledge from one domain to another requires a significant amount of labeled data in the target domain. In this paper, we develop a concept-based interpretable model that can be efficiently fine-tuned to an unseen target domain with minimal computational cost. We assume the interpretable component of NN to be approximately domain-invariant. Concept-based model design either starts with an interpretable design or a post-hoc-based approach from a Blackbox. Blackbox models are flexible but difficult to explain, while interpretable by-design models are inherently explainable. Yet, interpretable models require extensive machine learning knowledge and tend to be less flexible, potentially underperforming their Blackbox equivalents. My research aims to blur the distinction between a post-hoc explanation of a Blackbox and constructing interpretable models. In the first part of the talk, beginning with a Blackbox, we iteratively carve out a mixture of concept-based interpretable models and a residual network. The interpretable models identify a subset of samples and explain them using First Order Logic (FOL), providing basic reasoning on concepts from the Blackbox. We route the remaining samples through a flexible residual. We repeat the method on the residual network until all the interpretable models explain the desired proportion of data. In the second part of my talk, I will discuss an algorithm to transfer the interpretable models from a source domain to an unseen target domain with minimum training data and computation cost."
+  bio: “Shantanu Ghosh is a PhD candidate in Electrical Engineering at Boston University, advised by Prof. Kayhan Batmanghelich. He completed his master's degree in Computer Science from the University of Florida under the supervision of Dr. Mattia Prosperi. His research interest lies in representation learning across computer vision and medical imaging, focusing on interpretability and explainable AI. Specifically, he investigates the representations learned across different modalities, architectures, and training strategies to enhance their generalizability, robustness, and trust.”
+  recording: 
+
+
+
+
+
+  
+
 
 
 
