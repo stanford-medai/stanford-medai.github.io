@@ -1377,6 +1377,18 @@
   bio: "Waqas Sultani is an Assistant Professor at Information Technology University (ITU) and a member of the Intelligent Machines Lab. His main areas of research are Computer Vision and Deep Learning  Waqas work has been published in respectable computer vision, machine learning, robotics, and remote sensing venues, such as CVPR, AAAI, ICRA, IJCV, MICCAI, ISPRS-JPRS, IEEE Trans. ITS, PAMI etc. He has been awarded the Google Research Scholar Award (2023), as a PI, for collecting a large-scale dataset for low-cost cancer detection. In 2019, he was awarded the Facebook Computer Vision for Global Challenge (CV4GC) research award for designing low-cost solutions for efficient malaria detection. He is a strong advocate of academia and industry collaborations and has recently spent one year with computer vision-based company HazenAI as a Principle Machine Learning Engineer.  Before joining ITU in 2017, Waqas Sultani obtained a doctorate from the University of Central Florida under Prof Mubarak Shah, an MS from Seoul National University under Prof Jin Young Choi and BSc from U.E.T. Taxila.  Currently, he is the head of the medical AI research group at ITU."
   recording: 
 
+- speaker: Qianqian Xie
+  institution: Yale University
+  type: upcoming
+  date: 10/28/2024
+  title: "Me-LLaMA: Medical Foundation Large Language Models for Comprehensive Text Analysis and Beyond"
+  abstract: "Recent advancements in large language models (LLMs) like ChatGPT and LLaMA have shown promise in medical applications, though their performance in medical language understanding still requires enhancement. In this talk, I will present our work Me-LLaMA, a suite of foundational medical LLMs by training open-source LLaMA models with large-scale, domain-specific datasets to enhance their efficacy across a variety of medical text analysis. Me-LLaMA utilized the largest and most comprehensive medical data, including 129B pre-training tokens and 214K instruction tuning samples from diverse biomedical and clinical data sources. Training the 70B models required substantial computational resources, exceeding 100,000 A100 GPU hours. We applied Me-LLaMA to six medical text analysis tasks and evaluated its performance on 12 benchmark datasets. Me-LLaMA models outperform LLaMA, and other existing open-source medical LLMs in both zero-shot and supervised learning settings for most text analysis tasks. With task-specific instruction tuning, Me-LLaMA models also surpass leading commercial LLMs, outperforming ChatGPT on 7 out of 8 datasets and GPT-4 on 5 out of 8 datasets. Me-LLaMA models are now publicly available through appropriate user agreements, making them a valuable resource for advancing medical AI applications."
+  bio: “Dr. Qianqian Xie is an Associate Research Scientist at the Department of Biomedical Informatics and Data Science, School of Medicine, Yale University. Her research interests are natural language processing and its application in medicine. She just received the National Institutes of Health (NIH), National Library of Medicine (NLM) ‘Pathway to Independence Award’ (K99/R00). She has co-authored more than 50 peer-reviewed publications. Her research has been published in leading conferences and journals, such as NeurIPS, ACL, KDD, SIGIR, EMNLP, NAACL, COLING, BioNLP, WWW, ICDM, TOIS, TKDE, IEEE JBHI, Bioinformatics, JBI, Nature Communications among others.”
+  recording: 
+
+
+  
+
 
 
 
