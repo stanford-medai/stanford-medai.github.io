@@ -1379,12 +1379,23 @@
 
 - speaker: Qianqian Xie
   institution: Yale University
-  type: upcoming
+  type: previous
   date: 10/28/2024
   title: "Me-LLaMA: Medical Foundation Large Language Models for Comprehensive Text Analysis and Beyond"
   abstract: "Recent advancements in large language models (LLMs) like ChatGPT and LLaMA have shown promise in medical applications, though their performance in medical language understanding still requires enhancement. In this talk, I will present our work Me-LLaMA, a suite of foundational medical LLMs by training open-source LLaMA models with large-scale, domain-specific datasets to enhance their efficacy across a variety of medical text analysis. Me-LLaMA utilized the largest and most comprehensive medical data, including 129B pre-training tokens and 214K instruction tuning samples from diverse biomedical and clinical data sources. Training the 70B models required substantial computational resources, exceeding 100,000 A100 GPU hours. We applied Me-LLaMA to six medical text analysis tasks and evaluated its performance on 12 benchmark datasets. Me-LLaMA models outperform LLaMA, and other existing open-source medical LLMs in both zero-shot and supervised learning settings for most text analysis tasks. With task-specific instruction tuning, Me-LLaMA models also surpass leading commercial LLMs, outperforming ChatGPT on 7 out of 8 datasets and GPT-4 on 5 out of 8 datasets. Me-LLaMA models are now publicly available through appropriate user agreements, making them a valuable resource for advancing medical AI applications."
   bio: "Dr. Qianqian Xie is an Associate Research Scientist at the Department of Biomedical Informatics and Data Science, School of Medicine, Yale University. Her research interests are natural language processing and its application in medicine. She just received the National Institutes of Health (NIH), National Library of Medicine (NLM) ‘Pathway to Independence Award’ (K99/R00). She has co-authored more than 50 peer-reviewed publications. Her research has been published in leading conferences and journals, such as NeurIPS, ACL, KDD, SIGIR, EMNLP, NAACL, COLING, BioNLP, WWW, ICDM, TOIS, TKDE, IEEE JBHI, Bioinformatics, JBI, Nature Communications among others."
+  recording: https://www.youtube.com/watch?v=V5FZBQMGSog
+
+- speaker: Yibo Wang
+  institution: University of Illinois, Chicago
+  type: upcoming
+  date: 11/4//2024
+  title: "Analyzing and Exposing Vulnerabilities in Language Models"
+  abstract: "Large Language Models (LLMs) have demonstrated impressive capabilities across various applications, yet they remain vulnerable to biases and adversarial attacks, compromising their trustworthiness. This presentation introduces two papers exploring these critical issues: robustness and fairness in LLMs. The first paper introduces a new adversarial attack method with lower detectability and better transferability to LLMs. While recent attacks achieve high success rates, the adversarial examples often deviate from the original data distribution, making them detectable. This paper proposes a Distribution-Aware Adversarial Attack method that considers distribution shifts to enhance attack effectiveness. Experiments validate the method’s efficacy and transferability to LLMs across multiple datasets and models. The second paper explores gender affiliations in text generation, where LLMs often infer gender from inputs without explicit gender information, reinforcing stereotypes. The paper systematically investigates, quantifies, and mitigates gender affiliations in LLMs."
+  bio: "Yibo Wang is a Ph.D. student in the Computer Science Department at University of Illinois Chicago, under the supervision of Professor Philip S. Yu. Her primary research areas include natural language processing and large language models, with a focus on trustworthy large language models, and code generation using large language models."
   recording: 
+
+  
 
 
   
