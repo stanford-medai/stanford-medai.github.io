@@ -1388,12 +1388,66 @@
 
 - speaker: Yibo Wang
   institution: University of Illinois, Chicago
-  type: upcoming
-  date: 11/4//2024
+  type: previous
+  date: 11/4/2024
   title: "Analyzing and Exposing Vulnerabilities in Language Models"
   abstract: "Large Language Models (LLMs) have demonstrated impressive capabilities across various applications, yet they remain vulnerable to biases and adversarial attacks, compromising their trustworthiness. This presentation introduces two papers exploring these critical issues: robustness and fairness in LLMs. The first paper introduces a new adversarial attack method with lower detectability and better transferability to LLMs. While recent attacks achieve high success rates, the adversarial examples often deviate from the original data distribution, making them detectable. This paper proposes a Distribution-Aware Adversarial Attack method that considers distribution shifts to enhance attack effectiveness. Experiments validate the method’s efficacy and transferability to LLMs across multiple datasets and models. The second paper explores gender affiliations in text generation, where LLMs often infer gender from inputs without explicit gender information, reinforcing stereotypes. The paper systematically investigates, quantifies, and mitigates gender affiliations in LLMs."
   bio: "Yibo Wang is a Ph.D. student in the Computer Science Department at University of Illinois Chicago, under the supervision of Professor Philip S. Yu. Her primary research areas include natural language processing and large language models, with a focus on trustworthy large language models, and code generation using large language models."
+  recording: https://youtu.be/1GUGLb--Cpk
+
+- speaker: No session until new year -- Winter break! 
+  type: previous
+  date: 11/11/2024-1/31/2025
+  
+
+- speaker: DongAo Ma
+  institution: Arizona State University
+  type: previous
+  date: 2/3/2025
+  title: "Foundation Ark+: Accruing and Reusing Knowledge for Superior and Robust Foundation Models"
+  abstract: "Deep learning nowadays offers expert-level and sometimes even super-expert-level performance, but achieving such performance usually demands massive annotated data for training. Numerous datasets are publicly available in medical imaging but individually small and heterogeneous in expert labels. We envision a powerful and robust foundation model that can be trained by aggregating numerous small public datasets. To realize this vision, we have developed Ark+, a framework that accrues and reuses knowledge from heterogeneous expert annotations in various datasets. As a proof of concept, we have pretrained a group of Ark+ models on large-scale chest X-rays (CXRs) from several datasets. Our Ark+ foundation model for CXRs excels in diagnosing thoracic diseases, expanding diagnostic scope, addressing potential over-diagnosis, adapting to rare conditions and new diagnostic settings, tolerating data biases and long-tailed distributions, and supporting federated learning to preserve privacy. With all codes and pretrained models released, Ark+ is open for fine-tuning, ready for local adaptation, public for improvement, and extensible to multiple modalities, thus serving as a model foundational to medical imaging. Ark+’s exceptional capabilities stem from our insight: aggregating various datasets diversifies patient populations and accrues knowledge from many experts, yielding unprecedented performance while reducing annotation costs. Ark+ further reveals that open models trained by accruing and reusing knowledge from heterogeneous expert annotations with a multitude of public (big or small) datasets can surpass the performance of proprietary models trained on large data. We hope our findings inspire more researchers to share codes and datasets or federate privacy-preserving data to create open foundation models with diverse, global expertise and patient populations, accelerating open science and democratizing AI for medicine."
+  bio: "DongAo Ma is a Ph.D. student in Computer Science at the School of Computing and Augmented Intelligence (SCAI), Arizona State University (ASU). He earned his Master of Science in Signal and Information Processing from the University of Chinese Academy of Sciences. DongAo's research focuses on developing open foundation models using heterogeneous datasets for medical imaging, advancing innovation in healthcare technologies. His work has been widely recognized, including the ASU President’s Award for Innovation in 2024 and both the MICCAI Best Paper Award Runner-Up and MICCAI STAR Award in 2023.  In addition to seven U.S. patents pending, DongAo has published eight peer-reviewed journal/conference articles. He actively contributes to the academic community as a reviewer for leading organizations and conferences, including the IEEE Geoscience and Remote Sensing Society, IEEE Engineering in Medicine and Biology Society, Medical Imaging with Deep Learning (MIDL), and the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)."
   recording: 
+
+
+- speaker: Hairong Wang
+  institution: Georgia Institute of Technology
+  type: previous
+  date: 2/10/2025
+  title: "Advancing Precision Medicine: Knowledge-Informed Methods with Data Efficiency"
+  abstract: "In recent decades, machine learning (ML) has emerged as a promising tool for analyzing complex patterns from large datasets. The computational power and versatility of ML has enabled in-depth analysis of medical imaging, clinical, and molecular data, significantly enhancing diagnosis, prognosis, and treatment planning in healthcare. However, an intrinsic bottleneck exists in healthcare data acquisition, limited by the invasiveness or high expense of sample collection, the need for highly-specialized experts to create accurate labels, the rarity of some diseases in the population, and the difficulty in patient recruitment. In this talk, I will discuss my recent development on enhancing data efficiency in the context of precision medicine (PM). Motivated by the practical limitations, we developed knowledge-informed, data efficient algorithms to address the challenges of labeled sample size and implicit hierarchical knowledge integration, aiming for practical solutions in PM. These works have been applied in real-world contexts in collaboration with Columbia University Medical Center and Mayo Clinic, demonstrating considerable potential in boosting the accuracy, robustness, and interpretability of model outcomes."
+  bio: "Hairong Wang is a final-year PhD candidate at School of Industrial and Systems Engineering at Georgia Institute of Technology. Her research mainly focuses on developing knowledge-informed, data and computational efficient machine learning models and algorithms, and pursuing their practical applications in addressing high-stake clinical challenges. Her research has been recognized with several awards, including the 2024 Georgia Tech Wally George Fellowship, first place in the 2024 IISE DAIS Student Data Analytics Competition, the 2023 INFORMS DMDA Workshop Student Paper Award, the 2023 Georgia Tech George Fellowship, and the 2022 Georgia Healthcare Information and Management Systems Society David Cowan Scholarship. Prior to joining Georgia Tech, she obtained her bachelor’s degree in mathematics from University of Oxford."
+  recording: https://youtu.be/HnIj-mpP4aI
+
+
+- speaker: No session this week -- speaker cancellation! 
+  type: previous
+  date: 2/17/2025
+
+- speaker: Ashwin Kumar
+  institution: Stanford University
+  type: previous
+  date: 2/24/2025
+  title: "Merlin: A Vision Language Foundation Model for 3D Computed Tomography"
+  abstract: "Over 85 million computed tomography (CT) scans are performed annually in the US, of which approximately one quarter focus on the abdomen. Given the current shortage of both general and specialized radiologists, there is a large impetus to use artificial intelligence to alleviate the burden of interpreting these complex imaging studies while simultaneously using the images to extract novel physiological insights. Prior state-of-the-art approaches for automated medical image interpretation leverage vision language models (VLMs) that utilize both the image and the corresponding textual radiology reports. However, current medical VLMs are generally limited to 2D images and short reports. To overcome these shortcomings for abdominal CT interpretation, we introduce Merlin - a 3D VLM that leverages both structured electronic health records (EHR) and unstructured radiology reports for pretraining without requiring additional manual annotations. We train Merlin using a high-quality clinical dataset of paired CT scans (6+ million images from 15,331 CTs), EHR diagnosis codes (1.8+ million codes), and radiology reports (6+ million tokens) for training. We comprehensively evaluate Merlin on 6 task types and 752 individual tasks, covering a variety of diagnostic, prognostic, and quality-related tasks. The non-adapted (off-the-shelf) tasks include zero-shot findings classification (31 findings), phenotype classification (692 phenotypes), and zero-shot cross-modal retrieval (image to findings and image to impressions), while model adapted tasks include 5-year chronic disease prediction (6 diseases), radiology report generation, and 3D semantic segmentation (20 organs). We perform internal validation on a test set of 5,137 CTs, and external validation on 7,000 clinical CTs and on two public CT datasets (VerSe, TotalSegmentator). Beyond these clinically-relevant evaluations, we assess the efficacy of various network architectures and training strategies to depict that Merlin has favorable performance to existing task-specific baselines. We derive data scaling laws to empirically assess training data needs for requisite downstream task performance. Furthermore, unlike conventional VLMs that require hundreds of GPUs for training, we perform all training on a single GPU. Our resource-friendly approach can help health systems train their own foundation models with modest computational resources."
+  bio: "Ashwin Kumar is a third-year PhD Candidate in Biomedical Physics at Stanford University, advised by Akshay Chaudhari and Greg Zaharchuk. He focuses on developing deep learning methodologies to advance medical image acquisition and analysis. Ashwin has received numerous awards including the Goldwater Scholarship, Tau Beta Pi Fellowship, and Stanford Knight-Hennessy fellowship."
+  recording: https://youtu.be/XWmCkbpXOUw
+
+
+- speaker: No session this week -- Spring break! 
+  type: previous
+  date: 3/3/2025
+
+
+- speaker: Zheyuan Zhang
+  institution: Northwestern University
+  type: upcoming
+  date: 3/10/2025
+  title: "Towards Robust Medical Image Analysis"
+  abstract: "Most statistical learning algorithms in medical image analysis rely on an over-simplified assumption, that is, the train and test data are independent and identically distributed. However, in real-world scenarios, it is common for models to encounter data from new and different centers to which they were not exposed during training. This is often the case in medical imaging applications due to differences in acquisition devices, imaging protocols, and patient characteristics. In this work, (i) We collect the first large dataset of T1-weighted and T2-weighted abdominal MRI series from five centers between March 2004 and November 2022 to investigate this robustness challenge. We develop a new pancreas segmentation method, PanSegNet, combining the strengths of nnUNet and a Transformer network with a new linear attention module enabling volumetric computation. (ii) We propose one domain generalization (DG) as a promising direction as it enables models to handle data from previously unseen domains by learning domain-invariant features robust to variations across different domains via adversarial intensity attacking. (iii) To further enhance the segmentation model's robustness, we propose a novel approach to address this challenge by developing controllable diffusion models for medical image synthesis and validating this model's performance on various medical datasets. (iv) Finally, we construct a semi-supervised algorithm to take advantage of the unlabeled medical segmentation data into large-scale medical image segmentation training and show that recent advancements in large models can provide promising solutions to generate robust models against real-world clinical challenges."
+  bio: "Zheyuan Zhang earned his bachelor's degree from Tsinghua University in 2018. During the summer of 2017, he participated in a research internship at Johns Hopkins University. From 2018 to 2025, he pursued a Ph.D. in Biomedical Engineering at Northwestern University, focusing on robust medical image analysis using deep learning methods."
+  recording: 
+  
 
   
 
