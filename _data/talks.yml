@@ -1566,13 +1566,13 @@
   recording: https://youtu.be/Fc5JbK6VRhg  
 
 - speaker: Gregory Holste
-  institution: "TORTUS AI"
+  institution: "University of Texas, Austin"
   type: upcoming
   date: 8/18/2025
   title: "PanEcho: Toward Complete AI-Enabled Echocardiography Interpretation"
   abstract: "Echocardiography is the most widely used cardiac imaging modality but relies on manual interpretation of complex ultrasound videos by specialized experts. Given the ongoing shortage of cardiologists, this expertise is a scarce resource restricting access to cardiovascular care. Artificial intelligence (AI) now has the potential to automate echocardiogram interpretation, expanding the reach of cardiovascular care and accelerating workflows so that cardiologists can spend more time caring for patients. In this talk, I will trace the evolution of AI-enabled echocardiography interpretation from specialized, single-task models to comprehensive automated systems through my own PhD research. This talk will begin with foundational work on self-supervised learning and aortic stenosis detection from a single view of the heart, then culminate with PanEcho, an end-to-end system for multi-view echocardiogram interpretation that mirrors a real-world clinical workflow. I will conclude by discussing what is needed to translate these innovations into clinical practice and how these advances can democratize access to cardiovascular healthcare worldwide."
   bio: "Gregory Holste is a PhD Candidate in Electrical and Computer Engineering at The University of Texas at Austin, an NSF Graduate Research Fellow, and a UT Austin Tolbert Endowed Scholar. His research bridges artificial intelligence (AI) and healthcare, developing deep learning methods to solve clinical decision-making and medical image analysis problems. Greg collaborates with clinicians to develop AI systems that assist—rather than replace—physicians by helping them interpret medical images more quickly and accurately. His research has been published in journals such as JAMA, JAMA Cardiology, Nature Communications, Transactions on Medical Imaging, and Medical Image Analysis and presented at top conferences including CVPR, ICML, ICCV, and MICCAI."
-  recording: 
+  recording: https://youtu.be/aeU7i0owWY0
 
   
 
