@@ -1567,12 +1567,22 @@
 
 - speaker: Gregory Holste
   institution: "University of Texas, Austin"
-  type: upcoming
+  type: previous
   date: 8/18/2025
   title: "PanEcho: Toward Complete AI-Enabled Echocardiography Interpretation"
   abstract: "Echocardiography is the most widely used cardiac imaging modality but relies on manual interpretation of complex ultrasound videos by specialized experts. Given the ongoing shortage of cardiologists, this expertise is a scarce resource restricting access to cardiovascular care. Artificial intelligence (AI) now has the potential to automate echocardiogram interpretation, expanding the reach of cardiovascular care and accelerating workflows so that cardiologists can spend more time caring for patients. In this talk, I will trace the evolution of AI-enabled echocardiography interpretation from specialized, single-task models to comprehensive automated systems through my own PhD research. This talk will begin with foundational work on self-supervised learning and aortic stenosis detection from a single view of the heart, then culminate with PanEcho, an end-to-end system for multi-view echocardiogram interpretation that mirrors a real-world clinical workflow. I will conclude by discussing what is needed to translate these innovations into clinical practice and how these advances can democratize access to cardiovascular healthcare worldwide."
   bio: "Gregory Holste is a PhD Candidate in Electrical and Computer Engineering at The University of Texas at Austin, an NSF Graduate Research Fellow, and a UT Austin Tolbert Endowed Scholar. His research bridges artificial intelligence (AI) and healthcare, developing deep learning methods to solve clinical decision-making and medical image analysis problems. Greg collaborates with clinicians to develop AI systems that assist—rather than replace—physicians by helping them interpret medical images more quickly and accurately. His research has been published in journals such as JAMA, JAMA Cardiology, Nature Communications, Transactions on Medical Imaging, and Medical Image Analysis and presented at top conferences including CVPR, ICML, ICCV, and MICCAI."
   recording: https://youtu.be/aeU7i0owWY0
+
+- speaker: David Le
+  institution: "Mayo Clinic"
+  type: upcoming
+  date: 9/8/2025
+  title: "Opportunistic Screening for Pancreatic Cancer – Multimodal AI Fusion of CT Imaging and Radiology Reports"
+  abstract: "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with most cases diagnosed at advanced stages and limited treatment options. Early detection is critical but remains elusive due to subtle imaging signatures and a lack of reliable biomarkers. In this talk, I will present our work on opportunistic screening using routinely acquired CT imaging and corresponding radiology reports from patients prior to PDAC diagnosis. We developed a multimodal survival model that integrates quantitative radiomics features with contextual information from clinical narratives using deep language embeddings. By fusing text and imaging data, our model achieved improved prognostic accuracy and risk stratification across internal and external cohorts compared to single-modality baselines. These findings highlight the potential of multimodal AI to identify high-risk individuals earlier, guide clinical decision-making, and advance precision medicine in pancreatic cancer care."
+  bio: "Dr. David Le is a Postdoctoral Fellow at the Mayo Clinic in Phoenix, Arizona. His research bridges medical imaging, artificial intelligence (AI), and clinical translation, with a focus on developing digital biomarkers and survival models for early detection and prognosis. His work spans pancreatic cancer imaging and ophthalmic applications, integrating deep learning, radiomics, and vision–language models. By combining quantitative imaging with AI-driven risk modeling, he aims to improve patient stratification, enable earlier interventions, and advance precision medicine."
+  recording: 
+  
 
   
 
