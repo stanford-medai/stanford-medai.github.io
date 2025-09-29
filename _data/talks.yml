@@ -1576,12 +1576,32 @@
 
 - speaker: David Le
   institution: "Mayo Clinic"
-  type: upcoming
+  type: previous
   date: 9/8/2025
   title: "Opportunistic Screening for Pancreatic Cancer – Multimodal AI Fusion of CT Imaging and Radiology Reports"
   abstract: "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with most cases diagnosed at advanced stages and limited treatment options. Early detection is critical but remains elusive due to subtle imaging signatures and a lack of reliable biomarkers. In this talk, I will present our work on opportunistic screening using routinely acquired CT imaging and corresponding radiology reports from patients prior to PDAC diagnosis. We developed a multimodal survival model that integrates quantitative radiomics features with contextual information from clinical narratives using deep language embeddings. By fusing text and imaging data, our model achieved improved prognostic accuracy and risk stratification across internal and external cohorts compared to single-modality baselines. These findings highlight the potential of multimodal AI to identify high-risk individuals earlier, guide clinical decision-making, and advance precision medicine in pancreatic cancer care."
   bio: "Dr. David Le is a Postdoctoral Fellow at the Mayo Clinic in Phoenix, Arizona. His research bridges medical imaging, artificial intelligence (AI), and clinical translation, with a focus on developing digital biomarkers and survival models for early detection and prognosis. His work spans pancreatic cancer imaging and ophthalmic applications, integrating deep learning, radiomics, and vision–language models. By combining quantitative imaging with AI-driven risk modeling, he aims to improve patient stratification, enable earlier interventions, and advance precision medicine."
-  recording: 
+  recording: https://youtu.be/r9IFf5Yryyo
+
+- speaker: David Barrett
+  institution: "Google DeepMind"
+  type: previous
+  date: 9/15/2025
+  title: "Collaboration between clinicians and vision–language models in radiology report generation"
+  abstract: "Radiology plays an integral and increasingly important role in modern medicine, by informing diagnosis, treatment and management of patients using medical imaging and radiology reports. However, the current global shortage of radiologists restricts access to expert care and causes heavy workloads for radiologists, resulting in undesirable delays and errors in clinical decisions. Recent advances in vision–language models have allowed us to address this challenge, by fine-tuning a specialist language model for radiology that can generate xray reports that are equivalent, or preferred to radiologist-written reports in normal outpatient settings, as rated by a panel of radiologists. For reports that contain errors, we develop an assistive setting that enables clinicians and AI to collaborate together to write radiology reports - indicating new possibilities for potential clinical utility."
+  bio: "David Barrett is a staff research scientist at Google DeepMind in Dublin working on biomedical applications of AI. His academic background is in Theoretical Physics, with an undergraduate degree from Trinity College Dublin and a PhD in Machine Learning and Computational Neuroscience from the Gatsby Unit at University College London. He held research positions at the École Normale Supérieure and Cambridge University before joining Google DeepMind in 2016. His work focuses on biomedical applications of AI in domains such as radiology, dermatology, clinical documentation reasoning, clinician-AI collaboration, AI diagnostic dialogue, cell-signalling and gene-regulatory networks."
+  recording: https://youtu.be/BH46Lx1QucY
+
+- speaker: Trong Thang Pham
+  institution: "University of Arkansas"
+  type: upcoming
+  date: 9/29/2025
+  title: "CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling"
+  abstract: "Understanding radiologists' eye movement during Computed Tomography (CT) reading is crucial for developing effective interpretable computer-aided diagnosis systems. However, CT research in this area has been limited by the lack of publicly available eye-tracking datasets and the three-dimensional complexity of CT volumes. To address these challenges, we present the first publicly available eye gaze dataset on CT, called CT-ScanGaze. Then, we introduce CT-Searcher, a novel 3D scanpath predictor designed specifically to process CT volumes and generate radiologist-like 3D fixation sequences, overcoming the limitations of current scanpath predictors that only handle 2D inputs. Since deep learning models benefit from a pretraining step, we develop a pipeline that converts existing 2D gaze datasets into 3D gaze data to pretrain CT-Searcher. Through both qualitative and quantitative evaluations on CT-ScanGaze, we demonstrate the effectiveness of our approach and provide a comprehensive assessment framework for 3D scanpath prediction in medical imaging."
+  bio: "Trong Thang Pham is a PhD candidate at the University of Arkansas, Fayetteville, working under the supervision of Dr. Ngan Le. His research focuses on the intersection of expert behavior analysis and deep learning, specifically applying human eye gaze analysis to transform and enhance deep learning models. Prior to his PhD, he was an R&D researcher at AIOZ Singapore, where he developed digital twin technologies, including talking face generation and 3D human models for metaverse applications. His work has resulted in strong publications across premier venues, including top-tier conferences such as CVPR, ICCV, ACM MM, WACV, and ICRA."
+  recording: https://youtu.be/RDIuQFV6VIU
+  
+  
   
 
   
